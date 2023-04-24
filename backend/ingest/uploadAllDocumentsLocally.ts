@@ -18,8 +18,11 @@ const uploadAllDocumentsLocally = async (
       );
       const vectorStore = await HNSWLib.fromDocuments(
         documents,
-        new OpenAIEmbeddings()
+        new OpenAIEmbeddings({
+          openAIApiKey: "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", // In Node.js defaults to process.env.OPENAI_API_KEY
+        })
       );
+      console.log("test2")
       // works even if the current folder does not exists :)
       const directory = `./data/vectorestore-files/${currentNamespace}`;
       // overwrites old store, so idempotent YAY!
