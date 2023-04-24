@@ -105,7 +105,7 @@ export const loadTextAndWriteToJSON = async () => {
           removeFileExtension(metadata.filename) + "_" + ind.toString();
         return {
           pageContent: pageContentChunk.trim(),
-          metadata: { ...metadata, id },
+          metadata: { ...metadata, id, namespace },
         };
       });
     });

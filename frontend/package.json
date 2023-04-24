@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "initialize": "export MY_URL=\"\" && touch .env && echo \"VITE_BASE_URL=$MY_URL\" > .env ",
-    "dev:initialize": "export MY_URL=\"http://localhost:3000\" && touch .env && echo \"VITE_BASE_URL=$MY_URL\" > .env ",
+    "initialize": "set MY_URL=\"\" && touch .env && echo \"VITE_BASE_URL=$MY_URL\" > .env ",
+    "dev:initialize": "set MY_URL=\"http://localhost:3000\" && touch .env && echo \"VITE_BASE_URL=$MY_URL\" > .env ",
     "dev": "npm run dev:initialize && vite",
     "build": "npm run initialize && tsc && touch .env && vite build",
     "preview": "vite preview"
