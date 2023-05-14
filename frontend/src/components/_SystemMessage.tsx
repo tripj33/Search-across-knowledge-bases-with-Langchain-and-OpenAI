@@ -1,4 +1,11 @@
-const SystemMessage = ({ message }: { message: string }) => {
+import React from 'react';
+
+type Props = {
+  message: string;
+  formatMessage: (message: string) => React.ReactNode;
+};
+
+const SystemMessage: React.FC<Props> = ({ message, formatMessage }) => {
   return (
     <li className="flex justify-center">
       <div className="relative max-w-xl rounded-full px-4 py-2 my-2 bg-gray-800 text-zinc-200 text-xs italic">

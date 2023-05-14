@@ -1,0 +1,1497 @@
+For additional ancillary materials related to this chapter, please visit the point.
+Abstract
+Learning Objectives
+Historical Perspectives on Quality
+New Era of Data Analytics
+Data and Information
+Design and Management
+Quality Measurement
+Risk Adjustment
+Evidence-Based Practice
+Epidemiological Principles
+Population Health
+Information Systems
+Administrative Support Information Systems
+Management Information Systems
+Clinical Information Systems
+Decision Support Systems
+Registries
+Patient Data
+Authorized Release of Information
+Medical Peer Review
+Study Design
+Data Types
+Statistical Power
+Sampling Design
+Types of Sampling
+Sample Size
+Variation
+Trends
+Comparison Groups
+Measurement Tools
+Reliability
+Validity
+Statistical Techniques
+Measures of Central Tendency
+Measures of Variability
+Statistical Tests
+Methods and Tools
+Activity Network Diagram
+Stratification Chart
+Histogram or Bar Chart
+p. 199
+p. 200
+Pie Chart
+Pareto Diagram/Pareto Chart
+Cause-and-Effect, Ishikawa, or Fishbone Diagram
+Scatter Diagram or Plot
+Run or Trend Chart
+Statistical Process Control
+Types of Variation
+Data-Driven Decision-Making
+Displaying Data
+Balanced Scorecards
+Dashboards
+Benchmarking
+Reporting
+Section Summary
+References
+Suggested Readings
+Online Resources
+Abstract
+Data analytics is a major component of quality improvement across the continuum of healthcare delivery. Organizations are investing heavily in building the infrastructure to enhance capabilities to analyze and report valid and reliable quality, safety, and performance data. The impetus for change came from external and internal pressures (e.g., demonstrating value and delivering optimal care). This section describes the foundational steps to plan and deploy a data management system to support the quality improvement (QI) program, measure identification, measurement selection, sampling, balanced scorecards, dashboards, incorporating external data sources, identifying appropriate benchmarks, data collection, and data validation. Information is provided on the characteristics of data management systems, tools to display data, the application of statistical analysis, and how to interpret and compare data. How to interpret data is fundamental to the success of the organization. Finally, the principles presented throughout the section are applicable to reporting and setting goals to improve performance.
+Learning Objectives
+1.Acquire knowledge about the historical progression of science and data analytics used for quality and performance improvement in healthcare.
+2.Develop an understanding of activities required for the data collection design and data management (e.g., activities, records, reports, and committee meetings).
+3.Recognize tools and approaches useful in designing and constructing quality and performance improvement activities (e.g., principles of qualitative and quantitative data collection).
+4.Apply process analysis tools, basic statistical techniques and methods for statistical process control (e.g., sampling, measures, dashboard).
+5.Interpret data to support decision-making and promote change to advance quality and performance excellence in healthcare.
+Historical Perspectives on Quality
+The need for quality has always existed. However, the means for meeting that need—the processes of managing and improving for quality—have undergone extensive and continuing change.1 Before the 20th century, managing quality was based on ancient principles that included product inspection by consumers, which is still widely used in today’s villages, and marketplaces concept, with which buyers rely on the skill and reputation of trained, experienced craftsmanship.
+As commerce expanded beyond village boundaries and with the growth of technology, additional methods and tools were invented to assist in managing for quality such as specifications by sample and quality warranties in sales contracts. In large towns, the craftsmen organized into monopolistic guilds, which generally were strict in their enforcement of product quality. Their strategies included mandated specifications for input materials, processes, and finished goods; audits of the performance of guild members; and export controls on finished goods.
+The early approach to managing for quality in the United States followed the prevailing practice in European countries that had colonized the North American continent. Apprentices learned a trade, qualified to become craftsmen, and in due course might become masters of their own shops. The Industrial Revolution, which originated in Europe, created the factory system. The factory out-produced the small independent shops and made them largely obsolete. The craftsmen became factory workers, and the masters became factory foremen. Quality was managed as before, through the skills of the craftsmen, and supplemented by departmental inspection or supervisory audits.
+When the Industrial Revolution spread to the United States, Americans again followed European practice. The Industrial Revolution also accelerated the growth of additional strategies, including written specifications for materials, processes, finished goods, and tests; measurement and the associated measuring instruments and testing laboratories; and standardization in many forms.
+p. 200
+p. 201
+During World War II, U.S. industry was faced with the added burden of producing enormous quantities of military products. A part of the war strategy was to shut down production of many civilian products such as automobiles, household appliances, and entertainment products. A massive shortage of goods developed amid a huge buildup of purchasing power. It took the rest of that decade (the 1940s) for supply to catch up with demand. In the interim, manufacturing companies gave top priority to meeting delivery dates, so quality of products suffered. The practice of giving top priority to delivery dates persisted long after the shortages ended.
+A new strategy emerged during World War II—statistical quality control (SQC). To improve the quality of military goods, the War Production Board sponsored numerous training courses on the statistical techniques developed by the Bell System during the 1920s. W. E. Deming,2 who became widely known in quality improvement during the 1980s, was one of the lecturers at some of the War Production Board courses. Many training course attendees became enthusiastic and organized the American Society for Quality Control (now known as American Society for Quality [ASQ]). In its early years ASQ was strongly oriented toward SQC, thereby stimulating further enthusiasm for the method.
+After World War II, the Japanese embarked on a course of reaching national goals through trade rather than military means. The major manufacturers, which had been extensively involved in military production, were faced with converting to civilian products. A major obstacle to selling these products in international markets was a reputation for shoddy merchandise, created by the export of poor-quality goods before World War II.
+To solve their quality problems, the Japanese learned how other countries managed for quality, sending teams abroad to visit foreign companies and study their approaches. They also invited foreign lecturers to Japan to conduct training courses for managers. As the result of this educational process, the Japanese devised unprecedented strategies to create a revolution in quality. Several of those strategies proved crucial:
+•Upper managers personally took charge of leading the revolution.
+•All levels and functions underwent training in managing for quality.
+•QI was undertaken at a continuing, revolutionary pace.
+•Quality circle (QC) involved employee participation in decision-making and problem solving to improve the quality of work.
+During the early postwar period, American companies logically considered competition from the Japanese to be based on price rather than quality. Their response was to shift the manufacturing of labor-intensive products to low-labor-cost areas, often offshore. As time went on, price competition declined while quality competition increased.3 During the 1960s and 1970s, numerous Japanese manufacturers greatly increased their share of the American market; a major reason was the superior quality of their products. Numerous industries were affected (e.g., consumer electronics, automobiles, steel, and machine tools).
+U.S. companies generally failed to notice the trend, continuing to believe that competition from the Japanese primarily was price-based rather than quality-based. Some observers sounded warning signals: “The Japanese are headed for world quality leadership and will attain it in the next two decades because no one else is moving there at the same pace.”4 The alarm was sounded at the conference of the European Organization for Quality Control in Stockholm in June 1966.
+The most obvious effect of the Japanese quality revolution was the massive export of goods. The impact on the United States was considerable, especially in sensitive areas such as manufacturing, steel, and electronics. The affected manufacturing companies were damaged by the resulting loss of sales. The workforce and their unions were damaged by the resulting “export of jobs.” The national economy was damaged by the resulting unfavorable trade balance.
+In healthcare, the major drivers for data analytics and information systems were Medicare and Medicaid in the 1960s. Communication between departments and the need for discrete departmental systems were drivers in the 1970s. The 1980s drivers were diagnosis-related groups (DRGs) and reimbursement. Integration due to mergers and consolidation was the major driver of analytics in the 1990s; and in the 2000s, a focus on value and outcomes-based reimbursement are major drivers for health data analytics and information systems.5
+New Era of Data Analytics
+The use of data in healthcare delivery, monitoring, and improvement is rapidly evolving. Davenport6 championed the concept that if organizations were going to succeed, they needed to compete on analytics. This meant exploring Big Data with a recent emphasis on population health and value-based care. The strategy would use all the data captured by the organization’s disparate systems (e.g., medical records, human resources, finance, imaging) to support improvements in staffing, customer relationships, financial performance, services provided, product development and managing the supply chain. Further, Davenport proposed that being successful would require an executive commitment to recognizing the importance of analytics capabilities, sophisticated information systems, and employing people with analytical skills. Big Data has three main characteristics and some added a fourth (veracity):
+1.Volume: The physical size of the data and number of records are dramatically higher than what is typically managed on a traditional data system.
+p. 201
+p. 202
+2.Velocity: Data are received in near or real time or as a continuous stream and should be made available to inform decisions as quickly as possible (predictive, prescriptive analytics).
+3.Variety: Data include structured records, unstructured text, images (medical imaging), audio, video, and biomedical sensor traces.
+4.Veracity: The vast amounts of structured and unstructured data come from sources that may be uncertain or imprecise.7(p1),8
+By 2013, McKinsey & Company reported that the Big Data revolution was substantially under way in healthcare.9 Several major health systems were using data to deliver better care, provide increased value, and innovate. Today almost every segment of the healthcare industry invests in Big Data. The scale of the investment varies depending on how much the organizations can afford to allocate to expand their analytic capabilities but they recognize that “competing on analytics” is necessary to survive in the current healthcare environment. This becomes particularly evident with the shift to population health and value-based care.
+With the proliferation of electronic health records (EHRs) and health information exchanges (HIEs), large data sets are now available to healthcare professionals and health services researchers. The National Institutes of Health define biomedical Big Data as the “complexity, challenges and new opportunities presented by the combined analysis of data. In biomedical research, these data sources include the diverse, complex, disorganized, massive, and multimodal data being generated by researchers, hospitals, and mobile devices around the world.”10(1) Their Big Data to Knowledge or “BD2K” initiative acknowledges that there is a lack of appropriate tools, poor data accessibility, and insufficient training about Big Data in healthcare, which impedes rapid translation of data into useful information at the service level.11 The BD2K initiative has four aims to assist healthcare professionals in using Big Data:
+1.Facilitate broad use of biomedical digital assets by making them Findable, Accessible, Interoperable, and Reusable (FAIR).
+2.Conduct research and develop the methods, software, and tools needed to analyze biomedical Big Data.
+3.Enhance training in the development and use of methods and tools necessary for biomedical Big Data science.
+4.Support a data ecosystem that accelerates discovery as part of a digital enterprise.11(3)
+By utilizing Big Data, infrastructure organizations can monitor populations (e.g., people with diabetes and asthma) to determine if the right care is being provided and assess health outcomes. Further, it is possible to drill down to specific providers and benchmark their performance. Hospitals that manage clinical bundles can use the data to evaluate the care delivered prior to discharge and to assess which post-acute providers deliver the best outcomes at the lowest cost. For example, a hospital could look at 30-, 60-, 90-day readmission rates for heart failure patients with care transitions to skilled nursing facilities (SNFs), home healthcare, or home with no services. Choosing the organizations to partner with in the future might rely on performance.
+With a focus on data comes the need to accelerate the adoption of health IT. Technology is widely recognized and was singled out as a key goal by the Health Care Delivery and Information Technology (HCDIT) Subcommittee of the President’s Information Technology Advisory Committee.12 Studies suggest that the quality of healthcare can improve with the appropriate use of technology.13,14 These studies specifically highlight the need to facilitate the transmission of clinical information contained in the medical record between healthcare providers. A second goal identified by the HCDIT subcommittee is use of health IT to achieve substantial economic and social benefits (such as reducing medical errors, eliminating unproductive healthcare expenditures, and improving quality of care). As cited above, most hospitals adopted EHRs. In ambulatory care, only 54% had adopted a basic EHR and 78% of office-based physicians reported using an EHR.15
+A lack of standards hindered the adoption of IT tools in the healthcare industry.13 The National Committee on Vital and Health Statistics (NCVHS) began to standardize formats and data for the electronic exchange of patient health record information in 2002,16 which progressed to the Healthcare Information and Management Systems Society (HIMSS) developing a set of principles to support IT interoperability in the United States.17 In addition, other organizations and task forces continue to work on international protocols and frameworks for data exchanges between heterogeneous systems in the healthcare industry. The industry Health Level 7 (HL7), the Systemized Nomenclature of Medicine (SNOMED), and Extensible Markup Language (XML) special interest groups were leaders in defining EHR standards. As these standards evolved, more comprehensive EHRs were developed and shared among all the providers in the healthcare system. EHRs sometimes are referred to as personal health records (PHRs). There is a distinction between the two types of records: PHRs are geared more toward consumers and EHRs pertain to records used and held by healthcare providers.
+Federal support increased since the 2004 announcement of the U.S. Department of Health & Human Services 10-year plan to create a new national health information infrastructure that will include an EHR for every American and a new network to link health records nationwide. Health IT and interoperable systems are requisites for healthcare delivery in the 21st century. Health IT potentially includes products such as EHRs, patient engagement tools such as PHRs and
+p. 202
+p. 203
+secure, private Internet portals, and HIEs. An IOM report18 that examined the state of the art in system safety and opportunities to build safer systems concluded as follows:
+•Safety is an emergent property of a larger system that considers not just the software but also how it is used by clinicians.
+•The “sociotechnical system” includes technology (software, hardware), people (clinicians, patients), processes (workflow), organization (capacity, decisions about how health IT is applied, incentives), and the external environment (regulations, public opinion).
+•Safer implementation and use of health IT is a complex, dynamic process that requires a shared responsibility between vendors and healthcare organizations.
+•Poor user-interface design, poor workflow, and complex data interfaces threaten patient safety.
+•Lack of system interoperability is a barrier to improving clinical decisions and patient safety.
+•Constant, ongoing commitment to safety—from acquisition to implementation and maintenance—is needed to achieve safer, more effective care.18(ppS2–S4)
+The Health Information Technology for Economic and Clinical Health Act (HITECH Act) was enacted under Title XIII of the American Recovery and Reinvestment Act of 2009 (Pub.L. 111–5). Under the HITECH Act, the U.S. Department of Health & Human Services authorized spending $25.9 billion to promote and expand the adoption of health IT. The HITECH Act also established meaningful use of interoperable EHR adoption in the healthcare system as a critical national goal and incentivized EHR adoption.
+Title IV of the Act included incentive payments ($63,750) for Medicaid providers who would adopt and use “certified EHRs” over 6 years beginning in 2011 Eligible professionals had to begin receiving payments by 2016 to qualify for the program. For Medicare, the maximum payments were set at $44,000 over 5 years. To receive the EHR stimulus money, the HITECH Act required providers to show “meaningful use” of an EHR system. Meaningful use is defined as using certified EHR technology to
+•improve quality, safety, and efficiency; reduce health disparities;
+•engage patients and family;
+•improve care coordination, and population and public health; and
+•maintain privacy and security of patient health information.19
+Meaningful use compliance results include better clinical outcomes, improved population health outcomes, increased transparency and efficiency, empowered consumers, and more robust research data on health systems. Meaningful use sets specific objectives that eligible professionals and hospitals must achieve to qualify for the financial incentive programs. These objectives are defined as the “Stages of Meaningful Use.”
+•Stage 1 (2011 to 2012)—Data capture and sharing;
+•Stage 2 (2014)—Advance clinical processes;
+•Stage 3 (2016)—Improved outcomes.
+The impact of the federal initiatives that supplied the stimulus funding and the requirements for meaningful use benefit the use of data for quality, safety, and performance improvement efforts. Certified EHRs can potentially be a rich source of standardized and structure information that can be used by quality, safety, and performance improvement teams to measure the impact of improvement activities and assess patient clinical outcomes.
+Data and Information
+Healthcare professionals are constantly challenged to sift and interpret the vast amount of data available and then distinguish what is relevant, meaningful, and important to plan a course of action. Nutley and Reynolds20 described eight activities to encourage and improve the use of health data to strengthen health systems. These include the following:
+1.Assess and improve the data use context. Organizational and behavioral factors influence whether an organization uses data to inform decision-making; whether it promotes a culture of information.
+2.Engage data users and data producers. Lack of communication is a barrier in those who produce data and those who need data to make decisions.
+3.Improve data quality. For managers to make sound decisions for improving processes, they need to be confident that the data they are relying on is sound—accurate, complete, and timely.
+4.Improve data availability. This includes data synthesis, data communication, and access to data. Management information systems (MISs) can facilitate data being available to decision-makers.
+5.Identify information needs. Various stakeholders have various data and information needs, and their audiences may be different. Healthcare quality professionals can help managers prioritize those data that will be useful in monitoring and evaluating a program or service.
+6.Build capacity in the data use core competencies. Frontline staff and managers need to be competent in data analysis, interpretation, synthesis, and presentation, and how to develop data-informed recommendations.
+7.Strengthen the organization’s data demand and use infrastructure. Data-informed decision-making requires that the culture supports the use of data, that an infrastructure exists to ensure data quality, and processes are in place to obtain and report data-rich outcomes.
+p. 203
+p. 204
+8.Monitor, evaluate, and communicate results of data use interventions. Data must be top of mind in an organization, and value placed on using data to make important decisions. Successes in using data to improve performance must be explicitly shared in management meetings.
+The key to all performance improvement activities is the collection of meaningful data and the communication of useful information. The art of quality, safety, and performance improvement is to communicate the right information the right way at the right time to the right people. There is a distinction between data and information.
+•Data are the representation of things, facts, concepts, and instructions that are stored in a defined format and structure on a passive medium (e.g., paper, computer, microfilm). For leadership to be confident that the data they are using to make decisions are sound, there must be an emphasis on data quality. The American Health Information Management Association (AHIMA) defined 10 characteristics of data quality (see TABLE 4-1). The top four characteristics are accuracy, accessibility, comprehensiveness, and consistency.
+Table 4-1 Data Quality Characteristics
+Characteristic
+Meaning
+Accuracy
+Data represent correct values, valid, and attached to the correct patient record.
+Accessibility
+Data items are easily obtained and legal to access with strong protections and controls built into the process.
+Comprehensiveness
+All required data items are included; entire scope of the data is collected and documents intentional limitations.
+Consistency
+Value of the data is reliable and the same across applications.
+Currency
+Data are up-to-date.
+Definition
+Clear definitions provided so that current and future data users will know what the data mean.
+Each data element has clear meaning and acceptable values.
+Granularity
+Attributes and values of data are defined with the correct level of detail.
+Precision
+Data values are just large enough to support the application or process.
+Relevancy
+Data are meaningful to the performance of the process or application for which they are collected.
+Timeliness
+Timeliness is determined by how the data are being used and their context.
+Adapted from The American Health Information Management Association (AHIMA). Statement on quality healthcare data and information; 2007. http://bok.ahima.org/doc?oid=101304#.WSXX5WgrKM8
+•Information is created when meaning is attached to data, for which is translated into results and useful statements decision-making. For information to be meaningful, data must be considered within the context of how they have been obtained and intent for their use.21,22
+The information contained in data helps leaders to focus on goals and proof points as well as demonstrating value.7 See TABLE 4-2 for more information on the value of data for leaders.
+Table 4-2 How Data Help Leaders
+Better Care
+Mission and Vision
+Assess the extent of how the mission and values are being achieved.
+Develop a vision and evaluate program achievements.
+Clinical Quality
+Understand the mechanism for physician appointment and recredentialing while knowing their performance review process is effective.
+Decide on individual credentialing recommendations effectively.
+Performance Improvement
+Determine priorities for continuous improvements.
+Monitor aspects of organizational performance and take corrective action.
+Help the governing body evaluate and improve its performance.
+Smarter Spending
+Strategic Planning
+Prioritize strategic goals, including programs, to support or discontinue.
+Judge progress toward strategic goals and objectives.
+Identify the need for policy implementation effectiveness.
+Resources
+Understand changes in community needs, financial resources, and technology.
+Weigh long and short-term financial viability.
+Weigh the impact of budgetary decisions on quality of care/service.
+Secure an organization’s resources, efficiency, and effectiveness based on accurate information.
+Healthier People
+Health Improvement
+Determine goals for improving the health status of the community.
+Evaluate the effectiveness of programs designed to improve health.
+Table constructed using information from O’Rourke LM, Bader BS. An illustrative quality and performance report for the governing board. Quality Lett Healthcare Leaders. 1993;5(2):15–28.
+The Quality Measurement and Management Project developed the following seven basic concepts related to quality-management information:
+1.Healthcare data must be carefully defined and systematically collected and analyzed in their full context before they can be useful in quality-management.
+2.Tremendous amounts of healthcare data and information are available, but not all of it is useful for quality management.
+3.Mature information revolves around clearly established patterns of care, not individual cases. Patterns identify a consistent process that can be studied and improved.
+4.Most quality indicators currently available are useful only as indicators of potential problems and not as definitive measures of quality.
+5.Multiple measures of quality need to be integrated to provide a clear picture of quality of care in an institution or managed care organization.
+6.Developing outcomes information without monitoring the process of care, when warranted, is inefficient because it cannot lead directly to improvement in quality.
+7.Cost and quality are inseparable issues.23(28)
+Bader and Bohr23 translated the seven concepts to a ­seven-step strategy for the interpretation and use of quality-of-care information, which are still relevant today. These steps are outlined below.
+Step 1. Planning and Organizing for Data Collection, Interpretation, and Use. Planning for collection and utilization of internally and externally generated data leads to a higher likelihood of success. Anticipating barriers, identifying responsibilities, and laying the groundwork for multidisciplinary
+p. 204
+p. 205
+and inter-professional collaboration can more smoothly guide the process toward improvement. Consideration needs to be given to whether the data will be quantitative (e.g., clinical values) or qualitative (e.g., a review of clinical notes). Qualitative data require a rigorous process that delineates exactly where to look for the data and what needs to be captured. In addition, a data dictionary that defines all data elements and calculations of indicators can be an invaluable element to improve the communication of information.
+Step 2. Verifying and Correcting Data. The purpose of verifying data is to identify data limitations and opportunities to improve internal systems that lead to better data quality, provide an opportunity to correct data (e.g., find missing data), and to review data to become familiar with it. For qualitative data, it is necessary to establish interrater reliability to ensure staff who reviewed clinical records consistently captured the same information.
+Step 3. Identifying and Presenting Potentially Important Findings. The first step in this process is to perform preliminary data analysis, often descriptive analyses. When conducting this type of analysis, it is recommended that several questions be addressed.
+•How do these data compare with other organizations’ (as with mortality rates) or with previously trended internal data (for example, healthcare-associated infection rates)?
+•What is the trend over time? Is it static, improving, or worsening?
+•How are data likely to be interpreted (or misinterpreted)?
+•Is there an opportunity for improvement?
+•Who receives the data? For what purpose?
+Data must be translated into meaningful information. Several techniques are used to present information in a clear and concise manner.
+Step 4. Continuing to Study and Develop Recommendations for Change. If further study of the data is warranted, a variety of methods are available. These include variation analysis, review of additional data, retrospective medical reviews, and process analysis. Variation analysis seeks an explanation for statistically significant differences in the data. These differences may reflect clinical factors, patient characteristics, data collection (such as sampling characteristics), or organizational characteristics (such as staffing).
+Additional data may need to be collected and reviewed to completely understand variations in data. For example, a hospital may show a steady increase in mortality rates. Additional data related to hospital case mix, diagnostic categories, mortality within a specified time from date of hospital admission, and other hospital characteristics may be used to fully interpret the data. Focused/intensive retrospective review refers to an activity for which processes or outcomes use pre-established criteria or indicators. Findings may be presented in peer review or other settings. Process analysis refers to a method of analyzing data using industrial performance improvement techniques. Process analysis occurs when a group diagrams
+p. 205
+p. 206
+a healthcare process. The group then measures process variations and looks for ways to improve the process and the administrative or clinical outcome.
+Step 5. Taking Action. “Taking action” implies that people, teams, departments, and committees are empowered to make decisions and implement changes based on information discovered through data analysis. Actions may occur in several forms: education and training of staff, simulation, education and reporting of findings to outside vendors or the public, changes in organizational or departmental policies and processes, and changes in practice patterns.
+Step 6. Monitoring Performance. Monitoring performance entails monitoring the influence and effectiveness of a quality, safety, or performance improvement action and involves the collection of additional data. Questions to be considered include the following:
+•Have the proposed changes been implemented? To what extent?
+•How could compliance with the changes be enhanced?
+•What effect are the changes having on patient outcomes? Are these desirable effects?
+•Are changes modified and then tested further, communicated on a wider scale, tested for a longer period before drawing conclusions, or ended because they are ineffective?
+Step 7. Communicating Results. There are three basic barriers to the interpretation and use of information: human factors, statistical factors, and organizational factors.
+1.Human factors include fear of the data; resentment of external data; unrealistic expectations about data (including the myth that all data must be perfect); and lack of training related to planning, organizing, and analyzing data.
+2.Statistical factors include flawed data, missing data, untimely data, poorly displayed data, and data that are difficult to integrate with other organizational data.
+3.Organizational factors include data overload; a poor data retrieval system; lack of resources (time, people, money); and poor relationships among administration, physicians, and staff.
+Communication is an integral component in each of the previous steps. Striving for healthcare quality is a journey. Performance improvement begins with the communication of where an organization is and where it is going. Effective communication requires providing information to the appropriate staff so they can act. Consider which audiences and methods of communication will be most effective in bringing about change. Depending on the findings, audiences may include frontline clinical staff for patient issues, administration for service delivery failures, or the human resources department for staffing concerns.
+Design and Management
+Quality, safety, and performance improvement activities and research exist on a continuum of rigor and may be viewed more like a soft science (TABLE 4-3). The scientific approach is the most sophisticated method of acquiring knowledge and involves inductive and deductive reasoning, which might
+p. 206
+p. 207
+be considered superior to those arrived at through reliance on tradition, authority, and experience. The underlying assumptions of design, measurement, and interpretation are similar. Research utilization is a key aspect of the QI process and critical to achieving healthcare quality as defined by the local, state, and federal regulations and standards. Healthcare quality professionals use the level of research rigor that best answers the specific performance improvement question and area of study balancing rigor and practicality. Research studies and systematic reviews can be evaluated for usefulness to a practice setting using critical appraisal tools. These tools guide healthcare quality professionals through the research critique process, allowing effective evaluation and synthesis of research findings for use in performance improvement activities.24 When the healthcare quality professional begins the design process for activities, the goodness of project fit (QI process versus research process) by examining the question to be answered, data collection, analysis plan, and application of findings. See TABLE 4-4 for an overview of the processes.
+Table 4-4 Quality Improvement and Research Processes
+QI Process
+Research Process
+Identify the process improvement, survey the literature, and flowchart the process.
+Identify information need(s) or ask the question to be investigated.
+Define the customers and problem.
+Define the variable(s) or the elements for which data are required.
+Formulate a plan.
+Formulate a plan of study or hypotheses.
+Choose one or a combination of basic or quality-management and planning tools.
+Choose or design the research design and collection tools/instruments.
+Collect the data.
+Collect the data.
+Analyze the data and look for root causes.
+Analyze the data.
+Display the data.
+Display the data.
+Report the data and findings.
+Report the data and findings.
+Draw conclusions.
+Draw conclusions.
+Act upon recommendations deduced from the conclusions.
+Act upon recommendations deduced from the conclusions.
+Continue to monitor the process.
+Continue to monitor the process.
+Evaluate and communicate conclusions.
+Evaluate and communicate conclusions.
+Hold the improvement.
+Quality Measurement
+Performance outcomes measurement or decision support systems can provide a primary focus to determine the quality of healthcare services provided to consumers. By analyzing data and information generated by an effective performance outcomes measurement system, healthcare quality professionals will be able to help identify areas in which to improve quality and resources in their organizations. Other uses for outcomes systems include helping to identify how an organization measures up in relation to its competitors, identifying individual providers and practitioners who meet acceptable levels of quality, allowing providers to respond more rapidly to market changes, paying for exceptional performance, and justifying value-based services.
+Chassin et al.25 suggested that quality, safety, and performance improvement programs can focus explicitly on maximizing health benefits to patients and, to achieve the goal, measures must be included that advance knowledge about whether the goal is being achieved. They note four criteria for accountability measures (i.e., process measures; if met, there will be a higher likelihood of improving patient outcomes). The criteria include the following:
+•Strong evidence base shows that the care process leads to improved outcomes.
+•Measure accurately captures the provision of evidence-based care.
+•Measure addresses a process with few intervening steps that must occur before the improved outcome is realized.
+•Implementing the measure has little or no chance of inducing unintended adverse consequences.
+Healthcare quality professionals facilitate analysis and interpretation of outcomes data for an organization. The reference point for the outcomes data are always kept in mind whenever the results of such data are analyzed. The overall goals for use of outcomes and decision-support data are to improve quality, reduce costs and resource consumption, increase organizational profitability, and develop an information-based strategic plan. Comparisons of length of stay (LOS), costs, complications, and mortality cannot be made legitimately without adjusting severity at the patient level. Severity adjustment and clinical case mix permit effective analysis and eliminate practitioners’ concerns that “their patients are sicker.” Evidence to support the focus of measurement is shown as TABLE 4-5.
+Table 4-5 Evidence to Support the Focus of Measurement
+Measure Type
+Evidence
+Example of Measure Type and Evidence
+Health Outcome
+An outcome of care is the health status of a patient (or change in health status) resulting from healthcare, desirable or adverse.
+In some situations, resource use may be considered a proxy for a health state (e.g., hospitalization may represent deterioration in health status).
+A rationale supports the relationship of the health outcome to at least one healthcare structure, process, intervention, or service.
+#0230: Acute myocardial infarction (AMI).
+30-day mortality.
+Survival is a goal of seeking and providing treatment for AMI.
+Rationale linking healthcare processes or interventions (aspirin, reperfusion) to mortality or survival.
+#0171: Acute care hospitalization (risk-adjusted) [of home care patients].
+Improvement or stabilization of condition to remain at home is a goal of seeking and providing home care services.
+Rationale linking healthcare processes (e.g., medication reconciliation, care coordination) to hospitalization of patients receiving home care services.
+#0140: Ventilator-associated pneumonia for intensive care unit and high-risk nursery patients.
+Avoiding harm from treatment is a goal when seeking and providing healthcare.
+Rationale linking healthcare processes (e.g., ventilator bundle) to ventilator-acquired pneumonia.
+Intermediate Clinical Outcome
+An intermediate outcome is a change in physiologic state that leads to a longer-term health outcome.
+Quantity, quality, and consistency of a body of evidence that the measured intermediate clinical outcome leads to a desired health outcome.
+#0059: Hemoglobin A1c management (A1c > 9).
+Evidence that hemoglobin A1c level leads to health outcomes (e.g., prevention of renal disease, heart disease, amputation, mortality).
+Process
+A process of care is a healthcare-related activity performed for, on behalf of, or by a patient.
+Quantity, quality, and consistency of a body of evidence that the measured healthcare process leads to desired health outcomes in the target population with benefits that outweigh harms to patients.
+Specific drugs and devices should have Food & Drug Administration approval for the target condition.
+If the measure focus is on inappropriate use, then quantity, quality, and consistency of a body of evidence that the measured healthcare process does not lead to desired health outcomes in the target population.
+#0551: Angiotensin-converting enzyme (ACE) inhibitor and angiotensin receptor blocker (ARB) use and persistence among members with coronary artery disease at high risk for coronary events.
+Evidence that use of ACE inhibitor and ARB results in lower mortality or cardiac events.
+#0058: Inappropriate antibiotic treatment for adults with acute bronchitis.
+Evidence that antibiotics are not effective for acute bronchitis.
+Structure
+Structure of care is a feature of a healthcare organization or clinician related to its capacity to provide high-quality healthcare.
+Quantity, quality, and consistency of a body of evidence that the measured healthcare structure leads to desired health outcomes with benefits that outweigh harms (including evidence of the link to effective care processes and the link from the care processes to desired health outcomes).
+#0190: Nurse staffing hours.
+Evidence that increasing nursing hours results in lower mortality or morbidity or leads to provision of effective care processes (e.g., lower medication errors) that lead to better outcomes.
+Special Considerations by Topic
+Patient Experience with Care
+Evidence that the measured aspects of care are those valued by patients and for which the patient is the best or only source of information (often acquired through qualitative studies).
+Or, evidence that patient experience with care is correlated with desired outcomes.
+#0166: HCAHPS.
+Evidence that patients or consumers value the aspects of care being measured (e.g., communication with doctors and nurses, responsiveness of hospital staff, pain control, communication about medicines, cleanliness and quiet of the hospital environment, and discharge information).
+Efficiency
+Measures of efficiency combine the concepts of resource use and quality.
+Efficiency measured with combination of quality measures and resource-use measures.
+Quality measure component: Evidence for the selected quality measures as described in this table.
+Resource-use measure component: Does not require clinical evidence as described in this table.
+Currently, there are no NQF-endorsed efficiency measures that combine quality and resource use.
+Potential measure: Diabetes quality measures or composite used in conjunction with a measure of resource use per episode.
+Evidence for diabetes quality measures as described in this table.
+Reprinted from National Quality Forum. Guidance for evaluating the evidence related to the focus of quality measurement and importance to measure and report. Washington, DC: NQF; 2011:15–16. www.qualityforum.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=70941. Copyright © 2011 National Quality Forum, with permission.
+Risk Adjustment
+Risk adjustment is a technique used to consider or to control the fact that different patients with the same diagnosis may have additional conditions or characteristics that can affect how well they respond to treatment. Analysis of outcomes data
+p. 207
+p. 208
+p. 208
+p. 209
+using statistical techniques considers and controls for patient characteristics or conditions that are clinically meaningful and demonstrates a statistical effect on the rates for each condition. This removes the bias effect that can result when practitioners primarily treat patients who are more likely to experience desirable outcomes, such as those with fewer risk factors or co-occurring illnesses (morbidities).
+Some outcomes measurement systems define the differences between risk adjustment and severity, whereas other systems use the terms interchangeably. However, there is a difference. Patients in a study population may respond with either “yes” or “no” when asked if they have had certain outcomes; the outcomes variable in this case is binary. The probability of a “yes” answer is the risk of the outcome.
+Statistical methodologies to adjust for risk are applied to the outcomes data to predict patient-specific variables such as certain diagnoses that are risk factors. The validity of each risk adjustment model is assessed based on the choice of risk factors, including both potential risk factors and those included in the model, and through measures of how well the predictions match overall experience. This assessment includes indicators such as measures of patient subpopulations, including patients with more than one risk factor, and the concordance statistic, which shows, in percentages, how accurate the model is at predicting the outcome.
+The yes-or-no nature of outcomes data means that outcomes can refer to clinical outcomes, such as inpatient C-section complication rates. Outcomes also can be defined by using LOS and charges or cost, such as when an LOS exceeds a certain number of days and results in a “yes” or “no” answer. When the categories are in two or more groups, a set of outcomes can be defined and the risk adjustment methodologies can be applied to the full set of outcomes at the same time.
+An important distinction must be made between the statistical analysis of binary and continuous data. Risk adjustment methodologies do not apply to dependent variables that are continuous, like cost or LOS. The answer could be any number on a continuum, not “yes” or “no.” Severity adjustment methodologies are applied to the cost of LOS data to predict severity by using patient-specific variables, called severity factors. Frequently, the presence of additional diagnoses helps to define the severity of a group of patients within a DRG, on an individual patient level, or both. Both risk-adjusted and severity-adjusted data are extremely important outcomes system tools. Using unadjusted or raw data means that all patients in the clinical topic category, regardless of their health status or the existence of varying clinical conditions, are included in the rate calculation. Both raw and risk-adjusted data can be made available on the same outcomes topic because payers frequently use risk-adjusted data in their initial decision-making.
+Healthcare quality professionals also must be familiar with the ways in which their decision-support databases handle statistical “outliers.” Are all patients included, or are patients more than two standard deviations (SDs) from the mean removed from data analysis? Most decision-support databases have a consistent approach regarding patients who are outliers. It is critical during data comparisons to make
+p. 209
+p. 210
+sure that all data sources managed patient outliers in a consistent fashion. For example, a hospital physician group was trying to compare its performance on resource utilization and LOS for community-acquired pneumonia. One patient was hospitalized for more than 100 days because the patient was ventilator-dependent and did not have adequate resources to be placed in an extended care facility. This patient’s record needed to be removed from the raw data before a fair comparison could be made.
+Another factor to consider in the analysis and interpretation of outcomes data is the level of detail. The best system includes clinical and financial information for every payer and practitioner and the patient. This integrated data repository can mine data for
+•benchmarking quality performance against established standards;
+•comparing physician performance within given outcome topics;
+•examining details at the patient level;
+•viewing patient diagnoses, procedures, and other information;
+•determining the impact of managed care on costs and outcomes; and
+•analyzing product lines to evaluate their effectiveness and to increase or downsize service offerings.
+Evidence-Based Practice
+Evidence-based medicine is the “conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients.”26(71) Because multiple disciplines are involved in healthcare delivery, however, the term evidence-based practice (EBP) is more appropriate than evidence-based medicine from a healthcare quality perspective. Clinicians base their care not only on experimental evidence but also consider experiential evidence, physiologic principles, patient and professional values, and system features in their decision-making. This practice allows individualized application and diffusion of aggregate research evidence.27,28 There are many benefits to using EBP including the following:
+•Promotes quality and patient safety through the provision of effective and efficient healthcare resulting in less variation in care and fewer unnecessary or nontherapeutic interventions.29
+•Iterative with outcomes measurement; one facilitates the other.30
+•Complements the principles of continuous quality, safety, and performance improvement.
+Outcomes evaluation at the individual and aggregate level is an essential step in evaluating the EBP influence.
+EBPs and QI are based on clinical research and health services research. Clinical research evaluates the impact of interventions on patient outcomes. Outcome measures may include clinical outcomes, functional outcomes, and patient satisfaction or engagement. This type of research helps ­healthcare quality professionals determine clinical evidence-based best practices. Health services research evaluates the health system at the micro and macro levels. Results from this type of research guide ­healthcare quality professionals in improving work processes and systems of care.
+Epidemiological Principles
+The influence of quality, safety, and performance improvement can be enhanced through the application of clinical epidemiology (e.g., case-control studies, cohort studies, propensity score matching) to data collected on many patients for relatively little cost. This comports to a recent emphasis in the healthcare industry related to “population health.” Comprehensive linked databases have enormous potential to provide information on the influence of tests and treatments on health. The potential value of these data can be realized if (1) actual receipt of these interventions, health outcomes, and potentially confounding variables can be ascertained accurately for individual patients; and (2) selection bias can be minimized by identifying an appropriate basis for comparison.31 For example, it is possible to assess changes in patient outcomes after an “improvement intervention” on a specific nursing unit by comparing those outcomes to a matched group of patients from other units in a hospital or over a prior period for the same unit when adjusting for any confounding variables. Using data available in electronic records and appropriate statistical methods makes it possible to test for statistical differences related to a quality, safety, or process improvement initiative compared to current practice. This level of analysis generally makes the results more robust, leading to wider acceptance across an organization and broad adoption of the improvement effort (also known as “spread”).
+Population Health
+Healthcare is moving beyond the episode of care to determine health outcomes. Population health is defined as “the health outcomes of a group of individuals, including the distribution of such outcomes within the group.”32(380) It considers all the determinants of health, including medical care, social and physical environments and related services, genetics, and individual behavior. An inherent byproduct of population health is the identification, reduction, or elimination of inequity and health disparities.33 With healthcare reform emerged population health management, which requires many different types of data to guide population care delivery
+p. 210
+p. 211
+and to understand the value of these programs. Population health management (or population medicine) “is the design, delivery, coordination, and payment of high-quality healthcare services to manage the Triple Aim for a population using the best resources available within the healthcare system.”33(¶11)
+Population health is another area where data are large volume and high velocity. When the data are available, organizations can assess how they are managing high-risk and high-volume patients, as well as the general population. For example, it is often helpful to know what percentage of the population are high utilizers in terms of hospitalizations or emergency room visits and to determine the characteristics of these patients so they can be better managed (e.g., more visits to their primary care provider, better diet, behavioral health referrals). In another example, Boult and Wieland found that these four features contributed to better population management of primary care for older adults with chronic illnesses:
+1.comprehensive assessment of the patient’s health conditions, treatments, behaviors, risks, supports, resources, values, and preferences;
+2.evidence-based care planning and monitoring to meet the patient’s health-related needs and preferences;
+3.promotion of patients’ and family caregiver’s active engagement in care; and
+4.coordination and communication among all the professionals engaged in a patient’s care, especially during transitions from the hospital.34
+These population management activities are amenable to measurement and analytics. As payment shifts toward value versus volume, it is more prevalent for organizations to be evaluated based on how they are managing entire populations. Payers are putting providers at-risk to achieve the best outcomes for these groups of patients. Without good data and analytics, it is almost impossible to achieve the goal of being a high-performing organization in meeting the needs of specific populations.
+Information Systems
+Information systems can be used to support a variety of activities within healthcare organizations. Effective processes for information gathering and dissemination include considerations such as
+•identify who needs to know the information (this may include various stakeholders such as senior management, board members, customers, physicians, etc.);
+•determine which information stakeholders need to know to make decisions related to improving the quality of care; and
+•develop a system that ensures the right people receive the right information at the right time in the right way.35
+Areas commonly supported include quality, safety, and performance improvement, cost control, and productivity; patient registration; utilization management; program planning and evaluation; external reporting; research; and education. Information systems can be grouped into the following: clinical, administrative, imaging, human resources, financial, patient experience, and decision support.
+An organization needs to select the best health information system and technology that supports quality, safety, and performance improvement practices such as
+•measurement,
+•tracking,
+•sharing healthcare delivery performance measures,
+•monitoring refinements to clinical workflow processes (both internal and external),
+•effects of change on overall patient experience and care coordination across care settings, and
+•reducing costs and improve patient health outcomes.36(pp4–5)
+An organization can use a checklist to evaluate various system options. Rarely do organizations build their own information management systems. If an organization chooses to buy or build its own, there are considerations when looking at functionality, developing the architecture, and implementing and maintaining the system. See TABLE 4-6 for a buy or build checklist. Different information systems are described below.
+Table 4-6 Information Systems: Buy or Build Checklist
+Buy
+Build
+Does the system provide for capture, storage, and retrieval of clinical and financial information from a variety of sources (e.g., health information management [HIM], medical records/EHRs, admission, discharge, transfer, billing, laboratory, pharmacy, blood bank, operating room schedule, and radiology)?
+What expertise does the organization have in-house to develop the system, database software, analytic tools, and hardware? How much money and time must be invested to procure this expertise?
+Does the system interface with the organization’s existing information systems?
+Do either HIM or quality, safety or performance improvement staff have the full industry knowledge required to develop and deploy the information system to support clinical and financial needs of the organization (architecture, nomenclature, and other national standards)?
+Does the system allow for the establishment of “triggers” or thresholds for important measures of performance and signal an alert when these thresholds have been exceeded?
+Can staff provide necessary documentation, training, support, and maintenance for the system on an ongoing basis? If so, will changing priorities interfere with the sustainability of the program?
+Does the system have critical alerts such as abnormal laboratory values, drug interactions, and others to promote patient safety (e.g., identifying serious reportable or “never” events)?
+How will the organization be able to sustain the system? Are resources available to keep the program up to date in an ever-changing clinical, regulatory and accreditation environment?
+Does the system have “rules-based” processing or an algorithm (i.e., the system automatically provides a complete list of cases that meet or fail criteria)?
+Is there a true understanding of the future data demands of accreditation organizations, regulatory agencies, third-party payers, employers, and other external data demands?
+Is the system flexible enough to allow for concurrent and retrospective reviews?
+Will there be long-term dedicated resources to enhance such an application for quality, safety and performance improvement (including various functions such as credentialing, provider profiling)?
+Does the system support accreditation and regulatory reporting requirements?
+What would be gained by being part of an established vendor network or user group addressing the needs of credentialing and quality, safety, and performance improvement?
+Does the system have the capability for data mining reporting or statistical analysis?
+Is it more cost-effective alternative to develop such applications in-house or would the facility be better served by purchasing software dedicated to these needs?
+Does the system allow for multiple users to access the same programs at the same time?
+Is it an “open operating system” (a system that enables users to operate on a variety of different hardware platforms)?
+Does the system have networking capabilities?
+Will the system display data in graphic form?
+Is there the capability for drill-down analysis of underlying causes of outcomes?
+Does the system allow access to reports via a secure Intranet website within the organization?
+Administrative Support Information Systems
+Administrative support information systems aid day-to-day operations in healthcare organizations, including
+•financial information systems (payroll, accounts payable, patient accounting cost accounting, forecasting, budgeting and asset management);
+•human resources information systems (employee record, time and attendance, position and performance management, labor analysis, turnover, and absenteeism); and
+•office automation systems (word processing, e-mail, scheduling, facsimile/scanning, and spreadsheets).
+Management Information Systems
+A MIS can contain both the manual and the automated methods that provide information for decision-making. Other names for an MIS, which are used interchangeably, include data-processing structure, medical information system, hospital information system, or decision support system. The term, as it commonly is used, refers to an automated or computerized system. Information plays a key role in decision-making in each stage of the management process.
+p. 211
+p. 212
+p. 212
+p. 213
+Whether a staff member or manager is trying to establish goals, estimate resources, allocate resources, evaluate a quality, safety or performance process, or monitor a system, access to accurate and timely information is an ongoing requirement of any MIS. The quality of judgments and decisions directly correlates with availability and reliability of data and its synthesis into meaningful, timely information.
+Choices for the design or flow of information are so important that they can be a determining factor in the survival of a patient or organization. Although accurate and timely healthcare information provides the rationale for management decisions, this often is not the case. O’Rourke and Bader37 explain that information often is incomplete, confusing, and not sufficiently relevant to the organization’s mission, strategic goals, or customer and stakeholder needs when it is presented in many governing body reports. Organizations clarify the difference between data and information. And, data must be carefully selected, validated, and formatted to make reports useful. This often is easier to mandate than accomplish. However, the goal remains that governing body reports contain only the critical information needed for effective decision-making. Achieving this goal would eliminate healthcare data being presented as a pile of computer printouts and various fragmented reports.
+Clinical Information Systems
+Designed to support direct patient care processes, automated clinical information systems have great potential for analyzing and improving the quality of patient care. Barriers to healthcare leaders’ and healthcare organizations’ implementation of MIS include normal resistance to change, the mindset that patient care is best managed by people, lack of exposure to the application of information science and computers in healthcare educational and training programs, and inadequate resources. In 2008, only 9.4% of non-federal acute care hospitals had a basic EHR system; in 2014, that percentage rose to 75.5%, due in large part to the passage of the HITECH Act of 2009.38 Nearly all reported hospitals had a certified EHR, one that met the technological capability, functionality, and security requirements adopted by the U.S. Department of Health & Human Services, Office of the National Coordinator for Health Information Technology (ONC).38(1)
+From a managed care perspective, Rontal39 outlined the following criteria as being needed for an MIS: appropriate use, place of service, specific procedures, preventive care, cost-effectiveness, patient satisfaction, chronic illness management, access to care, and patient education. Also needed are outcomes of care for mortality, morbidity, complications, readmissions, quality of life, and disability. Clinical information systems often depend on integration with administrative information systems for some data.
+Currently, expanded clinical information systems include EHRs and their retrieval systems, computer-assisted medical decision-making for history and physicals and antibiotic selection, clinical application programs for health-risk programs, health maintenance organization encounter data, clinical algorithms, predictive modeling, and simulation. To analyze and interpret outcomes data, EHR-based systems allow healthcare providers to identify positive and negative outcomes so that appropriate action can be taken. Both types of systems serve to focus users on areas of concern regarding outcomes performance. Cost savings occur because energy can be focused on analyzing and controlling deviations from the baseline.
+Decision Support Systems
+Decision-support data facilitate cross-functional analyses to improve patient care processes and outcomes. Decision support systems address strategic planning functions. Included in this area are
+•strategic planning and marketing,
+•resource allocation,
+•performance evaluation and monitoring,
+•product evaluation and services, and
+•medical management (e.g., EBP, clinical guidelines and pathways).
+By integrating financial and clinical data, there is an opportunity to perform highly sophisticated data analysis involving predictive outcome management. These data help healthcare quality managers and executive leadership evaluate current operations and the feasibility of the development of new product lines and services. Healthcare quality managers coordinate outcome and decision-support data by posing the following pertinent questions:
+•What kinds of comparative analyses will be most important?
+•With whom can we compare ourselves?
+•How can we be sure the data are comparable?
+•What do we do when the data reveal significant differences in our outcomes and the outcomes of the peer or benchmark?
+Organizations use decision support systems to develop an outcomes information management plan, which includes evaluating performance outcomes measurement systems. Outcomes are viewed in terms of various clinical topics including mortality, complication rates, infection rates, Cesarean section (C-section) rates, fall rates, and other clinical outcomes measurement categories. Categories may or may not reflect the resources (cost, charges, LOS), associated with a given outcome.
+Bright and colleagues40 assessed healthcare process measures and clinical outcome measures associated with
+p. 213
+p. 214
+commercially and locally developed clinical decision support systems (CDSSs). This study found that a CDSS is effective in improving healthcare process measures across diverse settings. “Effect of Clinical Decision-Support Systems: A Systematic Review” explained the benefits of CDSS and suggested more research is required to promote the use of CDSS and to increase the clinical effectiveness of the systems. However, evidence is limited about the impact on certain outcome measures (i.e., economic and financial). This research expands on the 2012 Agency for Healthcare Research and Quality (AHRQ) evidence report “Enabling Health Care Decisionmaking Through Clinical Decision Support and Knowledge Management,” which discussed key features for successful CDSS implementation.
+Registries
+Registries are part of the bigger picture of health date integration to generate new ideas and drive innovations in individual and population health management. A disease registry is an information tool for tracking the clinical care and outcomes of a defined population. Most disease registries support care management for groups of patients with one or more chronic diseases, such as diabetes, coronary artery disease, or asthma.
+Data registries include information about the health status of patients and the healthcare they receive over varying periods of time. Data registries typically focus on patients who share a common reason for receiving healthcare (e.g., specific procedure performed or primary diagnosis). Registries allow healthcare professionals and others to see how patients with different characteristics respond to various treatments. The information is often used to inform patients and their providers about the best course of treatment for a patient. Information from registries is often utilized to compare the performance of healthcare providers regarding their outcomes. Registries are another tool to evaluate the care being delivered and identify opportunities for improvement. The challenge with registries is that some are designed for submission of the information to a national or state database and may have very limited local reporting capabilities.
+Patient Data
+Healthcare facilities and clinical staff who treat patients are required to maintain adequate medical/health records to serve as a basis for planning care and for communicating about patients’ conditions and treatments with other healthcare providers. The medical or health record serves other purposes as well. For example, medical records are reviewed by administrative staff performing quality, utilization, and risk management (RM) functions and by physicians engaged in peer review. Outside organizations also use the medical record for matters relating to payment and accreditation. In malpractice cases, the medical record serves as the major source of evidence about the care the patient received. Information contained in medical records also is used in retrospective clinical research. If protected health information (PHI) is collected for research, institutional review board approval is needed.
+Healthcare organizations have a clear policy about who can access medical records, whether those records are written, computerized, or otherwise maintained. Policy statements make clear what, other than actual medical records, constitutes a portion of the record. For example, with the advent of and frequent use of photography, videotaping of procedures or fetal heart monitoring strips, it is important to address (based on state law and legal advice) whether such media are part of the medical record. Information is often exchanged for the purposes of health treatment and payment.
+Organizations are required by federal and state statutes to maintain the security, integrity, and confidentiality of patients’ personal data and other information. An organizational plan for health information management (HIM) addresses the critical balance between data sharing and data confidentiality. Although timely, easy access to data and information is required, organizations also must ensure that data and information are safeguarded. The organization is responsible for protecting records against loss, defacement, tampering, and unauthorized use.
+Each organization must determine the level of security, integrity, and confidentiality for different categories of information. Access to each category of information must have a functioning mechanism designed to preserve the confidentiality of data and information identified as sensitive or requiring extraordinary means to protect patient privacy. Organizations must follow the standards developed by their accreditation organization (e.g., CARF International [CARF], The Joint Commission, National Committee for Quality Assurance [NCQA], URAC, Community Health Accreditation Partner [CHAP]). Training programs must be in place to educate staff about these requirements and consequences of not adhering to institutional policies. The organization also must identify sanctions for employees who breach confidentiality.
+Healthcare organizations must keep confidential all PHI pertaining to medical peer review, quality, safety, and performance improvement, and the monitoring and evaluation of patient care. PHI is defined in the Health Insurance Portability and Accountability Act (HIPAA) of 1996. All records that can be identified by patient or provider are kept secure and confidential so that the patient’s and provider’s privacy can be maintained. This includes the medical record (in any format, hard copy or electronic) and may also include reports, data abstracts, and supplies. Effective information management security and confidentiality policies and procedures in a healthcare organization contain the following elements:
+•identification of people with access to information;
+•delineation of specific information to which people have access;
+p. 214
+p. 215
+•requirements for people with access to information to keep that information confidential;
+•HIPAA requirements for release of health information;
+•requirements for removal of medical records (a patient’s medical record is the property of the healthcare facility); medical records are removed from the organization jurisdiction and into safekeeping only in accordance with a court order, subpoena, or statute;
+•protection of PHI41;
+•handling the root cause analysis (RCA) reporting requirement if the organization is Joint Commission-accredited; and
+•mechanisms for securing information against unauthorized intrusion, corruption, and damage.
+The elements of PHI in the HIPAA regulations are listed in FIGURE 4-1. Examples of information management confidentiality and security methods include the following:
+•Portions of medical records may be stored separately, for example, if the record contains information regarding certain types of psychiatric and addictions treatment.
+•The complete medical record would have to be available as needed for medical care and follow-up, utilization review, or in quality, safety, and performance improvement activities.
+•Organizations can restrict access to computer files or portions of computer files with the use of security codes or by restricting certain computer operations to specific devices or people.
+•An organization relying on computerized information has an adequate backup plan for each computer application and extensive security firewalls.
+•All geographic subdivisions smaller than a state, including street address, city, county, precinct, zip code, geocodes (in some instances, the first three numbers of a zip code may be collected)
+•Birth dates, admission dates, discharge date, date of death, all ages over 89 unless aggregated to 90 or older; only year data may be collected
+•Telephone and fax numbers
+•Electronic mail addresses, Web universal resource locators (URLs), and Internet protocol (IP) addresses/numbers
+•Medical record, health plan beneficiary, and account numbers
+•Certificate/license numbers
+•Vehicle identification and license plate numbers
+•Device identifiers and serial numbers
+•Biometric identifiers, including finger and voice prints
+•Full-face photographic images and any comparable image
+•Any other unique identifying number, characteristic, or code that could be used alone or in combination to identify a person:
+⚬Patient name
+⚬Name of individual/organization requesting information
+⚬Reason for release of information
+⚬Anticipated use of information released
+⚬Exact material to be released, including reference to PHI
+⚬Period during which the release of information is valid
+p. 215
+p. 216
+⚬Documentation that information is released only to the individual/organization named above
+⚬Signature and date of the patient or legal representative (as defined by policy/state law).
+Figure 4-1 Health Insurance Portability and Accountability Act of 1996. (From U.S. Code of Federal Regulations. www.gpo.gov/fdsys/pkg/CFR-2002-title45-vol1/xml/CFR-2002-title45-vol1-sec164-514.xml; 2002.)
+The legal basis for confidentiality derives from the physician–patient privilege, set forth by statute in almost all states. This is one of several relationships recognized as special by law. The preservation of confidentiality is viewed as essential to the maintenance of the relationship. The need for confidentiality in the physician–patient relationship gives rise to a legal privilege. This means that, absent a patient authorization or waiver or an overriding law or public policy, medical information about a patient is protected from the process known as discovery, through which parties to a lawsuit normally can compel disclosure of relevant evidence. In certain states, the physician–patient privilege is extended beyond physicians to protect the patient’s relationship with other healthcare practitioners (e.g., psychologists, clinical social workers, clinical nurse specialists, nurse midwives, nurse anesthetists, and nurse practitioners). Information that is privileged must satisfy the following conditions:
+•It must have been communicated in the context of the physician–patient relationship.
+•It must have been given with the expectation that it remains confidential.
+•It must be necessary for the diagnosis and treatment of the patient.
+In understanding the function of the medical record to provide information about the patient’s care, treatment, and services and to serve as the method of sharing this information between caregivers, there are monitoring processes to ensure the integrity, accuracy, and completeness of the record and reflect the pertinent clinical documentation. The medical record may be a hard copy document or electronic (or a combination). With legislation demanding that healthcare organizations implement EHRs, the use of electronic records increased.
+A written consent is required for an organization to release patient information to anyone outside the organization. A typical release of information form contains the following elements:
+•patient name;
+•name of individual/organization requesting information;
+•reason for release of information;
+•anticipated use of information released;
+•exact material to be released, including reference to PHI;
+•period during which the release of information is valid;
+•documentation that information is released only to the individual/organization named above; and
+•signature and date of the patient or legal representative (as defined by policy/state law).
+Authorized Release of Information
+Information from medical records and studies may be released without written authorization from patients to individuals or groups who have need for information for treatment, payment, or healthcare operations. Release of information is regulated by national and state statutes. These people may include the
+•representatives from the governing body;
+•organization director (chief executive);
+•healthcare personnel involved in the care of a patient;
+•people responsible for quality, safety, and performance improvement activities; and
+•people in the HIM/medical records department.
+HIPAA requires healthcare providers (e.g., doctors and health plans) to obtain written authorization from patients to share medical record information. This may be for purposes unrelated to treatment, payment, or routine healthcare operations. The authorization form can originate from the hospital, physician, or health plan, or it can come from the organization requesting the data, such as a researcher, employer, or insurance company. There is no mandated form but a valid form must include several core elements such as the name, purpose of disclosure, and expiration date.
+Mechanisms are established to inform patients of utilization management policies and procedures. A common method to inform and obtain consent is to include a statement on the admission consent form or consent for treatment form. Of concern is provision of the reason for hospitalization, such as treatment of substance use disorders, treatment of mental health disorders, HIV/AIDS, and other PHI as identified by HIPAA or special considerations (e.g., Substance Abuse Confidentiality Regulations, 42 CFR Part 2 Revised). These policies must be communicated to the third-party payer as part of the contract review process.
+Medical Peer Review
+Policies and procedures ensure confidentiality during the medical peer review process. They are consistent with organizational policies and procedures (usually within the HIM/medical records department) and may include completion of a confidentiality statement signed by staff and practitioners involved in the peer review process. The nature of the data contained in a medical record is highly confidential. Policies and procedures clearly define who may have access to a medical record and under what circumstances in accordance with medical staff bylaws, hospital policy, and applicable laws and regulations. Because of the complexity of those issues, consultation from general counsel regarding national and state statutes is critical. Practitioner profiles can be maintained as a part of the credentials file or in a separate locked file. Most states have laws governing medical peer review and its activities. When applicable, files and their contents and meeting minutes are marked as “Confidential—peer review according to statute X.” A simple “CONFIDENTIAL” stamp also will suffice.
+Policies and procedures define the circumstances under which copies of medical peer review information are made, such as individual physician request. In accordance with medical staff bylaws and rules and regulations, a mechanism is developed for release of information with specification of contents to be disclosed. This mechanism is in place in response to the need to evaluate a practitioner’s competence for appointment and reappointment to other healthcare institutions.
+Committee minutes of quality, safety, and performance improvement activities usually are protected under medical peer review statutes. Consequently, maintaining confidentiality of records extends beyond credentialing to the entire quality, safety, and performance improvement program within an organization. Therefore, maintenance of confidentiality of records extends beyond credentialing to the entire QI program across the organization.
+A mechanism is developed to track activity on each individual practitioner profile. A log or sign-out sheet attached to each file contains the date of request, reason for request or review, name of person reviewing, and any pertinent notes such as requests for copies of the contents. Policies and procedures define the circumstances under which copies of practitioner files are made, such as individual physician requests. In accordance with medical staff bylaws and rules and regulations, a mechanism is developed for release of information with specification of contents to be disclosed. This mechanism is in response to evaluation of a practitioner’s competence for appointment and reappointment to other healthcare institutions.
+Study Design
+Healthcare quality professionals and their quality, safety, and performance improvement teams prioritize quality and performance improvement activities based on the quantitative and qualitative data available to them. The initiatives with the most opportunity for improvement are tackled first. The initiatives selected usually focus on core processes, high-risk processes, high-risk patients and populations, high-risk medications, or high-risk actions/interventions. The level of risk is based on the potential consequences of injury or harm to patients. Managing high-risk patients and processes
+p. 216
+p. 217
+will significantly affect morbidity and mortality. Examples of high-risk processes include
+•core processes: admission, transfer, discharge;
+•high-risk processes: medication delivery/administration, surgery;
+•high-risk patients: patients with reduced renal function, patients who are immunocompromised, neonates, patients in critical care units;
+•high-risk medications: heparin, insulin, chemotherapy, opiates; and
+•high-risk actions/interventions: blood transfusions, use of restraints, extracorporeal circulation.42
+Key steps to implementing quality, safety, and performance improvement activities are as follows.42,43 These steps ensure success of the quality, safety, and performance improvement models described earlier.
+1.Ensure leadership support and commitment for the quality, safety, and performance improvement initiative.
+2.Assess priority and feasibility of initiatives based on risk, resources, leadership support, and organizational strategies and goals.
+3.Identify the aim of the initiative and include the topic, process, or problem to be improved (have a good and justified rationale).
+4.Convene an interdisciplinary team of content and process experts with all key disciplines as participants (involve all the right people and have a leadership sponsor and champion for the change).
+5.Use tools and techniques to analyze processes, best practices, research, and consensus-based evidence for the desired change.
+6.Develop the change to be implemented and add timelines and individual accountability for the project.
+7.Identify the measure(s) that will demonstrate that the change resulted in improvement and set performance goals.
+8.Educate staff on the desired change.
+9.Implement and test the change via the redesigned processes.
+10.Collect, analyze, and evaluate data on the redesigned process.
+11.Make additional changes based on findings and disseminate to all areas.
+12.Report and display results to reward staff on improvements.
+13.Continue to monitor performance to ensure that the change is sustained.
+14.Compare performance internally and externally.
+15.Celebrate successes internally and externally.
+Today, quality, safety, and performance improvement projects call for perspectives beyond unit-based or team activities regardless of healthcare setting. The use of epidemiologic principles in healthcare quality grows as healthcare reform focuses on improving the health of the population, advancing quality of care for the individual, and containing costs—the Triple Aim44 and more recently, workforce engagement and workforce safety.45 This requires looking at the distribution and determinants of health status and disease states. Various methods can be used to carry out quality, safety, and performance improvement projects and epidemiological studies: surveillance, descriptive studies, analytical studies, and systematic review. Outcomes of interest can include injury, disability, and health-related quality of life.46 Project results can contribute to changing clinical practices and policies at the point of care, developing/validating EBP, implementing population-based interventions, and preventive medicine targeting health conditions (e.g., cancer, cardiovascular disease, obesity, and diabetes).
+There are different types of performance measures. Before selecting a measure, one must understand what purpose each measure serves. It is helpful to scan existing quality measures to identify those that are valid and reliable (e.g., the Centers for Medicare & Medicaid Services [CMS], AHRQ, National Quality Forum [NQF], and NCQA). Look for measures vetted through consensus-driven processes involving various stakeholders, including patient and families. The benefit of using an existing and tested measure is there is evidence to support the fidelity in assessing the structure, process, or outcome of care.
+•Structure: measures of infrastructure, capacity, systems, and processes (e.g., nurse staffing ratios).
+•Process: measures of process performance. They tell whether the parts or steps in the system are performing as planned. This can be “in process” or “end of process” (e.g., timely administration of prophylactic surgical antibiotics).
+•Outcome: measures that show results of overall process or system performance (often risk adjusted, e.g., mortality).
+Further guidance on evaluating and selecting quality measures is offered by McGlynn47(9) and summarized below.
+•Important—is the measure assessing an aspect of efficiency that is important to providers, payers, and policymakers? Has the measure been applied at the level of interest to those planning to use the measure? Is there an opportunity for improvement? Is the measure under the control of the provider or health system?
+•Scientifically sound—is the measure reliable and reproducible? Does the measure appear to capture the concept of interest? Is there evidence of face, construct, or predictive validity?
+•Feasible—are the data necessary to construct this measure available? Is the cost and burden of measurement reasonable?
+•Actionable—are the results interpretable? Can the intended audience use the information to make decisions or act?
+p. 217
+p. 218
+McGlynn further explains that the ideal healthcare quality measure does not exist and that tradeoffs must be made when selecting measures for quality assurance, quality control, quality management, or QI.
+There are many quality measures that are vetted and readily available for use by healthcare quality professionals to employ in their improvement efforts. For example, clinical quality measures (CQMs) were designed to be measures of process, access, outcome, structure, and patient experience to assess the quality of care provided by physicians and other healthcare professionals for Medicare and Medicaid populations. Implementation of these measures was a requirement for providers to attain both Stage 1 and Stage 2 Meaningful Use. CMS provides annual updates that document specifications for an evolving set of electronic CQMs that can be gathered from EHRs.48 These measures can help providers and organizations report on quality, advancing care information and improvement activities. Further, CMS Conditions of Participation require a data-driven performance improvement program in hospitals and within the next few years will include all healthcare providers.
+The AHRQ developed a suite of measures: AHRQ Quality Indicator modules.49 Software is available for users to apply AHRQ QI to their organization’s administrative data. AHRQ QI modules include prevention, inpatient, patient safety, and pediatric. AHRQ also maintains a National Quality Measures Clearinghouse, a resource of evidence-based quality measures and measure sets. Other efforts funded by AHRQ have also brought a focus on more rigorous quality and performance-based data, analytics, improvement science, and implementation research.
+Another major source of quality measures can be found at the NQF. The NQF endorsed over 300 measures that are used in federal public reporting and pay-for-performance programs as well as in private-sector and state programs. Measures that focus specifically on health plans are published by NCQA. NCQA’s Healthcare Effectiveness Data and Information Set (HEDIS) are measures used by more than 90% of America’s health plans to assess performance on multiple dimensions of care and service. CMS is working with health plans, purchasers, physicians, provider organizations and consumers on a Core Quality Measures Collaborative to identify sets of quality measures that payers have committed to using. The guiding principle of the Collaborative was to develop core measure sets that are meaningful to patients, consumers, and physicians, while reducing variability in measure selection, collection burden, and cost.50
+In 2014, CMS began the implementation of Cross Setting Measures as mandated by the Impact Act.51 The Impact Act requires the submission of standardized data by Long-Term Care Hospitals (LTCHs), SNFs, Home Health Agencies (HHAs), and Inpatient Rehabilitation Facilities (IRFs). Examples of measures include the skin integrity and changes in skin integrity; functional status, cognitive function, and changes in function; transfer of health information and care preferences for transitions between levels of care; and, all-condition risk-adjusted potentially preventable hospital readmissions rates.
+AHRQ is instrumental in advancing the study of measures, especially outcomes and the effectiveness of specific treatments. Criteria have been developed for the selection of measures based on attributes52 that include the following:
+•Standardization: Report the same kind of data in the same way.
+•Comparability: If appropriate, results are risk adjusted for factors (e.g., age, gender, health status).
+•Availability: Data will be available.
+•Timeliness: Results will be available when most needed.
+•Relevance: Results measure concerns of stakeholders and users.
+•Validity: Measures have been tested so they consistently and accurately reflect the measure.
+•Experience: Organizations have experience with the measure so it reflects actual performance.
+•Stability: The measure is not likely to be removed from use.
+•Evaluability: The measure can be evaluated as better or worse.
+•Distinguishability: The measure denotes differences between organizations.
+•Credibility: The measures can be audited.
+Other sources of measures are shown in TABLE 4-7.
+Table 4-7 Sources of Measures
+Type
+Examples of Measure Sources
+Administrative data
+Volume, admissions
+Discharges
+Length of stay (LOS)
+Billing data
+Uniform Hospital Discharge Data Set (UHDDS)
+Medical records
+Clinical care
+Medication use
+Surgery and procedural data
+Patient surveys
+Consumer Assessment of Healthcare Providers and Systems (CAHPS)
+Standardized clinical data sets
+Performance Measurement Reporting [The Joint Commission] (ORYX®)
+Outcome and Assessment Information Set (OASIS)
+National Surgical Quality Improvement Program (NSQIP)
+Healthcare Effectiveness Data and Information Set (HEDIS)
+AHRQ (Inpatient Quality Indicators, Patient Safety Indicators, Pediatric Quality Indicators)
+National Hospital Quality Measures
+National Database of Nursing Quality Indicators (NDNQI)
+Other
+Culture of safety surveys
+Feedback from patients and families
+Grievance and complaints
+Employee engagement surveys
+Leapfrog survey
+National Quality Forum
+When measures are developed, or selected for use, there must be a context in which to determine whether the performance of a specific measure is good. To determine the goodness, there are several factors to consider. Does the evidence pre-establish the desired or expected performance level? If not, does any regulatory, accreditation, or payer agencies identify a desired or expected performance level? The use of comparative data helps set desired targets or goals and provides a method by which to determine how well the organization is performing compared with similar organizations, competitors, best in the industry, and best in class.
+To support quality, safety, and performance improvement and other administrative functions, many organizations have moved in the direction of building large data warehouses that include information from all systems in the organization. For example, these data warehouses contain clinical, operational, financial, and human resources data. The data warehouses are supported by hardware (e.g., servers) and database software that combines the information into integrated data tables. The ability to integrate these data allows for robust reporting and analyses.
+Data collection can be both expensive and time-consuming for any organization. Just enough data are collected; avoid
+p. 218
+p. 219
+over-measurement in terms of both number of measures and frequency of measurement and analysis. Healthcare quality professionals can prevent duplicate data collection efforts among different groups and departments. It is preferable to pilot a new data collection process, even if it is new only to the organization. The development of a comprehensive data collection plan for improvement activities can leverage the warehouse and conserve resources. Planning includes the following steps:
+•Determine the who, what, when, where, why, and how.
+•Structure the design.
+•Choose and develop the sampling method.
+•Determine and conduct the necessary training.
+•Delegate responsibilities and communicate timelines.
+•Facilitate interdepartmental/cross-functional coordination.
+•Forecast the budget requirements.
+•Conduct pilot procedures for the forms and the data collection process.
+Connected to the data warehouse is usually at least one business intelligence (BI) tool that allows end users, including quality, safety, and performance improvement staff, to create their own reports. The BI tools have the capability to filter data by diagnosis, location, or provider and produce sophisticated tables, graphs, and analyses. These tools also allow for trending over time and comparisons of different groups. Utilizing the BI tool enables the capability to analyze baseline information before a QI project starts, look at trends over time, and measure the impact of improve efforts. Further, analytical tools, such as R, SAS, or SPSS can be used on the data available in the warehouse to test for significant changes, control for varying patient characteristics, and build predictive models.
+See Performance and Process Improvement and Patient Safety for more information on evaluation and measures.
+Data Types
+There are two general types of data: measurement/continuous and count/categorical. Ordinal data are a form of categorical data. Methods of sampling, data collection, and analysis are different for each type or level of data. This distinction is critical because quality, safety, and performance improvement work involves both types of data and their associated statistics. It is one of the most significant sources of confusion for people new to performance improvement and data analysis. Data levels are categorical (nominal and ordinal) and continuous (interval and ratio).
+Categorical
+Nominal. Nominal data are also called count, discrete, or qualitative data. In statistical process control (SPC) these are known as attributes data. Binary data are categorical data with only two possibilities (e.g., gender). Numerical values can be assigned to each category as a label to facilitate data analysis, but this is purely arbitrary with no quantitative value. There is no order to these data. Examples of nominal scale data are shown in TABLE 4-8.
+Table 4-8 Examples of Nominal Variables
+Nominal Variable
+Values
+Surgical patients
+Preoperative
+Postoperative
+Gender
+Male
+Female
+Patient education
+Attended video session
+Did not attend video session
+Ordinal. For this type of data, characteristics are put into categories and are rank-ordered. Assignment to categories is not arbitrary. Examples of ordinal scale data are shown in TABLE 4-9.
+Table 4-9 Examples of Ordinal Variables
+Ordinal Variable
+Values
+Nursing staff rank
+1.Nurse Level 1
+2.Nurse Level II
+3.Nurse Level III
+Education
+1.Diploma/Associate Degree
+2.BS
+3.MS
+4.PhD/DNSc/DNP
+Attitude toward research (Likert scale)
+1.Strongly agree
+2.Agree
+3.Neutral
+4.Disagree
+5.Strongly disagree
+Continuous. Continuous or “measured” data are assigned scales that theoretically have no gaps. The SPC term for this is
+p. 219
+p. 220
+variables data. There are two subtypes of continuous data: interval and ratio.
+•Interval. For interval-level data, the distance between each point is equal and there is no true zero (e.g., the values on a Fahrenheit thermometer).
+•Ratio. For ratio-level data, the distance between each point is equal and there is a true zero (e.g., height and weight).
+Measurement/continuous data often can be converted to count/categorical data. For example, the number of pounds lost by a patient undergoing hemodialysis during treatment in relationship to his or her desired or “dry weight” is measurement data. If Mr. Jones was admitted at 170 lb and was discharged at his dry weight of 165 lb, then he measured a 5-lb weight loss. If the nurse manager wanted to know the number of patients finishing their treatments at their “dry weight” for the entire day, then this information would be an example of count data and would be converted into “yes/no” format.
+A critical issue is whether the right data are measured or counted. A common criticism of quality, safety, and performance improvement activities is that readily available data, such as patient visits, deaths, infections, falls, cost, and laboratory tests, are analyzed for improvement specifically because the data are easy to retrieve.
+Statistical Power
+Categorical data are the least powerful statistically, and continuous data have the most power. The practical meaning of this when comparing patient outcomes after process change is that fewer data points (and fewer subjects) are needed if data in continuous form are collected, if the researcher has a choice. For example, when dealing with blood pressure, a healthcare quality manager might collect the data by categorizing subjects as either hypertensive or non-hypertensive, or by recording the measured levels of systolic and diastolic pressure. The latter form is more powerful and allows more flexibility in data analysis.
+When a quality, safety, and performance improvement project is designed, each step must be planned and accountability assigned. Each organization can adopt an improvement model that facilitates performance improvement and is in alignment with its mission, vision, core values, goals, and strategic plan (for more information, see Organizational Leadership and Performance and Process Improvement).
+Sampling Design
+A population (N) is the total aggregate or group (e.g., all cases that meet a designated set of criteria for practitioners, all patients who died at a particular hospital, or all registered nurses with a tenure of 10 years or longer).
+Sampling makes research more feasible because it allows researchers to sample a portion of the population to represent the entire population (n). A sample usually is selected from the accessible population; that is, the population that is available.
+Sampling has several primary purposes, including providing a logical way of making statements about a larger group based on a smaller group and allowing researchers to make inferences or generalize from the sample to the population if the selection process was random and systematic (i.e., unbiased).
+Types of Sampling
+There are different methods that might be used to create a sample. Generally, they are grouped into one of two categories described below: probability sampling and nonprobability sampling.
+p. 220
+p. 221
+Probability. Probability sampling requires every element in the population to have an equal or random chance of being selected for inclusion in the sample. The following are subsets of probability sampling:
+•Simple random sampling. Everyone in the sampling frame (all subjects in the population) has an equal chance of being chosen (e.g., pulling a name out of a hat containing all possible names).
+•Systematic sampling. After randomly selecting the first case, this method involves drawing every nth element from a population. For example, picking every third name from a list of possible names.
+•Stratified random sampling. A subpopulation is a stratum, and strata are two or more homogeneous subpopulations. After the population is divided into strata, each member of a stratum has an equal probability of being selected. Examples of strata include sex, ethnicity, patients with certain diseases, or patients living in certain parts of the country.
+•Cluster sampling. This method requires that the population be divided into groups, or clusters. For example, if a researcher is studying medical students, they may not have individual names but may have a list of medical schools in the area. The sample may be randomly derived from this list of medical schools.
+Nonprobability. Nonprobability sampling provides no way of estimating the probability that each element will be included in the sample. When this approach is used, the results will be representative of the sample only and cannot be generalized to the available population. The following are subsets of nonprobability sampling:
+•Convenience sampling. This approach allows the use of any available group of subjects. Because of the lack of randomization in this sampling method, subjects may be atypical in some way. Sending a survey to a list of members of an elder organization may not reflect the opinions of all elders, for example. Convenience sampling may include all patients at an organization who are undergoing a certain procedure over a 12-month period. Selection bias may be present in all convenience sampling because the selected subjects may not accurately reflect the population of interest.
+•Snowball sampling. This is a subtype of convenience sampling. This method involves subjects suggesting other subjects for inclusion in the study so the sampling process gains momentum. With this type of sampling, subjects are recruited who are difficult to identify but are known to others because of an informal network.
+•Purposive or judgment sampling. This method selects a group or groups based on certain criteria. This method is subjective, and the researcher uses their judgment to decide who is representative of the population. Using a group of nurses, because the researcher believes the group represents a cross-section of women, is an example of this type of sampling.
+•Expert sampling. This is a type of purposive sampling that involves selecting experts in each area because of their access to the information relevant to the study. Expert sampling is used in the Delphi technique, in which several rounds of questionnaires are distributed on a selected topic and sent to experts to elicit their responses and then sent out again after the initial data analysis. The goal is to achieve rapid group consensus. A conference planning team serves as an example if it uses the Delphi method to identify potential program content that may be of interest to those in the same professions for an upcoming conference.
+•Quota sampling. In this type of sampling, the researcher makes a judgment decision about the best type of sample for the investigation. That is, the researcher pre-specifies characteristics of the sample to increase its representativeness. The researcher identifies strata of the population and determines the proportions of elements needed from various segments of the population. Stratification may be based on any demographic, such as age or ethnicity.
+Sample Size
+Many factors may influence the determination of sample size, such as research purpose, design, level of confidence desired, anticipated degree of difference between study groups, and size of the population. Depending on these factors, a small or large sample size may be appropriate. However, except for case studies, the larger the sample, the more valid and accurate the study because a larger sample size is more likely to represent the population. The larger the sample, the smaller the sample error of the mean, which is a measure of fluctuation of a statistic from one sample to another drawn from the same population. Also, as the actual difference between study groups gets smaller, the size of the sample required to detect the difference gets larger. Outcomes that are measured on a continuous scale or using repeated measures require fewer subjects than do categorical outcomes. Using too large a sample to answer a research question is a waste of time and resources.
+Variation
+Use of an SPC chart clarifies and interprets a function or process. The performance of functions or processes varies over time. This variation is expected and predictable and is referred to as random or common-cause variation. A process is said to be “in control” if the variation is within the computed
+p. 221
+p. 222
+upper and lower limits and no trends are evident. There is no need to act if a process is in control. Special-cause variation occurs when activity falls outside the control limits or there is an obvious nonrandom pattern around the central line. This type of variation is interpreted as a trend and investigated.
+Trends
+When a trend is identified for a measure in an unanticipated direction, an investigation is initiated to determine the cause (e.g., RCA). For example, if the 30-day readmission rate is climbing 1% every month for a 6-month period there might be change in practice that needs to be addressed. In this case, an inter-professional team may be convened to further analyze and improve the process that is causing the increase. The team uses performance improvement principles and tools (e.g., histograms, flowcharts, Pareto charts, cause-and-effect diagrams, run charts; for more information, see Performance and Process Improvement). After thorough analysis of the process, the team selects and implements appropriate corrective measures.
+Comparison Groups
+One of the biggest challenges in making conclusions in the evaluation of QI interventions is the lack on “true” comparison group. While looking for changes over time is useful, there is more value in comparing to a group that did not get the intervention (e.g., change in process). Since random assignment to different groups is usually not possible, selecting a comparison group is based on convenience. For example, it might be possible to test a new standard of practice (i.e., intervention) to reduce pressure ulcers on several nursing units while maintaining the current practice on other nursing units (i.e., control). The problem is the patients on the units might not be the same. One approach to dealing with this problem is to use propensity score matching.53 Propensity score matching is a multivariate approach to pairing up people with the same characteristics in the intervention and control groups to eliminate potential impact of variation between the groups that are not equal. Propensity score matching is an effective approach to equating groups and a tool that quality, safety, and performance improvement teams consider when analyzing data.
+Measurement Tools
+Instruments are the devices that healthcare quality professionals and researchers use to obtain and record data received from the subjects. These instruments can include questionnaires, surveys, rating scales, interview transcripts, and the like. It is critical to use the most credible tools possible (those with proven reliability and validity).
+Reliability
+Reliability is the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials. For example, a scale that measures a person’s weight as 110 lb one minute and then yields a reading of 160 lb a minute later would be considered unreliable and not capable of meeting the standards for accuracy or consistency.
+•Reliability coefficient. The stability of an instrument is derived through procedures referred to as test–retest reliability. This is done by administering the test to a sample of people on two occasions and then comparing the scores obtained. The comparison results in a reliability coefficient, which is the numerical index of the test’s reliability. The closer the coefficient is to 1.0, the more reliable the tool. In general, reliability coefficients of ≥0.70 are considered acceptable, although ≥0.80 is desired. The reliability coefficient can be determined by evaluating the internal consistency of a measure. This refers to the degree to which the subparts of an instrument are all measuring the same attribute or dimension. The “split-half” technique is one of the oldest methods for assessing internal consistency of an instrument and can be done by hand. It correlates scores on half of the measure with scores on the other half. The concept of reliability by equivalence is established by comparing scores from the various versions of the instrument that have been developed (e.g., parallel forms or alternate forms of a test). This concept is used to compare different translations of a measurement tool or different forms of the Certified Professional in Healthcare Quality (CPHQ) examination, for example.
+•Interrater reliability. This concept refers to the degree to which two raters, operating independently, assign the same ratings in the context of observational research or in coding qualitative materials. The monitoring of the accuracy of a patient acuity system entails interrater reliability. The staff that monitors the system must be able to assign the same classification to the same patient to ensure reliability of their monitoring. Interrater reliability frequently is reported as a degree of concordance, or Cohen’s kappa.
+Validity
+Validity is the degree to which an instrument measures what it is intended to measure. Validity usually is more difficult to establish than reliability. The validity and reliability of an instrument are not wholly independent of each other. An instrument that is not reliable cannot possibly be valid. However, an instrument that is reliable does not have to have validity. For example, a thermometer is a reliable instrument, but it is not valid for measuring height.
+p. 222
+p. 223
+•Content (face) validity. This is the degree to which the instrument adequately represents the universe of content. Content validity, although necessary, is not a sufficient indication that the instrument measures what it is intended to measure. For example, a panel of rehabilitation specialists evaluated the functional independence measure (FIM™) tool and identified that it measured the key aspects of functional independence. On the other hand, a survey designed to measure patient satisfaction with their primary care provider would be considered inadequate in terms of content validity if it failed to cover the major dimensions of access, waiting time, practitioner–patient interaction, or engagement. Content validity includes judgments by experts or respondents about the degree to which a test appears to measure the relevant construct.
+•Construct validity. This concept refers to the degree to which an instrument measures the theoretical construct or trait that it was designed to measure. For example, severity-adjustment scales are tools for measuring staffing needs. Risk-adjustment scales are tools for predicting the probability of outcomes such as morbidity and mortality. If a previously used satisfaction tool had demonstrated validity, a new, abbreviated tool can be compared to the “old” tool to determine whether the new tool has construct validity. Similarly, two functional status health outcome measures could be compared, such as the SF-36 and SF-12 instruments.
+•Criterion-related validity. This concept refers to the extent that the score on an instrument can be related to a criterion (the behavior that the instrument is supposed to predict). Criterion-related validity can be either predictive or concurrent, depending on when the criterion variable is measured. If the criterion variable is obtained at the same time as the measurement under study, concurrent validity is assessed. If the criterion measure is obtained at some future time (after the predictor instrument was used), predictive validity is assessed. A patient acuity system has criterion-related validity because it predicts staffing needs (skill mix and number of staff required).
+Statistical Techniques
+The discussion of statistical techniques that follows is in no way a complete account of each topic. Other sources for more information on the various statistical techniques, including Hansen’s CAN’T MISS series, are included in Suggested Reading & Online Resources at the end of this section.
+Measures of Central Tendency
+Measures of central tendency are statistical indexes that describe where a set of scores or values of a distribution cluster. Central refers to the middle value, and tendency refers to the general trend of the numbers. A healthcare quality manager or researcher might ask questions relating to central tendency when answering queries such as, “What is the average LOS for patients with chronic obstructive pulmonary disease?” or “What is the Apgar score of most infants born in the new birthing suites?” The three most common measures of central tendency are the mean, the median, and the mode. The type and distribution of the data determine which measures of central tendency (and spread) are most appropriate.
+Mean. The mean (M) of a set of measurements is the sum of all scores or values divided by the total number of scores. The mean is also known as the average.
+Example: If five infants had Apgar scores of 7, 8, 8, 9, and 8, the sum of the values is calculated, and then divided by the total number of infants: 7 + 8 + 8 + 9 + 8 = 40; 40 ÷ 5 = 8; therefore, 8 is the mean.
+The mean is the most commonly used of all the measures of central tendency, but it is the most sensitive to extreme scores. In the example given above, if one infant was severely depressed at the time of Apgar scoring and was given a value of 1 instead of 9, the mean then would be 6.4 rather than 8. In this case, the mean is no longer representative of the entire group because it was substantially lowered by just one score. The median, described below would be a better statistic to use.
+It is appropriate to compute the mean for interval or ratio data when variables can be added and the values show a bell-shaped or normal distribution. The mean also can be used with ordinal variables that have an approximately normal distribution.
+Median. median is the measure of central tendency that corresponds to the middle score; that is, the point on a numerical scale above which and below which 50% of the cases fall. To determine the median of data, first arrange the values in rank order. If the total of values is odd, count up (or down) to the middle value. If there are several identical values clustered at the middle, the median is that value. If the total number of values is even, compute the mean of the two middle values.
+Example: Consider the following set of values: 2 2 2 3 4 5 6 6 8 9. The median for this set of numbers is 4.5, which is the value that divides the set exactly in half. Note that an important characteristic of the median is that the calculation does not consider the quantitative values of the individual scores. An example of this notion can be demonstrated in the sample above. If the last value of 9 were increased to the value 84, the median would remain the same because it does not enter the computation of the median; only the number of values and the values near the midpoint of the distribution enter the computation. The median, consequently, is not sensitive to extreme scores or statistical outliers. It is appropriate to
+p. 223
+p. 224
+compute the median for ordinal, interval, or ratio data, but not for nominal data.
+Mode. The mode is the score or value that occurs most frequently in a distribution of scores. Of the three measures of central tendency, the mode is the easiest to determine; simply determine which value occurs most often in the data set.
+Example: Look at the following distribution of numbers: 30 31 31 32 33 33 33 33 33 34 35 36. It is easy to determine that the mode is 33; the value of 33 appears five times, a higher frequency than for any other number. An easy way to determine the mode is by using a statistical package to run descriptive data frequencies and/or a stem-and-leaf plot. In research studies, the mode is seldom the only measure of central tendency reported. Modes are viewed as a quick and easy method to determine an “average,” but they tend to be unstable. This instability means that the modes tend to fluctuate widely from sample to sample, even when drawn from the same population. Thus, the mode is reported infrequently, except when used as a descriptor for “typical” values on nominal data. For example, a research report may describe the sample population demographic data as follows: “The typical respondent was a Hispanic man who was married.”
+Measures of Variability
+In the preceding section the purpose of measuring the central tendencies of data was to describe the ways subjects or cases group together. In contrast, variability looks at the dispersion, or how the measures are spread out. Variability further may be defined as the degree to which values on a set of scores differ. For example, it is expected that there is greater variability of age within a hospital than within a nursing home or pediatric intensive care unit. Measures of variability are interpreted as distances on a scale of values, which are unlike averages that are points representing a central value.
+The three measures of variability that are presented in this review are the range, SD, and interpercentile measures.
+Range. The range is the difference between the highest and lowest values in a distribution of scores. Although it indicates the distance on the score scale between the lowest and highest values, the range is best reported as the values themselves and not as the distance between the values. Range offers advantages: It is a quick estimate of variability and it provides information about the two endpoints of a distribution. Disadvantages of range include its instability because it is based on only two scores: its tendency to increase with sample size, and its sensitivity to extreme values.
+Example: Test scores for students range from 98 to 60. The range is 98 minus 60, or 38. When the range is reported in research findings, it normally would be written as a maximum and a minimum, without the subtracted value.
+Standard Deviation. SD, an average of the deviations from the mean, is the most frequently used statistic for measuring the degree of variability in a set of scores. Standard refers to the fact that the deviation indicates a group’s average spread of scores or values around their mean; deviation indicates how much each score is scattered from the mean. The larger the spread of a distribution, the greater the dispersion or variability from the mean; consequently, the SD will be a larger value and is said to be heterogeneous. The more the values cluster around the mean, the smaller the amount of variability or deviation and the more homogeneous the group is said to be and it will have a smaller SD. The standard bell curve illustrates this measure of variability (FIG. 4-2). A histogram can be used to display data distribution and to determine if data are normally distributed. When computing the SD, as with the mean, all the scores or values in a distribution are taken into consideration. Use of the SD is most appropriate with normally distributed interval or ratio scale data. SDs (and means) also may be calculated for normally distributed values from a broad ordinal scale. SDs can be calculated by hand or with statistical software.
+Figure 4-2 Normal distribution.
+Example: The researcher may compare coping-scale scores for two groups of patients, with each group having a different
+p. 224
+p. 225
+ethnic background. Although each distribution demonstrated a mean score of 30, the SDs were computed at 3 and 8, respectively. The investigator could conclude that although the means were alike, one sample was more homogeneous (or had less variance) in its coping skills.
+Interpercentile Measures. Although there are several interpercentile measures of variability, the most common is the interquartile range, a stable measure of variability based on excluding extreme scores and using only middle cases. The interquartile range is more stable than the range and is determined by lining up the measures in order of size and then dividing the array into quarters. The range of scores that includes the middle 50% of the scores is the interquartile range; that is, the range between scores comprising the lowest quartile, or quarter, and the highest quartile. The interquartile range demonstrates how the middle 50% of the distribution is scattered. The first quartile ends at the 25th percentile. Interquartile range values often are presented in “box plots.”
+Example: Growth charts are one of the most commonly used interpercentile measures. Normal growth is represented by measurements between the 25th and 75th percentiles on the National Center for Health Statistics growth charts.
+Example: Clinical pathways are developed based on the interquartile range of the designated population. Paths can be designed around the average patient or those in the middle quartiles.
+Statistical Tests
+Significance tests are categorized as either parametric or nonparametric. Parametric tests are used with data measured on a continuous scale (i.e., interval or ratio data, which also are known as variables data). Nonparametric tests are used with categorical (attributes) data and used with ordinal data, especially if the ordinal categories have a small range of possible values or a non-normal distribution. TABLE 4-10 summarizes statistical options for each type of data and the best types of statistical tests for healthcare studies.
+Table 4-10 Statistical Options for Different Data Types
+Categorical
+Ordinal
+Continuous
+Statistical process control (SPC): “attribute,” nominal, discrete, binary (0/1)
+Ordinal categorical
+SPC: “variables” measured
+Examples
+Gender, vital status, ethnicity
+Age in categories, functional independence measure (FIM) items, patient satisfaction
+Age, FIM total, charges, LOS
+Usually reported as
+Percentage in each category
+Percentage in each category (but not always)
+Mean, median, min, max, percentiles
+Usual statistical test of differences between groups
+Chi square (χ2)
+χ2 for most scales; t-tests may be appropriate (>6 levels) if there is a broad scale between groups and data are normally distributed
+t-Tests
+Control charta
+p if rate > 1/100
+u if 1/1,000 < rate
+<1/100
+c if rate < 1/1,000
+Depends on scale, data distribution, and whether regrouped
+p charts, c charts, x bar and R charts
+Rules of thumb for sample sizes per plotted point
+For p charts; ± 40 common events; up to 200 for rarer events
+(see p chart rules)
+Calculate mean based on 2–10 randomly selected values (3–4 optimal)
+Usual regression techniqueb
+Logistic
+Logistic (if regrouped as 0/1 outcome)
+“Ordinary least squares”
+aMost commonly used type; lists not exhaustivebRegression is the preferred method for simultaneous control of numerous “demographic” variables (e.g., gender, age, ethnicity, severity) and is most commonly used in research settings. To control for the influence of a single demographic variable, consider stratifying the analysis by levels of that demographic variable.
+p. 225
+p. 226
+Parametric Tests. Parametric tests are based on assumptions about the distribution of the underlying population from which the sample was taken. The most common parametric assumption is that data are approximately normally distributed.54
+t-Test. The t-test assesses whether the means of two groups are statistically different from each other. When determining whether the difference between two group means is significant, a distinction must be made regarding the two groups. The two groups may be independent; that is, a control group and an experimental group, or they can be dependent, wherein a single group yields pretreatment and posttreatment scores.
+Example: A healthcare quality manager wants to test the effect of a special educational program on departmental heads’ attitudes toward using graphical or visual displays of data in their performance improvement team meeting. Ten of the 20 department heads are randomly assigned to an experiment group, which will be exposed to videos, discussion groups, and lectures on the use of the basic quality control tools and management and planning tools. The remaining 10 department heads comprise the control group, which will not receive special instruction on using the tools. At the end of the experiment, both groups are administered a scale measuring attitudes toward using these tools. The two-sample independent t-test helps the researcher determine if there was a significant statistical difference between the two groups (i.e., whether any difference was due to chance).
+Alternatively, if all 20 department heads received the training with pre- and post-training testing scores, the statistical significance of any changes in average scores would be measured using a “paired sample” t-test.
+Regression Analysis. Regression analysis is based on statistical correlations, or associations among variables. A correlation between two variables is used to evaluate the usefulness of a prediction equation. If this correlation were perfect (i.e., r= 1 or r = –1), it would be possible to make a perfect prediction about the score on one variable given the score on the other variable. Unfortunately, this is never the case because there never are perfect correlations; consequently, it never is possible to make perfect predictions. The higher the correlation between variables, the more accurate the degree of prediction. If there were no correlation between two variables (i.e., r = 0), knowing the score of one would not help to estimate the score on the other. In simple linear regression, one variable (x) is used to predict a second variable (y). For example, simple regression can be used to predict weight based on height or to predict response to a diabetes management program. Regression analysis is performed with the intent to make predictions about phenomena. The ability to make accurate predictions has substantial implications in the healthcare industry.
+Multiple Regression Analysis. Multiple regression analysis estimates the effects of two or more independent variables (x) on a dependent measure (y). For example, the objective may be to predict intravenous (IV) site infiltration (y) based on predictors (x), which may include osmolarity of the IV solution and addition of an irritating medication, such as potassium, to the IV.
+Nonparametric Tests. One might define nonparametric statistical procedures as a class of statistical procedures that do not rely on assumptions about the shape or form of the probability distribution from which the data were drawn.54
+Chi-Square (χ2) Tests and Categorical (Attributes) Data. Much of the data collected by healthcare quality professionals is counted, not measured. Being counted (e.g., 15 male and 30 female patients in the clinic today) means that many arithmetic operations do not apply (it is not possible to calculate the average gender of patients). But it certainly is possible to describe the ratio of the counts (e.g., there were twice as many woman as men in the clinic today) or to compare proportions with counted data (50% of male vs. 75% of female patients, came for their appointments today). The chi-square test (χ2) measures the statistical significance of a difference in proportions and is the most commonly reported statistical test in the medical literature. It is the easiest statistical test to calculate manually (see the CAN’T MISS series). It is a statistical test commonly used to compare observed data with data that one would expect to obtain per a specific hypothesis.
+Example: Using the previously furnished appointment data, 15 of 30 men (50%) with appointments failed to keep them, while only 10 of 40 women (25%) failed to appear. The referent rate of missed appointments in men would be 0.5/0.25 = 2 (i.e., men are twice as likely to not show up as women). While that may or may not fit the hypothesis about men’s behavior in this situation, the statistical question is whether this 25% difference in the proportion of no-shows might have happened by chance sampling (in this case, scheduling might be causing the difference). The null hypothesis is that men and women fail to show up for appointments at about the same rate (i.e., rate = 1). Thus, χ2 tests indicate the likelihood of noting a twofold difference in no-shows between the groups if in fact men and women fail to keep their appointments at the same rate. The actual χ2 value (test statistic) for these data is 5.84, which corresponds to a statistical significance (p) value of less than 0.02, meaning fewer than 2 out of every 100 days would result in a schedule with which men were twice as likely to not show up. In other words, there is a 2% probability that the difference in no-shows by gender is due to chance, but there is a 98% probability the difference is due to some other factor or factors.
+p. 226
+p. 227
+Tests of Significance. Tests for statistical significance are used to determine the probability that a relationship between two variables is just a chance occurrence. Discussed here are confidence interval (CI) and level of significance.
+Confidence Interval. A CI provides a range of possible values around a sample estimate (a mean, proportion, or ratio) that is calculated from data. CIs commonly are used when comparing groups, but they also have other applications. They reflect the uncertainty that always is present when working with samples of subjects. The sample estimate(s) are a best guess about the true value of interest. For example, continuing the missed appointment example above, it is estimated that 50% of men miss their appointments, but the true value may be higher or lower. There is similar uncertainty about the true proportion of women who miss their appointments and about the ratio of the men’s and women’s proportions. Using the measure of variation from a sample, it is possible to construct a CI that, with a stated level of probability, holds the true value of interest.
+Example: It was observed (hypothetically) that men are twice as likely to miss their appointments as women. The 95% CI around the referent rate of 2 is (1.27 to 3.13), meaning there is 95% certainty that men are between 1.27 and 3.13 times more likely to miss their appointment. A lower level of confidence would include a narrower range of values. For example, the 90% CI around the referent rate for the appointment data would be (1.44 to 2.77).
+Level of Significance. The level of significance (p) gives the probability of observing a difference as large as the one found in a study when, in fact, there is no true difference between the groups (i.e., when the null hypothesis is true). A small p value indicates a small chance that the null hypothesis is true and favors the alternative hypothesis that there is a significance between the two groups. Historically, when the p value is less than 0.05, healthcare quality managers and researchers declared their results statistically significant and “rejected the null hypothesis.”
+Example: The p value for the ratio of missed appointment rates above was 0.02, so it was concluded that there was little evidence that men and women had the same rate of missed appointments (“the null”) and determined that men probably had a higher rate of missed appointments. How much higher? There is 95% confidence that the odds ratio lies between 1.27 and 3.13 times more likely to miss their appointments (see the CI example above). Note that if the p value had been >0.05, the 95% CI would have included 1.0, determining that there was no difference in the proportions of men and women who miss their appointments.
+Described next are decision-making methods and tools, SPC, and types of variation, and examples of these tools.
+Methods and Tools
+The management of data, analysis of information, and management through knowledge are necessary to change and improve healthcare organizations. For the tools to be successful, a strong team facilitator is necessary. Many tools are useful in the analysis of current processes and the design of new processes; this discussion is not meant to be all-inclusive. Various charts and diagrams can be used by healthcare professionals when considering the data collected to make sense of them. These tools typically represent the data in a visual way to assist stakeholders in making decisions about improvement.
+Activity Network Diagram
+This tool also is known as an arrow diagram (FIG. 4-3) (in industry it also is called the program evaluation and review technique or a critical path method chart). In the arrow diagram, arrows connect articles (nodes) that represent a start and finish of activities. The arrows themselves represent the activities to be completed. Using the arrow diagram, a sequence of events is depicted. It is useful when several simultaneous paths must be coordinated.
+How to construct
+1.List all the necessary tasks, one per card, to complete a project from start to finish.
+2.Use the cards to sequence the activities for each path.
+3.Identify the places in the paths where there are connections with other paths. These places identify parts of one path that cannot be initiated until a point in another path is reached.
+4.Determine the time duration for each task.
+5.Calculate the shortest possible time to complete the project.
+6.Review and revise the diagram as needed.
+When to use
+•When a task is complex or crucial to an organization
+•When simultaneous implementation of several paths must be coordinated
+Figure 4-3 Activity network diagram.
+p. 227
+p. 228
+Stratification Chart
+Stratification charts (FIG. 4-4) are designed to show where a problem does and does not occur or to demonstrate underlying patterns. One such chart is called the is/is-not matrix. This matrix is used to organize knowledge and information so that patterns can be identified.
+How to construct
+1.Examine the process to identify characteristics that could lead to biases and systematic differences in your results.
+2.Enter data onto data collection forms (such as day of week or month, shifts or workers).
+3.Look for patterns related to time and sequence.
+Alternate tool: Is/is-not matrix
+1.Enter data (such as where, when, what kind or how much, and who) onto a matrix in the column on the left.
+2.Across the top of the matrix list three columns: Is (when does something occur); Is Not (when does something not occur); and Therefore (what might explain the pattern of occurrence).
+3.Fill in the boxes.
+When to use
+•Before data collection to know what difference or patterns to look for
+•After data collection to determine which factors affected the results
+Figure 4-4 Stratification charts.
+Histogram or Bar Chart
+Before further analyzing a data set, the distribution of values for each of the variables is reviewed (FIG. 4-5). The optimal tool for reviewing a distribution depends on the amount of information. A bar chart with a separate bar for each value may be used when data are sparse (e.g., fewer than 12 values), but, as the data increase, it becomes
+p. 228
+p. 229
+necessary to organize and summarize them. Histograms are a specialized type of bar graph used to summarize groups of data. It is the most commonly used frequency distribution tool that presents the measurement scale of values along the x axis (each bar is equal-sized interval) and the frequency scale along the y axis (counts or percentages). Plotting the frequency of each interval reveals the pattern of the data, showing their center and spread (including outliers) and whether there is symmetry or skew. This is important information because it may reveal problems in the data and may influence the choice of measure of central tendency and spread.
+How to construct
+1.Accumulate at least 25 data points (to give them at least five bars).
+2.Rank the data points from the smallest to the largest.
+3.Calculate the range of the data by subtracting the smallest value from the largest.
+4.Estimate the number of bars to be displayed (equals the square root of the number of data points).
+5.Determine the width of the bars by dividing the range by the calculated number of bars, rounding the numbers as necessary.
+6.Draw the vertical axis to show the number of times a value of the data falls with each bar.
+7.Draw the horizontal axis to show the number of times a value of the data falls with each bar.
+8.At the left side, draw bars with heights equal to the number of times the data fall within the bounds of each bar.
+9.Label the histogram and describe the source, data, and author.
+When to use
+•Show the data distribution or spread
+•Show whether the data are symmetric shape (approximately the same on both sides) or skewed (right or left)
+•Show whether there are extreme data values (outliers)
+Figure 4-5 Histogram or bar chart.
+An important distinction must be made regarding bar charts and histograms. With a bar chart, the x axis consists of discrete categories (each bar is a separate group). An example of this would be plotting systolic blood pressure >140 by ethnic group. The height of the bar represents the frequency of elevated blood pressure for each 1 mm Hg change in each ethnic group. A histogram’s x axis is divided into categories using equally sized ranges of values along the axis. The variable is measured on a continuous scale, and the bars are not separated by gaps. To continue with the systolic blood pressure example, the groupings of the x axis could be equal-sized, with ranges defined, for example, as 90 to 99, 100 to 119, or 120 to 129 mmHg. Histograms can be constructed manually or automatically with various statistical software programs.
+Pie Chart
+Pie charts (FIG. 4-6) are useful for understanding all the responses on a measure, usually expressed as percentages. For example, if a home care agency wanted to visualize the discharge disposition of patients when they leave care the agency would count the number staying home with no care, referred to an SNF, readmitted to the hospital or any other category. The slices of the pie would then represent percentage in each group. Bigger slices represent a greater proportion of patients.
+How to construct
+1.Values on the pie chart should equal 100%.
+2.Draw sectors that are equal in size to the quantity represented.
+3.Color code sectors of pie.
+4.Label units of measurement.
+5.Provide a legend for sector categories.
+6.Insert Title.
+When to use
+•Graphical display to show the distribution or spread of comparative data
+•During any stage of PDSA to communicate data distribution. This is a visual representation of data, but not an analysis
+•Answer questions
+⚬Where do more of the incidents occur?
+⚬Which location experiences the least incidents?
+Figure 4-6 Pie chart. (Adapted from National Association for Healthcare Quality. Data Analysis and Reporting: Quick Reference Guide. Chicago, IL: NAHQ; 2016; Centers for Disease Control and Prevention. Evaluation briefs: Using graphs and charts to illustrate quantitative data; 2008. https://www.cdc.gov/healthyyouth/evaluation/pdf/brief12.pdf.)
+Pareto Diagram/Pareto Chart
+A Pareto diagram or chart (FIG. 4-7) displays a series of bars with which the priority for problem solving can easily be seen by the varying height of the bars. The tallest bar is the most frequently occurring issue. The bars always are arranged in descending height. This tool is related to the Pareto principle (named after the 19th-century economist Vilfredo Pareto), which states that 80% of the problems or effects come from 20% of the causes. Therefore, by tackling 20% of the most frequent causes, an 80% improvement can be achieved.
+How to construct
+1.Identify the independent categories and the way to compare, either by frequency (count), time, cost, or other unity of analysis.Note: For four to six categories, have at least 30 data points. For 7–10 categories, have at least 60 data points. For 11 or more categories, have at least 100 data points.
+2.Rank order the data in descending categories.
+3.Calculate the percentage of the total each category depicts.
+The steps can be put into a data table.
+1.Draw the left, or vertical, axis with the unit of comparison.
+2.Draw the horizontal axis with the categories, the largest to the smallest.
+3.Draw a bar for each category.
+4.Draw the right vertical axis from 0 to 100.
+5.Draw a line graph of the cumulative percentage.
+6.Label the axes and the diagram, noting the data source, date, and author.
+When to use
+•Use when there is a need to identify the most frequent or most important factors contributing to cost, problems, etc.
+Figure 4-7 Pareto diagram or chart.
+Cause-and-Effect, Ishikawa, or Fishbone Diagram
+A cause-and-effect diagram (FIG. 4-8) is used to analyze and display the potential causes of a problem or the source of variation. There generally are at least four categories in the diagram. Some of the common categories include the four Ms: manpower, methods, machines, and materials; or the five Ps: patrons (users of the system), people (workers), provisions (supplies), places to work (work environment), and procedures (methods and rules).
+How to construct
+1.Determine the effect or the label for the diagram and put it on the far right side of the diagram.
+2.Draw a horizontal line to the left of the effect.
+3.Determine the categories (the four Ms or the five Ps).
+4.Draw a diagonal line for half of the categories above the line and half below the line.
+5.Brainstorm the list for each of the categories.
+6.Organize each of the causes on each bone.
+7.Draw branch bones to show the relationships.
+When to use
+•Identify and organize possible causes of problems
+•Identify factors that will lead to success
+•Conducting a root cause analysis
+Figure 4-8 Cause-and-effect, Ishikawa, or fishbone diagram.
+Scatter Diagram or Plot
+A scatter diagram (FIG. 4-9) is used to determine the extent to which two variables (quality effects or process causes) relate to one another. These diagrams often are used in
+p. 229
+p. 230
+combination with fishbone or Pareto diagrams/charts. The extent to which the variables relate is called correlation. Scatter plots can be created manually or with statistical or spreadsheet software.
+How to construct
+1.Collect at least 25 pairs of data for the two variables.
+2.Draw and label the data over the equal distance on the graph.
+3.Spread the data over equal distances on the graph.
+4.Plot the paired sets of data by marking the intersection of their values.
+5.Label the scatter diagram and describe the source, date, and author.
+When to use
+•Determining whether there is a relationship between two variables
+•Determining the strength of the relationship—tight, loose, or outliersTight. The factors appear to be responsible for most of the variationLoose. Other factors probably affect the dataOutliers. Special causes probably are present
+•Determining the type of relationship with variables—positive, negative, or no relationshipPositive. As one variable increases, the other increasesNegative. As one variable increases, the other decreases
+Figure 4-9 Scatter diagram or scatter plot.
+Run or Trend Chart
+Run or trend charts (FIG. 4-10) are graphic displays of data points over time. Run charts are control charts without the control limits. Their name comes from the fact that the user is looking for trends in the data or a significant number of data points going in one direction or on one side of the average.
+How to construct
+1.Draw vertical and horizontal axes.
+2.Label the vertical axis with the indicator or the variable and determine the scale.
+3.Label the horizontal axis with the unit of time or sequence for which the data were collected.
+4.Plot the data points.
+5.Connect the data points.
+6.Determine the mean of the plotted numbers and draw a mean line on the graph.
+7.Label the chart and name the source of the data, the date, and the author.
+When to use
+•Use to display variation
+•Use to detect variation (presence or absence of special causes)
+•Use when observing the effects of process improvement (observe the effects of interventions on change)
+Figure 4-10 Run chart or trend chart.
+Trends generally indicate a statistically important event that needs further analysis. Resist the tendency to see every variation in the data as significant; wait to interpret the results until at least 10 (or even better, 20) data points are plotted. As indicated in this example, it is best to not analyze data too frequently. For example, looking at quarterly data may more accurately reflect trends over time than reviewing data monthly.
+Statistical Process Control
+SPC is an approach to monitoring quality by looking at whether a process or outcome is within the bounds of what is expected. Control charts are typically used to visualize data to detect
+p. 230
+p. 231
+and prevent problems. There are two basic types of control charts—univariate control chart that is a graphical display (chart) of one quality characteristic and multivariate control chart that is a graphical display of a statistic that summarizes or represents more than one quality characteristic. Control charts are run charts to which control limits have been added above and below the center line (mean). These lines are calculated from the data and show the range of variation in the output of a process. In general, upper control limits (UCLs) and lower control limits (LCLs) are determined by adding and subtracting three SDs to or from the mean. Assuming a normal distribution and no special-cause variation 99% of data points would be expected to fall between the UCL and LCL.
+There are many types of control charts for both variable and attributes data.
+•Variables data: 1 Range Bar chart, median and range chart, x and s chart, XmR chart, moving average chart;
+•Attributes data: P chart, NP chart, U chart, C chart.
+One common chart presents individual values (X) and calculates limits based on the moving range (mR); this is the XmR chart. The XmR chart is used when data are obtained on a periodic basis, such as once a day or once a week, which is common in quality and performance improvement activities. See FIGURE 4-11 for example of control chart.
+How to construct
+1.Construct the chart as you would a run or trend chart.
+2.Calculate control limits using the appropriate statistical formula or via a computer program.
+3.Plot the control limits on the chart and examine the data for variation as described below.
+When to use
+•Distinguish variation from common and special causes
+•Assist with eliminating special-cause variation
+•Observe effects of a process improvement
+Figure 4-11 Control chart.
+Types of Variation
+By design, control charts are very useful in identifying variation in quality measures. The challenge for the healthcare quality professional is determining whether what they are seeing is common or special-cause variation so that appropriate action can be taken.
+•Common-cause variation. Variation is inherent in any process.
+p. 231
+p. 232
+On a control chart this type of variation is exhibited as points between the control limits in no particular pattern. This is variation that normally would be expected from a process. If this type of variation is treated as being unpredictable, it could tamper with the process and, in fact, make things worse. The root cause of the variation must be identified before trying to “fix” the problem.
+•Special-cause variation. Variation that arises from sources that are not inherent in the process are unpredictable. On a control chart this type of variation is exhibited as points that fall outside the control limits, or, when inside the control limits, exhibits certain patterns. These special-cause variations are addressed any time they occur with interventions appropriate to eliminate the special cause, if possible.
+Force Field Analysis. Force field analysis (FIG. 4-12) is a method to systematically identify the various forces that facilitate or increase the likelihood of success, and the opposite factors that decrease or restrain the likelihood of success or improvement in the process. This chart is like listing the pros and cons of an action.
+How to construct
+1.Identify the issue.
+2.Create two columns on a piece of paper. Label one “strengths” and one “barriers.”
+3.Brainstorm and list potential strengths and barriers on the chart.
+4.Determine actions to be taken to increase the strengths and to decrease or eliminate the barriers.
+When to use
+Identify the strengths of barriers for the success of the project
+Figure 4-12 Force field analysis.
+Frequency Distribution. Bell curves, histograms, and 2 × 2 tables are all types of frequency distributions (FIG. 4-13). When people describe a normal distribution, they are referring to a bell curve. Displaying the frequency distribution can help determine if one or more processes are occurring. For example, a frequency distribution can be a bimodal distribution of the ages of patients undergoing a total hip replacement. In other words, the data essentially have two different bell curves present and possibly two different processes. Conceivably, the demographics and risk factors may be different, and each age distribution may need a separate quality, safety or performance improvement focus.
+How to construct
+1.Develop a scale based on the range of data to be collected.
+2.Count the data and mark the appropriate spot on the scale.
+When to use
+•When the spread or distribution of the data is important
+•When the occurrence of more than one process is suspected
+Figure 4-13 Frequency distribution.
+See Performance and Process Improvement for more discussion of tools and methods to better understand how to use data, how to translate data to information, and using information to drive improvement efforts.
+Data-Driven Decision-Making
+The analysis, ultimate interpretation of data, and reporting are meaningful to various audiences. Good presentation of data creates interest and enhances understanding. Data are reported and analyzed on a regular basis. In this process, it is important to validate that the data were collected accurately. Data can be displayed in a format that is easily understood, and a summary provided. Those involved in the process being monitored are asked to help with the analysis. There is an analysis of variances and identification of unexpected
+p. 232
+p. 233
+p. 233
+p. 234
+patterns among caregivers, services, and patients. If there are trends, ask people to identify possible causes and solutions.
+Displaying Data
+A challenge for performance improvement or quality analytics staff is to display data in a meaningful way to be used by the involved departments or interprofessional teams. Graphic display of the data enhances the understanding and use of results. Bader and Bohr23 describe the use of tables, graphics, infographics and visuals. Tables are the most common format to present information. By highlighting the most pertinent information, readers can quickly and efficiently hone in on key information. For tables to be most effective they are understandable and use minimal abbreviations or jargon. They have columns clearly identified, with specific findings highlighted with boldface type, underlining, or other distinguishing marks. Graphics and visuals provide a snapshot of an organization’s status; where the variations lie; the relative importance of identified problems; and the impact, if any, of changes that have been instituted.55
+There are books and other publications available on the visual display of data and information. The emphasis is telling stories through graphic representation of data.56 Common presentations of data discussed in the previous sections include the following:
+•Pareto diagram/chart: prioritizes a series of problems or possible causes of problems;
+•Histogram: illustrates the variability or distribution of data;
+•Scatter diagram: displays possible cause and effect, illustrates whether one variable might have an impact upon another variable, and can illustrate the strength of that impact;
+•Run chart: used to monitor processes over time;
+•Control chart: used to statistically illustrate upper and lower limits of a process and the variation of an organization’s process within those limits; and
+•Stratification: breaks down single values into meaningful categories or classifications to focus on improvement opportunities or corrective action.55
+To effectively present data for interpretation and discussion, it is essential to provide a contextual background. Because most people are visually oriented, a graph is used to display data. A table of values can accompany the graph. There is an explanation of specifics regarding the data collection (how, when, and where the data were collected, and from whom they were obtained). There is a report summarizing the meaning of the values and how they were computed. If outliers were removed from the sample, that is stated. The time-order of the data collection can be included in the presentation to determine whether a pattern exists.
+Balanced Scorecards
+In 1992, Kaplan and Norton57 described a framework for performance improvement that relies on reporting key metrics representing all aspects of the business. The concept of the balanced scorecard is the presentation of a mixture of measures each compared to a target value. The target values can be set by the organization or be based on external benchmarks. In reporting on quality, balanced scorecards can be developed that focus on multiple dimensions that underlie care delivery. For example, the key quality metrics typically can be grouped into the following domains: process, outcomes, utilization, and patient experience. A balanced scorecard would then have several measures in each of these domains with appropriate targets. One of the biggest benefits is that balanced scorecards can be used for easy communication of the quality measures to executives in the organization (e.g., Chief Executive ­Officer [CEO], Chief Medical Officer [CMO], Chief Nursing ­Officer [CNO], etc.). Examples of measures used in balanced scorecards can be found in FIGURE 4-14.
+People and Workforce
+Service and Care Management
+Quality and Patient Safety
+Growth and Strategic Goals
+Financial and Operational Excellence
+Labor cost per adjusted day
+Overall patient satisfaction
+Patients receiving known allergen
+Admissions
+Readmissions
+FTEs per adjusted occupied bed
+Patients seen by admission coordinators within 24 h
+% of patients receiving asthma home management plan of care
+Patient days
+Operating margin
+Total operating revenue per FTE
+Pre-registered accounts fast tracked
+Employee perception of top management commitment to patient safety
+Adjusted patient days
+Hospital FTEs per acuity adjusted occupied bed
+Total average compensation per FTE
+ED patients waiting >3 h to see MD
+Total number of health deficiencies on health last nursing home inspection
+Operating Room minutes
+Cost per acuity adjusted inpatient day no greater than 3% over budget
+Employee injury/illness rate
+ED decision to admit room assignment
+Return to OR within 24 h
+Ambulatory visits
+Days in accounts receivables
+Employee turnover rate
+Call answer rate by customer service
+Employee likely to report medical errors
+Primary Care Physician referrals
+YTD days cash on hand
+RN vacancy rate
+ED arrival to triage
+HIM record completion
+Ancillary outpatient tests/treatments
+Supply chain cost/adjusted patient day
+Education and training investment per FTE
+Short-stay residents successfully discharged to the community
+Employee perception of department commitment to patient safety
+Operating room visits
+Net collection rate
+Total temp/registry
+Recommend organization to others
+National Patient Safety Goals
+•Universal protocol
+•HAIs
+•Patient identification
+•Medication management
+Average daily census
+YTD obligated group days cash on hand
+Total productive support staff cost per clinic
+Leaving emergency department without being seen
+Ambulatory behavioral health center admits
+Total expense/adjusted patient day
+Number of successors on key posts
+Complaints from community MDs
+New ACO partner contracts
+Administration costs
+Figure 4-14 Balanced scorecard measures for hospitals and other healthcare organizations. (Created by Christy L. Beaudin, PhD LCSW CPHQ for general education purposes. ©2011, 2012.)
+Dashboards
+Organizations often develop “Dashboards” to represent key management and performance indicators.58 As a decision support tool, the Dashboard can provide insights that are seldom seen with mere gut and intuition using a combination of the right metrics with visualization that will help “provide context and meaning that go beyond the buzzwords and technologies.”59(1) Dashboards can be used to analyze and forecast various organizational systems. These dashboards frequently incorporate external benchmarks, which allow organizations to compare performance to national, state, or regional norms. Benchmarks are available from CMS, state health department websites, medical specialty groups, published literature, and organizations such as The Leapfrog Group. An example is shown as FIGURE 4-15.
+Figure 4-15 Sample Core Metrics Dashboard. Source: Evaluation Dashboards. (nd). Maine State Innovation Model, Maine Department of Health and Human Services. http://www.maine.gov/dhhs/sim/evaluation/dashboard.shtml
+Benchmarking
+No matter what data display or reporting tool is used, benchmarking offers the organization to establish performance goals for administrative, financial, and clinical outcomes. The performance improvement team can determine whether it wants to be “average” (the industry standard) or raise the bar to a much higher level of performance. When comparison reveals differences, the healthcare organization’s management staff can begin to ask questions to determine the factors contributing to variances. Benchmarking includes routinely comparing indicators (structure, process, and outcomes) against best performance and seeking out ways to make improvements with the greatest impact on outcomes. It offers another approach to compare an organization’s or individual
+p. 234
+p. 235
+practitioner’s results against a reference point. Ideally, the reference point is a demonstrated best practice.
+Internal or external benchmarks can be used depending on the measure and what the organization is trying to accomplish. In their discussion about the use of benchmarking and continuous QI, Ettorchi-Tardy et al.,60(pe110) advantages of internal benchmarking are it is rapid, less expensive, and offers a learning method. For external benchmarking for clinical practices, some of the challenges might be specificity of the indicators to be used and how these practices might be compared against other healthcare organizations. External sources help develop best practices by implementing the same or similar processes to achieve better results. For example, an organization is focusing on improving vaccination rates among healthcare workers using the “timely and effective care: healthcare worker influenza vaccination” measure. Using Hospital Compare, the organization can assess progress in its vaccination rates with data provided by the Centers for Disease Control and Prevention (CDC) via the National Healthcare Safety Network (NHSN) tool. Another example is using Medical Office User Comparative Database Reports to identify key indicators for benchmarking from the Culture of Safety Survey.
+One of the most critical decisions an organization makes when launching a benchmarking initiative is selecting the source of comparative data. Organizations like Milliman have developed benchmarks for different aspects of operations such as efficiency benchmarks (the level of resource required for the completion of a defined number of transactions) and quality benchmarks (the level of consistency applied to similar transactions against recognized standards and the relative level of value of those services). According to
+p. 235
+p. 236
+p. 236
+p. 237
+Zolelzer,61 these performance benchmarks define the vision for what is possible in “Best Practice” operations and can identify strengths and weaknesses in operations and support operational improvement initiatives. Using Milliman’s administrative performance benchmarking, a health plan can analyze the efficiency of operational areas including claims, medical management, customer service, and administration and look at resource allocations in comparison to peers and competitors.61 FIGURE 4-16 illustrates benchmarks for administrative costs by functional area.
+Activity-Level PM PM Cost
+Benchmarks PM PM
+Client Results
+Median
+$
+%ile
+Functions
+Activities
+High
+Comp
+Peer
+Low
+PM PM
+Claims
+Mallroom and Claims Preparation
+$0.25
+$0.13
+$0.14
+$0.07
+$0.14
+44%
+Data Capture
+$0.20
+$0.10
+$0.11
+$0.06
+$0.18
+10%
+Adjudication
+$0.75
+$0.38
+$0.41
+$0.21
+$0.68
+9%
+COB/TPL/Subrogation
+$0.25
+$0.13
+$0.14
+$0.07
+$0.14
+44%
+Adjustments and Rework
+$0.25
+$0.13
+$0.14
+$0.07
+$0.14
+44%
+Audit, Training and Setup
+$0.13
+$0.06
+$0.07
+$0.03
+$0.05
+72%
+Provider Management
+Provider Services
+$0.75
+$0.38
+$0.41
+$0.21
+$0.25
+87%
+Provider Contracting
+$1.00
+$0.50
+$0.55
+$0.28
+$0.87
+13%
+Member Services
+Customer Service
+$2.50
+$1.25
+$1.38
+$0.69
+$1.25
+50%
+Membership
+$1.25
+$0.63
+$0.69
+$0.34
+$0.55
+63%
+Medical Management
+Utilization and Quality Review
+$2.00
+$1.00
+$1.10
+$0.55
+$0.78
+75%
+Care Management
+$1.25
+$0.63
+$0.69
+$0.34
+$0.35
+99%
+Medical Director
+$0.50
+$0.25
+$0.28
+$0.14
+$0.20
+72%
+Other Healthcare Services
+$1.25
+$0.63
+$0.69
+$0.34
+$1.00
+20%
+Business Development
+Marketing
+$2.00
+$1.00
+$1.10
+$0.55
+$1.23
+39%
+Sales
+$7.00
+$3.50
+$3.85
+$1.93
+$6.00
+14%
+External Brokers
+$12.00
+$6.00
+$6.60
+$3.30
+$6.00
+50%
+Finance
+Finance and Accounting
+$1.00
+$0.50
+$0.55
+$0.28
+$0.37
+79%
+Actuarial and Underwriting
+$0.75
+$0.38
+$0.41
+$0.21
+$0.55
+27%
+Information Systems
+Operations and Support
+$2.50
+$1.25
+$1.38
+$0.69
+$1.00
+72%
+Development and Integration
+$6.00
+$3.00
+$3.30
+$1.65
+$4.50
+25%
+Corporate Services and Administration
+Executive Office
+$4.00
+$2.00
+$2.20
+$1.10
+$2.50
+38%
+Taxes
+$4.00
+$2.00
+$2.20
+$1.10
+$3.00
+25%
+TOTAL
+$51.58
+$25.79
+$28.37
+$14.18
+$31.73
+39%
+Figure 4-16 Example of Milliman operational benchmarks—administrative costs (sample data for illustrative purposes only). (Reprinted from Zolelzer, N. Managing Administrative Expenses with Operational Benchmarking. Milliman Healthcare Analytics Blog. https://info.medinsight.milliman.com/2013/07/managing-administrative-expenses-with-operational-benchmarking/, with permission. Sample data for illustrative purposes only. Copyright © 2013 Milliman, Inc. All rights reserved.)
+p. 237
+p. 238
+Healthcare quality professionals often coordinate an organization’s benchmarking efforts. Most healthcare regulatory agencies require benchmarking as part of a comprehensive quality, safety, and performance improvement program. Potential data sources for benchmarking include the following:
+•Government data available from CMS, the CDC, and state government agencies;
+•Alliances such as large healthcare systems (partnership organizations often provide data extrapolation for their members, frequently providing databases for internal and external benchmarking);
+•State peer review organizations and state hospital associations that offer free benchmarking opportunities for hospitals within their state; and
+•For-profit database companies that offer software that helps hospitals or organizations extrapolate and compile their own benchmark data or provide benchmarking data through a centralized database compiled by the company.
+These data are reported to regulatory and accreditation agencies as part of routine reporting (e.g., ORYX, Outcome and Assessment Information Set [OASIS], and HEDIS). TABLE 4-11 illustrates examples of benchmarking projects.
+Table 4-11 Benchmarking Examples
+Type of Benchmarking
+Example Topic
+Measure
+Internal
+Cesarean section rate
+Physician A versus B versus C; physician group
+Practice A versus B versus C; physicians versus midwives
+Internal
+Time to antibiotic for XYZ
+Infection
+Emergency department versus unit A versus unit B
+Emergency department versus urgent care setting
+Internal
+Resident satisfaction
+Overall satisfaction with nursing care by unit
+Unit supervisor pays attention to resident safety problems
+External
+Use of ACE inhibitors with acute myocardial infarction
+Health system or proprietary database
+Performance of all hospitals versus region versus similar-size hospital versus own hospital
+External
+Central-line-associated blood stream infection rates
+Hospital unit versus National Healthcare
+Safety Network data for similar units; can compare by quartile or median rates (industry standard)
+External
+Wrong site/wrong procedure/wrong person surgery
+Facility’s incidence versus zero incidence
+Reporting
+The final product of every quality, safety, or performance improvement project is reporting. For example, reporting can include three documents shared across the organization and be used with different audiences.
+•First: a high-level presentation used in meetings to discuss the overall findings and outline suggestions for improvements.
+•Second: a one-page executive summary or infographic shared broadly and summarizes the project, findings, and improvement recommendations.
+•Third: a detailed report describing what was done; features all the analyses, tables, and figures; interprets the findings; and offers the specific details about next steps. The detailed report is sent to chairs of departments, quality leaders, and senior administrators.
+Another avenue of communication to consider is quarterly or semiannual events/forums that include presentations and posters on recent quality, safety, or performance improvement projects. These events can be offered to a broad audience and widely publicized. Other options for disseminating quality, safety, and performance improvement findings to staff include monthly newsletters, e-mails, blogs, and other social media distribution networks.
+Myriad data analysis and graphic display tools are available to assist with understanding a process at a point in time and over time. Although no single tool can support an entire process improvement team, tools can be used in combination to facilitate making data-based decisions. However, the use of tools alone does not guarantee accurate and effective decision-making. Quality, safety, and performance improvement teams must be configured to include frontline caregivers, key stakeholders across disciplines, and healthcare quality professionals with expertise in quality, safety, and performance improvement design, implementation, and evaluation (including the tools and statistics described in this section).
+p. 238
+p. 239
+See Performance and Process Improvement, Organizational Leadership, and Patient Safety for more discussion about data-driven decision-making and tools to support performance excellence.
+Section Summary
+A historical perspective and new developments in health data analytics puts into context the importance of information management in the work of the healthcare quality professional. The analysis of data and translation to meaningful information are critical given national quality and safety priorities and initiatives. Healthcare reform includes an emphasis on data and information related to individuals, populations, and organizations. Strategies are proposed to foster the use of data in decision-making. The public reporting of quality data promotes value-based purchasing—accountability for is part of the equation. Factoring into the equation are evidence-based quality management, measurement and decision support, systematic healthcare QI, and MISs. Finally, sound study design and analysis support the healthcare quality professional’s efforts to achieve performance excellence and sustain a culture of safety and quality.
+References
+1.Juran JM. Quality and its assurance: an overview. Presented at the Second NATO Symposium on Quality and Its Assurance, London; 1977.
+2.Deming WE. The New Economics for Industry, Government, Education. Cambridge, MA: MIT Press; 2000.
+3.Juran JM. Product quality: a prescription for the west. The Management Review; 1981, June and July. (First presented at the 25th Conference of the European Organization for Quality Control, Paris.)
+4.Juran JM. The QC circle phenomenon. Ind Control. 1967 January;23:329–336.
+5.Grandia L. Healthcare information systems: a look at the past, present, and future. https://www.healthcatalyst.com/­healthcare-information-systems-past-present-future. Accessed May 25, 2017.
+6.Davenport TH. Competing on analytics. Harvard Bus Rev. 2006;84(1):98–107, 134.
+7.The Advisory Board. Big Data in Health Care: Educational Briefing for Non-IT Executives. Washington, DC: Author; 2017.
+8.Walker M. Data veracity. Data Sci Central; 2012. www.datasciencecentral.com/profiles/blogs/data-veracity. Accessed May 18, 2017.
+9.Kayyali B, Knott D, Van Kuiken S. The big-data revolution in US health care: accelerating value and innovation; 2013. http://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-big-data-revolution-in-us-health-care. Accessed July 16, 2017.
+10.National Institutes of Health. What is big data? 2015. https://datascience.nih.gov/bd2k/about/what. Accessed May 16, 2017.
+11.National Institutes of Health. About BD2K; 2016. https://datascience.nih.gov/bd2k/about. Accessed May 16, 2017.
+12.President’s Information Technology Advisory Committee. Health care delivery and information technology subcommittee: draft recommendations; April 13, 2004. www.itrd.gov/pitac/meetings/2004/20040413/20040413_draft_hit.pdf. Accessed May 16, 2017.
+13.Bates DW, Gawande AA. Improving safety with information technology. New Eng J Med. 2003;348(25):2526–2534. doi:10.1056/NEJMsa020847
+14.Weiner M, Callahan CM, Tierney WM, et al. Using information technology to improve health care of older adults. Ann Int Med. 2003;139:430–436.
+15.Jamoom E, Yang N. Table of Electronic Health Record Adoption and Use Among Office-Based Physicians in the US, by State: 2015 National Electronic Health Records Survey. Atlanta, GA: Centers for Disease Control and Prevention, National Center for Health Statistics; 2016.
+16.National Committee on Vital and Health Statistics. Letter to the secretary: recommendations for the first set of PMRI standards. Washington, DC: Author; 2002, February 27. https://www.ncvhs.hhs.gov/subcommittees-work-groups/subcommittee-on-standards/020227lt.htm. Accessed May 16, 2017.
+17.Healthcare Information and Management Systems Society (HIMSS). Evaluating HIT standards: key principles to support healthcare IT interoperability in the United States; 2013. http://www.himss.org/sites/himssorg/files/FileDownloads/2013-09-23-EvaluatingHITStandards-FINAL.pdf. Accessed May 16, 2017.
+18.Institute of Medicine, Committee on Patient Safety and Health Information Technology. Health IT and Patient Safety: Building Safer Systems for Better Care. Washington, DC: National Academies Press; 2012.
+19.HealthIT.gov. Meaningful use definition & objectives; 2017. www.healthit.gov/providers-professionals/meaningful-use-definition-­objectives. Accessed May 16, 2017.
+20.Nutley T, Reynolds HW. Improving the use of health data for health system strengthening. Global Health Action. 2013;6:1–10. doi:10.3402/gha.v6i0.20001
+21.Gudea S. Data, information, knowledge: a healthcare enterprise case. Perspect Health Inf Manag. 2005;2:8. doi: 10.1.1.104.6709
+22.Quality Measurement and Management Project. Hospital Quality-Related Data: Recommendations for Appropriate Data Requests, Analysis, and Utilization. Chicago: American Hospital Association; 1991.
+23.Bader BS, Bohr D. Guide to the Interpretation and Use of Quality of Care Data. Chicago: American Hospital Association, The Hospital Research and Education Trust; 1991.
+24.Byers JF, Beaudin CL. Critical appraisal tools facilitate the work of the quality professional. J Healthcare Qual. 2001;23(5):35–38, 40–43. doi:10.1111/j.1945-1474.2001.tb00374.x
+25.Chassin MR, Loeb JM, Schmaltz SP, Wachter RM. Accountability measures—using measurement to promote quality improvement. New Engl J Med. 2010;363(7):683–688. doi:10.1056/NEJMsb1002320
+26.Sackett D, Rosenberg WMC, Muir-Gray JA, Haynes RB, Richardson WS. Evidence-based medicine: what it is and what it isn’t. Br Med J. 1996;312(13):71–72. doi:10.1136/bmj.312.7023.71
+27.Greenhalgh T. Narrative based medicine: narrative based medicine in an evidence based world. Br Med J. 1999;318(7179):323–325. doi:10.1136/bmj.318.7179.323
+28.Tonelli M. The limits of evidence-based medicine. Respir Care. 2001;46(12):1435–1440.
+p. 239
+p. 240
+29.Institute of Medicine, Committee on Quality of Health Care in America. Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, DC: National Academies Press; 2001.
+30.Deaton C. Outcomes measurement and evidence-based nursing practice. J Cardiovasc Nurs. 2001;15(2):83–86.
+31.Weiss NS. The new world of data linkages in clinical epidemiology: are we being brave or foolhardy? Epidemiology. 2011;22(3):292–294. doi:10.1097/EDE.0b013e318210aca5
+32.Kindig DA, Stoddart G. What is population health? Am J Public Health. 2003;93:380–383.
+33.Lewis N. Populations, population health, and the evolution of population management: making sense of the terminology in US health care today; 2014. http://www.ihi.org/communities/blogs/_layouts/15/ihi/­community/blog/itemview.aspx?List=81ca4a47-4ccd-4e9e-89d9-14d88ec59e8d&ID=50. Accessed May 24, 2017.
+34.Boult C, Wieland, GD. Comprehensive primary care for older patients with multiple chronic conditions. J Am Med Assoc. 2010;304(17):1936–1943.
+35.Tweed-Weber, Inc. Total Quality Management in Home Health Care. Reading, PA: Author; 1992.
+36.Higgins TC, Crosson J, Peikes D, et al. Using health information technology to support quality improvement in primary care; AHRQ Publication No. 15-0031-EF. Rockville, MD: Agency for Healthcare Research and Quality; 2015.
+37.O’Rourke LM, Bader BS. An illustrative quality and performance report for the governing board. Qual Lett Healthcare Leaders. 1993;5(2):15–28.
+38.U.S. Department of Health & Human Services, Office of the National Coordinator for Health Information Technology (ONC). Adoption of electronic health record systems among U.S. non-­federal acute care hospitals: 2008-2014; 2015. https://www.healthit.gov/sites/default/files/data-brief/2014HospitalAdoptionDataBrief.pdf. Accessed May 16, 2017.
+39.Rontal R. Information and decision support in managed care. Manag Care Q. 1993;1(3):3–14.
+40.Bright TJ, Wong A, Dhurjati R, et al. Effect of clinical decision-support systems: a systematic review. Ann Int Med. 2012; 157(1):29–43.
+41.U.S. Code of Federal Regulations Parts 160 and 164. Standards for privacy of individually identifiable health information: final rule. Federal Register; 2002. www.gpo.gov/fdsys/pkg/CFR-2002-title45-vol1/xml/CFR-2002-title45-vol1-sec164-514.xml. Accessed May 16, 2017.
+42.White SV. Interview with a quality leader: David Brailer on information technology and advancing healthcare quality. J Healthcare Qual. 2004;26(6):20–25. doi:10.1111/j.1945-1474.2004.tb00531.x
+43.Rosati RJ. Creating quality improvement projects. In: Siegler EL, Mirafzali S, Foust JB, eds. A Guide to Hospitals and Inpatient care. New York: Springer; 2003:326–338.
+44.Berwick DM, Nolan TW, Whittington J. The triple aim: care, health and cost. Health Affairs. 2008;27(3):759–769. doi:10.1377/hlthaff.27.3.759
+45.Sikka R, Morath JM, Leape L. The quadruple aim: care, health, cost, and meaning in work. BMJ Qual Saf Online. 2015;1–3. doi: 10.1136/bmjqs-2015-004160
+46.Oleske DM. Epidemiology and the Delivery of Health Care Services: Methods and Applications. New York: Springer; 2009.
+47.McGlynn EA. Identifying, categorizing, and evaluating health care efficiency measures. Final Report (prepared by the Southern California Evidence-based Practice Center—RAND Corporation, under Contract No. 282-00-0005-21). AHRQ Publication No. 08-0030. Rockville, MD: Agency for Healthcare Research and Quality; April 2008.
+48.Centers for Medicare & Medicaid Services. eCQM library; 2017. https://www.cms.gov/Regulations-and-Guidance/Legislation/­EHRIncentivePrograms/eCQM_Library.html. Accessed May 22, 2017.
+49.Agency for Healthcare Research and Quality. AHRQ quality indicators; n.d. https://www.qualityindicators.ahrq.gov/. Accessed May 24, 2017.
+50.Centers for Medicare & Medicaid Services. Core measures; 2016. https://www.cms.gov/Medicare/Quality-Initiatives-Patient-­Assessment-Instruments/QualityMeasures/Core-Measures.html.
+51.Centers for Medicare & Medicaid Services. IMPACT Act of 2014 & cross setting measures; 2015. https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Post-Acute-Care-Quality-Initiatives/IMPACT-Act-of-2014-and-Cross-Setting-Measures.html. Accessed May 22, 2017.
+52.Agency for Healthcare Research and Quality. Enabling health care decision-making through health information technology; 2012. https://healthit.ahrq.gov/ahrq-funded-projects/enabling-health-care-­decisionmaking-through-use-health-information-technology. Accessed May 16, 2017.
+53.Iezzoni L. Risk Adjustment for Measuring Healthcare Outcomes. 4th ed. Chicago, IL: Health Administration Press; 2012.
+54.Hoskin T. Parametric and nonparametric: demystifying the terms. BERD at Mayo Clinic; 2012. https://www.mayo.edu/mayo-­edu-docs/center-for-translational-science-activities-documents/berd-5-6.pdf. Accessed May 28, 2017.
+55.Brassard M, Ritter D. The Memory Jogger II. Methuen, MA: Goal/QPC; 1994.
+56.Tufte E. Beautiful Evidence. Columbia, MD: Graphics Press; 2006.
+57.Kaplan RS, Norton DP. The balanced scorecard—measures that drive performance. Harvard Bus Rev. 1992;70(1):71–79.
+58.Russell D, Rosenfeld P, Ames S, Rosati RJ. Using technology to enhance the quality of home health care: three case studies of health information technology initiatives at the visiting nurse service of New York. J Healthcare Qual. 2010;32(5):22–28.
+59.Nelson GS. The healthcare performance dashboard: linking strategy to metrics; 2010. Paper 167-2010 from SAS Global Forum. http://support.sas.com/resources/papers/proceedings10/167-2010.pdf. Accessed May 28, 2017.
+60.Ettorchi-Tardy A, Levif M, Michel P. Benchmarking: a method for continuous quality improvement in health. Healthcare Policy. 2012;7(4):e101–e119.
+61.Zolelzer N. Managing administrative expenses with operational benchmarking; 2013. Milliman Healthcare Analytics Blog. https://info.medinsight.milliman.com/2013/07/managing-administrative-­expenses-with-operational-benchmarking/. Accessed May 28, 2017.
+Suggested Readings
+Amland RC, Dean BB, Yu H, et al. Computerized clinical decision support to prevent venous thromboembolism among hospitalized patients: proximal outcomes from a multiyear quality improvement project. J Healthcare Qual. 2015;37(4):221–231.
+Lyden JR, Zickmund SL, Bhargava TD, et al. Implementing health information technology in a patient-centered manner: patient experiences with an online evidence-based lifestyle intervention. J Healthcare Qual. 2013;35(5):47–57.
+p. 240
+p. 241
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 1. Types of variables, mean, median, variance, and standard deviation. J Healthcare Qual. 2003;25(4):19–24. doi:10.1111/j.1945-1474.2003.tb01070.x
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 2. Probability, populations, samples, and normal distributions. J Healthcare Qual. 2003;25(4):25–33. doi:10.1111/j.1945-1474.2003.tb01071.x
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 3. Standard error, estimation, and confidence intervals. J Healthcare Qual. 2003;25(4):34–39. doi:10.1111/j.1945-1474.2003.tb01072.x
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 4. Confidence intervals with t distributions, standard error, and confidence intervals for proportions. J Healthcare Qual. 2004;26(4):26–32. doi:10.1111/j.1945-1474.2004.tb00504.x
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 5. Comparing two confidence intervals, standard error of the difference between two means and between two proportions. J Healthcare Qual. 2004;26(4):33–42. doi:10.1111/j.1945-1474.2004.tb00506.x
+Hansen JP. CAN’T MISS—conquer any number task by making important statistics simple. Part 6. Tests of statistical significance (z test statistic, rejecting the null hypothesis, p value), t test, z test for proportions, statistical significance versus meaningful difference. J Healthcare Qual. 2004;26(4):43–53. doi:10.1111/j.1945-1474.2004.tb00507.x
+Hansen JP. CAN’T MISS: conquer any number task by making important statistics simple. Part 7. Statistical process control: x–s control charts. J Healthcare Qual. 2005;27(4), 32–43. doi:10.1111/j.1945-1474.2005.tb00566.x
+Hansen JP. CAN’T MISS: conquer any number task by making important statistics simple. Part 8. Statistical process control: n, np, c, u control charts. J Healthcare Qual. 2005;27(4):45–52. doi:10.1111/j.1945-1474.2005.tb00567.x
+Mandavia R, Yassin G, Dhar V, Jacob T. Completing the audit cycle: the impact of an electronic reporting system on the feedback loop in surgical specialties. J Healthcare Qual. 2013;35(6):16–23.
+Mitchell JP. Electronic healthcare’s relationship with patient satisfaction and communication. J Healthcare Qual. 2016;38(5):296–303.
+O’Leary KJ, Balabanova A, Patyk M, et al. Medical inpatients’ use of information technology: characterizing the potential to share information electronically. J Healthcare Qual.; 2015:37(4):207–220.
+Pellegrin KL, Miyamura JB, Ma C, Taniguchi R. Improving accuracy and relevance of race/ethnicity data: results of a statewide collaboration in Hawaii. J Healthcare Qual. 2016;38(5):314–321.
+Raglan GB, Margolis B, Paulus RA, Schulkin J. Electronic health record adoption among obstetrician/gynecologists in the United States: physician practices and satisfaction. J Healthcare Qual. Post Author Corrections: May 23, 2015.
+Reddy CK, Aggarwal CC. Healthcare Data Analytics. UK, London: Chapman and Hall/CRC; 2015.
+Rico F, Liu Y, Martinez DA, et al. Preventable readmission risk factors for patients with chronic conditions. J Healthcare Qual. 2016;38(3):127–142.
+Spiva L, Hand M, VanBrackle L, McVay F. Validation of a predictive model to identify patients at high risk for hospital readmission. J Healthcare Qual. 2016;38(1):34–41.
+Strome TL. Healthcare Analytics for Quality and Performance Improvement. Hoboken, NJ: John Wiley and Sons; 2013.
+Westover C, Arredondo PH, Chapa G, Cole E, Campbell CR. Quality of care in a low-income consumer-driven health plan: assessment of Healthcare Effectiveness Data Information Set (HEDIS) scores for secondary prevention. J Healthcare Qual. 2014;36(3):28–34.
+Online Resources
+Advisory Board
+•Disease Registries
+https://www.advisory.com/international/topics/doctor-relations/disease-registries
+Agency for Healthcare Research and Quality
+www.ahrq.gov
+•Module 7. Measuring and Benchmarking Clinical Performance
+https://www.ahrq.gov/professionals/prevention-chronic-care/improve/system/pfhandbook/mod7.html
+•Computerized Registries
+https://healthit.ahrq.gov/key-topics/computerized-disease-registries
+•Healthcare Cost and Utilization Project
+https://hcup-us.ahrq.gov/databases.jsp
+•Medical Expenditure Panel Survey
+https://meps.ahrq.gov/data_stats/onsite_datacenter.jsp
+•National Quality Measures Clearinghouse
+www.qualitymeasures.ahrq.gov
+•Quality and Patient Safety
+www.ahrq.gov/qual/kt
+•Surveys on Patient Safety Culture
+https://www.ahrq.gov/professionals/quality-patient-safety/patientsafetyculture/index.html
+•State Snapshots
+https://www.ahrq.gov/research/data/state-snapshots/index.html
+American Society for Quality
+www.asq.org
+American Health Information Management Association
+http://www.ahima.org/
+Australian Commission on Safety and Quality in Health Care
+www.safetyandquality.gov.au
+Best Practice Guidelines Clearinghouses
+•Centre for Effective Practice
+https://effectivepractice.org/
+Centers for Disease Control and Prevention
+•Behavioral Risk Factor Surveillance System: Annual Survey Data
+https://www.cdc.gov/brfss/annual_data/annual_data.htm
+•National Vital Statistics System
+https://www.cdc.gov/nchs/nvss/
+•National Center for Health Statistics
+https://www.cdc.gov/nchs/
+Centers for Medicare & Medicaid Services Program Statistics
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMSProgramStatistics/index.html
+The Dartmouth Atlas of Healthcare
+http://www.dartmouthatlas.org/tools/benchmarking.aspx
+DARTNet Institute
+http://www.dartnet.info/
+eCQI Resource Center
+http://ecqi.healthit.gov/
+Health and Medicine Division of National Academies of Sciences, Engineering, and Medicine (previously Institute of Medicine)
+p. 241
+p. 242
+•Population Health Metrics That Matter for Population Health Action: Workshop Summary (2016)
+https://www.nap.edu/catalog/21899/metrics-that-matter-for-population-health-action-workshop-summary
+•Refining the Concept of Scientific Inference When Working with Big Data: Proceedings of a Workshop
+https://www.nap.edu/catalog/24654/refining-the-concept-of-scientific-inference-when-working-with-big-data
+HealthData.gov
+https://www.healthdata.gov/
+Health Information Management and Systems Society
+http://www.himss.org/
+Health Quality Ontario
+http://www.hqontario.ca/Quality-Improvement/Our-Programs/Quality-Improvement-in-Long-Term-Care
+Health Resources & Services Administration
+•Data Warehouse
+https://datawarehouse.hrsa.gov/
+•Health Workforce Data
+https://bhw.hrsa.gov/health-workforce-analysis/data
+Institute for Healthcare Improvement
+www.ihi.org
+•IHI Open School
+http://www.ihi.org/education/ihiopenschool/Pages/default.aspx
+•The Improvement Project
+http://www.ihi.org/education/InPersonTraining/ImprovementProject/Pages/default.aspx
+The International Society for Quality in Health Care
+www.isqua.org
+The Joint Commission
+www.jointcommission.org
+The Leapfrog Group
+www.leapfroggroup.org
+National Association for Healthcare Quality
+www.nahq.org
+National Committee for Quality Assurance
+http://www.ncqa.org/org
+National Guideline Clearinghouse
+www.guideline.gov
+National Health Service, UK
+www.nhs.uk/Pages/HomePage.aspx
+National Institutes of Health
+•BD2K Initiative
+https://datascience.nih.gov/bd2k/aboutNational
+•List of Registries
+https://www.nih.gov/health-information/nih-clinical-research-trials-you/list-registries
+National Patient Safety Foundation
+www.npsf.org
+National Quality Forum
+www.qualityforum.org
+NHS National Patient Safety Agency
+www.npsa.nhs.uk
+RAND Corporation
+www.rand.org
+SAFTINet
+http://www.aafp.org/patient-care/nrn/studies/all/SAFTINet.html
+Society for Human Resource Management
+www.shrm.org
+Substance Abuse and Mental Health Services Administration
+•National Survey on Drug Use and Health (NSDUH; Population Data)
+https://www.samhsa.gov/data/population-data-nsduh
+•Treatment Episode Data Set (TEDS; Client Level Data)
+https://www.samhsa.gov/data/client-level-data-teds
+•National Survey of Substance Abuse Treatment Services (NSSATS; Substance Use Facility Data)
+https://www.samhsa.gov/data/substance-abuse-facilities-data-nssats
+•National Mental Health Services Survey (NMHSS; Mental Health Facility Data)
+https://www.samhsa.gov/data/mental-health-facilities-data-nmhss
+•Drug Abuse Warning Network (DAWN; Emergency Department Data)
+https://www.samhsa.gov/data/emergency-department-data-dawn
+p. 242

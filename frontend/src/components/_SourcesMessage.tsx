@@ -1,6 +1,13 @@
 import { useState } from 'react'
 
-const SourcesMessage = ({ message }: { message: string }) => {
+import React from 'react';
+
+type Props = {
+  message: string;
+  formatMessage: (message: string) => React.ReactNode;
+};
+
+const SourcesMessage: React.FC<Props> = ({ message, formatMessage }) => {
   const [visible, setvisible] = useState<boolean>(false)
   // debugger
   const messageArray = message.split(",")

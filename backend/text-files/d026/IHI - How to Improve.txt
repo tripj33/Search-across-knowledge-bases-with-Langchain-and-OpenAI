@@ -1,0 +1,393 @@
+​The Model for Improvement,* developed by Associates in Process Improvement, is a simple yet powerful tool for accelerating improvement. The model is not meant to replace change models that organizations may already be using, but rather to accelerate improvement. This model has been used very successfully by hundreds of health care organizations in many countries to improve many different health care processes and outcomes.
+
+The model has two parts:
+
+Three fundamental questions, which can be addressed in any order.
+The Plan-Do-Study-Act (PDSA) cycle** to test changes in real work settings. The PDSA cycle guides the test of a change to determine if the change is an improvement.
+
+Forming the Team
+Including the right people on a process improvement team is critical to a successful improvement effort. Teams vary in size and composition. Each organization builds teams to suit its own needs.
+
+ModelforImprovement_v2.jpg
+Setting Aims
+The aim should be time-specific and measurable; it should also define the specific population of patients or other system that will be affected.
+
+Establishing Measures
+Teams use quantitative measures to determine if a specific change actually leads to an improvement.
+
+Selecting Changes 
+Ideas for change may come from those who work in the system or from the experience of others who have successfully improved.
+ 
+
+Testing Changes
+The Plan-Do-Study-Act (PDSA) cycle is shorthand for testing a change in the real work setting — by planning it, trying it, observing the results, and acting on what is learned. This is the scientific method adapted for action-oriented learning.
+
+ 
+
+Implementing Changes
+After testing a change on a small scale, learning from each test, and refining the change through several PDSA cycles, the team may implement the change on a broader scale — for example, for an entire pilot population or on an entire unit.
+ 
+Spreading Changes
+After successful implementation of a change or package of changes for a pilot population or an entire unit, the team can spread the changes to other parts of the organization or in other organizations.
+ 
+ 
+Sources:
+*Langley GL, Nolan KM, Nolan TW, Norman CL, Provost LP. The Improvement Guide: A Practical Approach to Enhancing Organizational Performance (2nd edition). San Francisco: Jossey-Bass Publishers; 2009.
+ 
+**The Plan-Do-Study-Act (PDSA) cycle was published by W. Edwards Deming in The New Economics for Industry, Government, and Education [Cambridge, MA: The MIT Press; 2000]. For more on the development of the PDSA cycle and how it differs from PDCA, see: Moen RD, Norman CL. Circling back: Clearing up myths about the Deming cycle and seeing how it keeps evolving. Quality Progress. November 2010.
+
+
+Science of Improvement: Forming the Team
+Including the right people on an improvement team is critical to a successful improvement effort. Teams vary in size and composition. Each organization builds teams to suit its own needs.
+
+First, review the aim.Model for Improvement
+
+Second, consider the system that relates to that aim: What system will be affected by the improvement efforts?
+
+Third, be sure that the team includes members familiar with all the different parts of the process — managers and administrators as well as those who work in the process, including physicians, pharmacists, nurses, and front-line workers.
+
+Finally, each team needs an executive sponsor who takes responsibility for the success of the project.
+
+ 
+
+Examples of Effective Teams
+Effective teams include members representing three different kinds of expertise within the organization: system leadership, technical expertise, and day-to-day leadership. There may be one or more individuals on the team with each kind of expertise, or one individual may have expertise in more than one area, but all three areas should be represented in order to drive improvement successfully.
+
+Clinical Leader
+
+Teams need someone with enough authority in the organization to test and implement a change that has been suggested and to deal with issues that arise. The team's clinical leader understands both the clinical implications of proposed changes and the consequences such a change might trigger in other parts of the system. 
+
+Technical Expertise
+
+A technical expert is someone who knows the subject intimately and who understands the processes of care. An expert on improvement methods can provide additional technical support by helping the team determine what to measure, assisting in design of simple, effective measurement tools, and providing guidance on collection, interpretation, and display of data.
+
+Day-to-Day Leadership 
+
+A day-to-day leader is the driver of the project, assuring that tests are implemented and overseeing data collection. It is important that this person understands not only the details of the system, but also the various effects of making change(s) in the system. This person also needs to be able to work effectively with the physician champion(s).
+
+Project Sponsor
+
+In addition to the working members listed above, a successful improvement team needs a sponsor, someone with executive authority who can provide liaison with other areas of the organization, serve as a link to senior management and the strategic aims of the organization, provide resources and overcome barriers on behalf of the team, and provide accountability for the team members. The Sponsor is not a day-to-day participant in team meetings and testing, but should review the team's progress on a regular basis.
+
+Example 1: Improving Care in Office Practices
+Aim: We will improve care for all our patients with chronic disease by making improvements in our clinic that impact the six dimensions of quality, as outlined in the Institute of Medicine report, Crossing the Quality Chasm: A New Health System for the 21st Century.
+
+Team:
+
+Technical Expert: ____, MD, Physician at downtown clinic
+Day-to-Day Leader: ____, RN, Manager of downtown primary care clinic
+Additional Team Members: Patient educator, medical assistant, clerk/scheduler, laboratory manager, quality expert
+Sponsor: ______, MD, Medical Director for primary care practices 
+
+Example 2: Improving Patient Safety
+Aim: Reduce adverse drug events (ADEs) on all medical and surgical units by 75 percent within 11 months.
+
+Team:
+
+Clinical Leader: ___, MD, Chair, Pharmacy and Therapeutics Committee, Patient Safety Officer
+Technical Expertise: ____, RPh, Director, Clinical Pharmacist
+Day-to-Day Leadership: ____, RN, Manager, Medical/Surgical Nursing
+Additional Team Members: Risk Manager, Quality Improvement Specialist, Staff Nurse, Staff Education, and Information Technology
+Sponsor: ___, MD, Chief Medical Officer 
+
+Example 3: Improving Critical Care
+Aim: Redesign the leadership and care systems of our Medical Intensive Care Unit (MICU) in order to reduce harm and improve outcomes for patients.
+Team:
+
+Clinical Leader: ____, MD, Medical Director, Medical Intensive Care Unit (MICU)
+Technical Expertise: ____, MD, Intensivist
+Day-to-Day Leadership: ____, RN, MICU Manager
+Additional Team Members: Respiratory Therapy, Quality Improvement Specialist, Staff Nurse, Clinical Pharmacist, Clinical Nurse Specialist
+Sponsor: _____, MD, Chief Operating Officer
+
+Example 4: Improving Flow
+Aim: Ensure that patients receive timely access to appropriate care in our hospital and move through the system efficiently.
+Emergency Department Team:
+
+Clinical Leader: Medical Director or Physician
+Technical Expertise: Director or Nurse Manager
+Day-to-Day Leadership: Front-line nurse
+Two "continuity staff" with a cross-organizational view of flow (e.g., Operations Engineer or vice president with management responsibilities across departments/services, who will be assigned to this work over time)
+Intensive Care Unit Team:
+
+Clinical Leader: Intensivist or Medical Director
+Technical Expertise: Director or Nurse Manager
+Day-to-Day Leadership: Front-line nurse
+Two "continuity staff" with a cross-organizational view of flow, e.g., Operations Engineer or vice president with management responsibilities across departments/services, who will be assigned to this work over time
+Operating Room Team:
+
+Clinical Leader: Surgeon or Anesthesiologist
+Technical Expertise: Director or Manager of Surgical Services
+Day-to-Day Leadership: Operating Room (OR) Nurse (circulating or scrub nurse)
+Surgery Technician
+One "continuity staff" with a cross-organizational view of flow, e.g., Operations Engineer or vice president with management responsibilities across departments/services, who will be assigned to this work over time.
+
+
+Science of Improvement: Setting Aims
+Model for Improvement: What are we trying to accomplish?
+
+Model for ImprovementImprovement requires setting aims. An organization will not improve without a clear and firm intention to do so. The aim should be time-specific and measurable; it should also define the specific population of patients that will be affected. Agreeing on the aim is crucial; so is allocating the people and resources necessary to accomplish the aim.
+
+In 1999, the Institute of Medicine (IOM) in Washington, DC, USA, released To Err Is Human: Building a Safer Health System, a report that brought much public attention to the crisis of patient safety in the United States. In 2001, the IOM issued a second report, Crossing the Quality Chasm: A New Health System for the 21st Century, which outlines six overarching "Aims for Improvement" for health care:
+
+Safe: Avoid injuries to patients from the care that is intended to help them.
+Effective: Match care to science; avoid overuse of ineffective care and underuse of effective care.
+Patient-Centered: Honor the individual and respect choice.
+Timely: Reduce waiting for both patients and those who give care.
+Efficient: Reduce waste.
+Equitable: Close racial and ethnic gaps in health status.
+Many organizations use the six IOM aims to help them develop their aims.
+
+
+See also: Tips for Setting Aims.
+
+ 
+
+ 
+Examples of Effective Aim Statements
+For Patient Safety
+
+Reduce adverse drug events (ADEs) in critical care by 75 percent within 1 year.
+Improve medication reconciliation at transition points by 75 percent within 1 year.
+Reduce high-hazard ADEs by 75 percent within 1 year. For example, reduction of 75 percent in one of the following:
+Overdoses from benzodiazepines and narcotics
+Percentage of patients with incidence of bleeding in patients being treated with anticoagulant medications
+Percentage of patients on insulin with any blood sugar <50
+Increase the number of surgical cases between cases with a surgical site infection by 50 percent within 1 year.
+Achieve > 95 percent compliance with on-time prophylactic antibiotic administration within 1 year.
+For Clinic Access
+
+Reduce waiting time to see a urologist by 50 percent within 9 months.
+Offer all patients same-day access to their primary care physician within 9 months.
+Reduce waiting time to see a physician to less than 15 minutes within 9 months.
+For Flow (all goals to be achieved within 9 months)
+
+Transfer every patient from the Emergency Department to an inpatient bed within 1 hour of the decision to admit.
+Transfer every patient from the Post-Anesthesia Care Unit (PACU) to an inpatient bed within 1 hour from the time patient is deemed ready to move from the PACU.
+Transfer every patient from the Intensive Care Unit (ICU) to an inpatient bed within 4 hours from the time the patient is deemed ready to move from the ICU.
+Transfer every patient from the inpatient facility to a long-term care facility within 24 hours after the patient is deemed ready to transfer.
+For Critical Care
+
+Reduce ICU mortality by 20 percent within 9 months.
+Reduce incidence of ventilator-associated pneumonia by 25 percent.
+Reduce average ventilator days by 2 to 4 days per discharge.
+Reduce adverse drug events (ADEs) per ICU day by 75 percent (or absolute number of less than 0.10 ADE per ICU day).
+Reduce incidence of oversedation or too lengthy sedation by 40 percent.
+Reduce complications of ICU stay by 40 percent:
+Development of deep vein thrombosis
+Gastrointestinal bleeding from stress ulcers
+Line infections
+Reduce the average length of stay for Medical ICU patients by 50 percent within 9 months. 
+
+Science of Improvement: Establishing Measures
+
+​Model for Improvement: How will we know that a change is an improvement?
+
+Measurement is a critical part of testing and implementing changes; measures tell a team whether the changes they are making actually lead to improvement. Measurement for improvement should not be confused with measurement for research. This difference is outlined in the table below.
+
+Measurement for Research	Measurement for Learning and Process Improvement
+Purpose	To discover new knowledge	To bring new knowledge into daily practice
+Tests	One large "blind" test	Many sequential, observable tests
+Biases	Control for as many biases as possible	Stabilize the biases from test to test
+Data	Gather as much data as possible, "just in case"	Gather "just enough" data to learn and complete another cycle
+Duration	Can take long periods of time to obtain results	"Small tests of significant changes" accelerates the rate of improvement
+ 
+
+See also: Tips for Effective Measures.
+
+
+The Whole System Measures, a set of health system performance measures, keyed to the six dimensions of quality outlined by the Institute of Medicine in the Crossing the Quality Chasm report — safe, effective, patient-centered, timely, efficient, and equitable — that can be used to evaluate the overall performance of a health system. 
+
+
+Three Types of Measures 
+Use a balanced set of measures for all improvement efforts: outcomes measures, process measures, and balancing measures.
+
+Outcome Measures
+
+How does the system impact the values of patients, their health and wellbeing? What are impacts on other stakeholders such as payers, employees, or the community?
+
+For diabetes: Average hemoglobin A1c level for population of patients with diabetes
+For access: Number of days to 3rd next available appointment
+For critical care: Intensive Care Unit (ICU) percent unadjusted mortality
+For medication systems: Adverse drug events per 1,000 doses
+Process Measures
+Are the parts/steps in the system performing as planned? Are we on track in our efforts to improve the system?
+
+For diabetes: Percentage of patients whose hemoglobin A1c level was measured twice in the past year
+For access: Average daily clinician hours available for appointments
+For critical care: Percent of patients with intentional rounding completed on schedule.
+Balancing Measures (looking at a system from different directions/dimensions)
+Are changes designed to improve one part of the system causing new problems in other parts of the system?
+
+For reducing time patients spend on a ventilator after surgery: Make sure reintubation rates are not increasing
+For reducing patients' length of stay in the hospital: Make sure readmission rates are not increasing
+
+Sample Measures
+See the Measures section for sample measures.
+
+ 
+
+Using Sampling: An Example
+Here is how one team used sampling in measuring the time for transfer from Emergency Department (ED) to inpatient bed.
+
+Rapid movement from the Emergency Department (ED) after a decision to admit the patient is critical flow for entry to the entire system for emergent patient care. It represents the ability of patients with various illnesses to get into the system through the most common admission route. 
+
+Sampling approach: The measurement will consist of 6 weekly data collections of 25 patients each. The patients can be sampled in several ways:
+5 patients per day for 5 days of the week. The patients must be consecutive and at least one day must be a weekend day.
+or
+25 consecutive patients regardless of any specific day, except that it must include some weekend admissions.
+or
+If there are fewer than 25 admissions for a week, the total admissions for the week should be included in the sample.
+The time is measured from the decision to admit to the physical appearance of the patient into the inpatient room. The destination cannot be a "holding area" but must be a "real inpatient bed." The sample collection should be done in real time, so a data collection process needs to be worked out by members of the team to achieve this goal. The collections must be done weekly and summarized as the percentage of patients in the sample that achieved the goal for that week. Six weeks of data needs to be collected and six data points placed on a run chart.
+ 
+Plotting Data Over Time
+Plotting data over time using a run chart is a simple and effective way to determine whether the changes you are making are leading to improvement. Annotate the run chart to show the changes you made. You can use the Improvement Tracker to automatically plot your data over time.
+
+
+Science of Improvement: Selecting Changes
+​Model for Improvement: What change can we make that will result in improvement?
+
+While all changes do not lead to improvement, all improvement requires change. The ability to develop, test, and implement changes is essential for any individual, group, or organization that wants to continuously improve. There are many kinds of changes that will lead to improvement, but these specific changes are developed from a limited number of change concepts.
+
+A change concept is a general notion or approach to change that has been found to be useful in developing specific ideas for changes that lead to improvement. Creatively combining these change concepts with knowledge about specific subjects can help generate ideas for tests of change. After generating ideas, run Plan-Do-Study-Act (PDSA) cycles to test a change or group of changes on a small scale to see if they result in improvement. If they do, expand the tests and gradually incorporate larger and larger samples until you are confident that the changes should be adopted more widely.
+
+The change concepts included here were developed by Associates in Process Improvement. See The Improvement Guide (Langley GJ, Nolan KM, Nolan TW, Norman CL, Provost LP. San Francisco: Jossey-Bass Publishers, Inc.; 2009) for a list of hundreds of change concepts, as well as examples of how they were applied in process improvement, both inside and outside of health care.
+
+
+Examples of Change Concepts 
+For more detailed information on specific change concepts, see Using Change Concepts for Improvement and the Changes section.
+
+
+See also: Testing Changes, Implementing Changes, Spreading Changes.
+
+ 
+
+Eliminate Waste
+Look for ways of eliminating any activity or resource in the organization that does not add value to an external customer.
+
+Improve Work Flow
+Improving the flow of work in processes is an important way to improve the quality of the goods and services produced by those processes.
+
+Optimize Inventory
+
+Inventory of all types is a possible source of waste in organizations; understanding where inventory is stored in a system is the first step in finding opportunities for improvement.
+
+Change the Work Environment
+
+Changing the work environment itself can be a high-leverage opportunity for making all other process changes more effective.
+
+Producer/Customer Interface
+
+To benefit from improvements in quality of products and services, the customer must recognize and appreciate the improvements.
+
+Manage Time
+
+An organization can gain a competitive advantage by reducing the time to develop new products, waiting times for services, lead times for orders and deliveries, and cycle times for all functions in the organization.
+
+Focus on Variation
+
+Reducing variation improves the predictability of outcomes and helps reduce the frequency of poor results.
+
+Error Proofing
+
+Organizations can reduce errors by redesigning the system to make it less likely for people in the system to make errors. One way to error proof a system is to make the information necessary to perform a task available in the external world, and not just in one's memory, by writing it down or by actually making it inherent in the product or process.
+
+Focus on the Product or Service
+
+Although many organizations focus on ways to improve processes, it is also important to address improvement of products and services.
+
+
+Science of Improvement: Testing Changes
+Model for Improvement: Plan-Do-Study-Act (PDSA) Cycles
+
+​Model for ImprovementOnce a team has set an aim, established its membership, and developed measures to determine whether a change leads to an improvement, the next step is to test a change in the real work setting. The Plan-Do-Study-Act (PDSA) cycle is shorthand for testing a change — by planning it, trying it, observing the results, and acting on what is learned. This is the scientific method, used for action-oriented learning.
+
+
+See also: Tips for Testing Changes, Linking Tests of Change, Testing Multiple Changes, Implementing Changes, Spreading Changes.
+
+ 
+
+Reasons to Test Changes
+To increase your belief that the change will result in improvement.
+To decide which of several proposed changes will lead to the desired improvement.
+To evaluate how much improvement can be expected from the change.
+To decide whether the proposed change will work in the actual environment of interest.
+To decide which combinations of changes will have the desired effects on the important measures of quality.
+To evaluate costs, social impact, and side effects from a proposed change.
+To minimize resistance upon implementation.
+ 
+
+Steps in the PDSA Cycle
+Step 1: Plan
+
+Plan the test or observation, including a plan for collecting data.
+
+State the objective of the test.
+Make predictions about what will happen and why.
+Develop a plan to test the change. (Who? What? When? Where? What data need to be collected?)  
+
+Step 2: Do
+
+Try out the test on a small scale.
+
+Carry out the test.
+Document problems and unexpected observations.
+Begin analysis of the data.
+
+Step 3: Study
+Set aside time to analyze the data and study the results.
+Complete the analysis of the data.
+Compare the data to your predictions.
+Summarize and reflect on what was learned.  
+
+Step 4: Act
+
+Refine the change, based on what was learned from the test.
+
+Determine what modifications should be made.
+Prepare a plan for the next test.
+ 
+
+Example of a Test of Change (Plan-Do-Study-Act Cycle)
+Depending on their aim, teams choose promising changes and use Plan-Do-Study-Act (PDSA) cycles to test a change quickly on a small scale, see how it works, and refine the change as necessary before implementing it on a broader scale. The following example shows how a team started with a small-scale test.
+
+Diabetes: Planned visits for blood sugar management.
+
+Plan: Ask one patient if he or she would like more information on how to manage his or her blood sugar.
+Do: Dr. J. asked his first patient with diabetes on Tuesday.
+Study: Patient was interested; Dr. J. was pleased at the positive response.
+Act: Dr. J. will continue with the next five patients and set up a planned visit for those who say yes.
+
+
+Science of Improvement: Implementing Changes
+​Model for ImprovementAfter testing a change on a small scale, learning from each test, and refining the change through several PDSA cycles, the change is ready for implementation on a broader scale-for example, for an entire pilot population or on an entire unit.
+
+Implementation is a permanent change to the way work is done and, as such, involves building the change into the organization. It may affect documentation, written policies, hiring, training, compensation, and aspects of the organization's infrastructure that are not heavily engaged in the testing phase. Implementation also requires the use of the PDSA cycle.
+
+
+See also: Testing Changes, Tips for Testing Changes, Linking Tests of Change, Testing Multiple Changes, Implementing Changes, Spreading Changes.
+
+
+Example
+
+Testing a change:
+Three nurses on different shifts use a new medication reconciliation and order form.
+
+ 
+Implementing a change:
+All 30 nurses on the pilot unit begin using the new medication reconciliation and order form.
+
+Science of Improvement: Spreading Changes
+Spread is the process of taking a successful implementation process from a pilot unit or pilot population and replicating that change or package of changes in other parts of the organization or other organizations.Model for Improvement
+
+During implementation, teams learn valuable lessons necessary for successful spread, including key infrastructure issues, optimal sequencing of tasks, and working with people to help them adopt and adapt a change.
+
+Spread efforts will benefit from the use of the PDSA cycle. Units adopting the change need to plan how best to adapt the change to their unit and to determine if the change resulted in the predicted improvement.
+
+ 
+
+Example
+
+If all 30 nurses on a pilot unit successfully implement a new medication reconciliation and order form, then spread would be replicating this change in all nursing units in the organization and assisting the units in adopting or adapting the change.
+
+

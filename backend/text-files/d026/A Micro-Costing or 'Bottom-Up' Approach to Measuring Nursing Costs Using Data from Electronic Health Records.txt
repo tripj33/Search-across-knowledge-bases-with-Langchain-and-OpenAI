@@ -1,0 +1,359 @@
+46 NURSING ECONOMIC$/January-February 2018/Vol. 36/No. 1
+“ [The] Lack of precise
+information about current
+costs and utilization of nursing service personnel makes
+it difficult for nursing service
+administrators and hospital
+managers to make the most
+appropriate and cost effective
+decisions about assignment
+of nurses. Hospitals, working
+with federal and state governments and other third-party
+payers, should conduct studies and experiments to determine the feasibility and means
+of creating separate revenue and cost centers
+for direct nursing care units within the institution for case-mix costing and revenue setting,
+and for other fiscal management alternatives.” (Institute of Medicine, 1983, p. 18)
+T HIS SEMINAL RECOMMENDATION by the Institute
+of Medicine, now over 3 decades old, identifies a key problem in nursing: How do we put
+a dollar value on the services and interventions provided by nurses? Nursing care is essentially
+invisible in national payment policy and typically
+incorporated into daily room charges. We know very
+little about the actual costs of nursing care provided
+to each individual patient.
+In this article, authors provide an overview of
+micro-costing methods and its history and propose a
+new approach to costing nursing care in acute care
+hospitals. This micro-costing model is based on electronic health record (EHR) data, which identify each
+nurse caring for each patient by shift or shorter time
+intervals. This information, combined with detailed
+measurements of patient acuity, will allow a more
+precise estimation of the actual care time each nurse
+spends on a patient. The information can then be converted into the cost of nursing care using the nurse
+wage and other supplemental costs such as shift differential. In addition, cost data can be aggregated or
+allocated in different ways depending on different
+administrative or research goals: by patient, demographic characteristic, length of stay (LOS), hospital
+unit, or diagnosis-related group (DRG). By leveraging
+data already collected for other purposes in the EHR,
+the proposed methodology provides more accurate
+and transparent cost measurement of nursing care
+without additional data collection burden to nurses.
+Historical Approaches to Costing Nursing Care
+The methods used historically for costing nursing
+care were influenced by external policy changes and
+data availability. Authors of a large body of nursing
+cost studies published in the United States in the
+1980s responded to new prospective payment system
+legislation (Edwardson & Giovannetti, 1987; Sovie,
+1988), which required an estimation of the cost of
+care by DRG. The first step in accounting for nursing
+costs was selecting a way to aggregate or allocate overall costs of nursing care. The most frequent units of
+allocation included day of service, medical diagnosis,
+nursing workload, and nursing intensity (Edwardson
+& Giovannetti, 1987). The aggregated costs were then
+distributed by patient or other units. For instance,
+total nursing costs on a given acute care unit divided
+by total number of patients derived an average nursing cost per patient per day metric. In a study by
+Thompson (1984), relative intensity measures constructed in New Jersey used total nursing costs divided by estimated minutes of nursing care required by
+A Micro-Costing or ‘Bottom-Up’ Approach to Measuring
+Nursing Costs Using Data from Electronic Health Records
+EXECUTIVE SUMMARY
+Nursing costs have traditionally been measured as an
+average across many patients and many nursing
+services and interventions, hiding the actual costs of
+nursing care for each patient.
+Improved micro-costing methods that measure individual nursing care time and costs for each patient
+are now possible using data from the electronic
+health record (EHR).
+Application of patient-level micro-costing methods,
+using data from the EHR, can provide both improved
+costing accuracy as well as additional data for analysis about patients, nurses, nursing skill mix, and cost
+of nursing care by diagnosis (e.g., DRG), patient
+demographics, and patient outcomes.
+JOHN M. WELTON, PhD, RN, FAAN, is Professor and Senior
+Scientist, Health Systems Research, University of Colorado College
+of Nursing, Aurora, CO; and Nursing Economic$ Editorial Board
+Member.
+PEGGY JENKINS, PhD, RN, is Assistant Professor, University of
+Colorado College of Nursing, Aurora, CO.
+MARCELO COCA PERRAILLON, PhD, is Assistant Professor,
+Department of Health, Systems, Management & Policy, University
+of Colorado School of Public Health, Aurora, CO.
+NOTE: This article was supported by grants from the Agency for
+Healthcare Research and Quality (AHRQ) 1R03 HS025495-01 and
+the University of Colorado School of Medicine Data to Value (D2V)
+project.
+John M. Welton
+Peggy Jenkins
+Marcelo Coca Perraillon
+John M. Welton
+Data, Science, & Nursing Value
+NURSING ECONOMIC$/January-February 2018/Vol. 36/No. 1 47
+patient. The assumption of this top-down approach is
+all nurses provide essentially the same care for each
+patient expressed as an average time for all patients
+without adjustment for differences in patient need for
+nursing care or severity of illness. This top-down
+costing approach hides important and clinically
+meaningful variation in both patient need for nursing
+care and actual care provided by each nurse.
+Internationally, healthcare costing and reimbursement policies have used multiple methods to allocate
+nursing costs in studies conducted in response to need
+for resource management. Methods of allocation
+included severity of illness (Park & Song, 1990); workload (Pratt, Burr, Leelarthaepin, Blizard, & Walsh,
+1993); direct nursing time per patient observed plus
+indirect (Pratt et al., 1993); and per diem charges
+(Elliott, 1997). Belgium law requires collection of a
+nursing minimum data set since 1988 (Sermeus,
+Delesie, Van den Heede, Diya, & Lesaffre, 2008) and
+hospital budgets have been adjusted for nursing care
+using fixed cost based on staffing ratios plus variable
+nursing intensity component (Unruh, Hassmiller, &
+Reinhard, 2008).
+Micro-Costing Models
+In the economic evaluation literature, micro-costing or bottom-up costing, refers to a method of costing
+in which each component of resource use (e.g., laboratory tests, drugs, nurse time) is estimated and a unit
+cost is derived for each (Drummond, Sculpher,
+Claxton, Stoddart, & Torrance, 2015). Although this
+definition implies micro-costing involves a detailed
+inventory of resources, in practice the term is often
+used when efforts are undertaken to measure costs in
+a more precise and disaggregated manner. In contrast
+to micro-costing, gross costing (or top-down costing)
+methods, which measure resources on average and in
+an aggregate manner (e.g., cost per hospitalization),
+average cost over many diagnoses, or average cost of
+staffing over a time period or by DRG (Frick, 2009).
+The key distinction between micro-costing and gross
+costing is one of precision of estimates, both in terms
+of the quantity of resources consumed and their valuation (Gold, 1996). Another distinction is that topdown costing starts with the allocation or aggregation
+of costs which are then divided by patient or other
+units. Patient-level nursing costs cannot be identified.
+Because micro-costing often refers to a more precise estimation of resources used, there is no single
+micro-costing methodology. The particular methodology depends on data availability and study purpose.
+In a methodological summary of micro-costing methods, Frick (2009) identified some of the most common
+ways data are collected in a micro-costing study:
+administrative datasets, claims data, forms/time logs,
+surveys, patient charts, and direct observation.
+Administrative datasets include systems specially
+designed to capture resources consumed (Holbrook,
+Hargrave, & Traverso, 1996; Traverso & Hargrave,
+1995), such as nurse-patient assignment data, or
+accounting systems maintained by hospitals (Azoulay
+et al., 2007). Claims data may include detailed items
+billed or aggregated payments, yet they only include
+items that were billed to a payer and may not have a
+complete description of resources used or their quantities (Etzioni, Riley, Ramsey, & Brown, 2002).
+Nursing costs, and costs in general, are just quantities multiplied by their price (e.g., the amount of
+time a nurse spends with a patient multiplied by
+his/her wage). Considerable information on nurses’
+wage by level of experience and education is published by the Bureau of Labor Statistics (2017). For
+generalizability, the common recommendation in economic evaluations is to use national-level average
+wages rather than local or institution-specific wages
+and/or compensation (Neumann, Sanders, Russell,
+Siegel, & Ganiats, 2016). The major challenge in a
+more accurate estimation of nursing costs is to precisely measure the time nurses spend taking care of a
+patient. One common micro-costing tool to estimate
+clinical time is collecting time logs. Time logs can be
+collected prospectively or retrospectively through
+surveys, although recall bias is a concern (Drummond
+et al., 2015), and they can be burdensome for staff.
+These are common in some economic evaluations
+because it is often needed to separate actual intervention effort from other research and evaluation components (Haddix, Teutsch, & Corso, 2003).
+Several methods have been developed to simplify
+data collection by detailing patient care activities and
+combining them with time estimates from expert panels or direct observation, sometimes called nursing
+intensity weights (Knauf, Ballard, Mossman, & Lichtig,
+2006). These weights are applied to a particular DRG;
+however, they do not measure the actual nursing care
+provided to a patient. A different approach using nursing terminologies from nurse assessment data in the
+EHR applies a relative value unit (RVU) to estimate
+time (Dykes, Wantland, Whittenburg, Lipsitz, & Saba,
+2013). The advantage of the RVU model is its use of
+actual data of ongoing nursing care to represent need
+for nursing care.
+Another micro-costing method is time-based
+activity driven (TBAD) costing, which originated in
+the management literature (Kaplan & Anderson,
+2004). When applied to health care, its purpose is to
+accurately measure the cost of treating patients for a
+specific medical condition across the full care cycle
+(Kaplan et al., 2014). TBAD combines two steps:
+process mapping and activity-based costing. During
+the process mapping stage, clinical teams identify key
+events in the care cycle, which may involve clinical
+and administrative components. In the second step,
+activity-based costing, a dollar-per-minute capacity
+cost rate for each resource is estimated for all clinical
+resources involved in the care cycle. One important
+component in this method is the estimation of the
+time spent in each activity identified in the process
+map, which in TBAD is usually done by managers or
+is based on surveys of employees or even patients. As
+an alternative, direct observation can be used, which
+relates TBAD to time-and-motion studies, in which
+clinical staff is followed and the time spent in different activities recorded (Costa et al., 2016; Finkler,
+48 NURSING ECONOMIC$/January-February 2018/Vol. 36/No. 1
+Knickman, Hendrickson, Lipkin, & Thompson, 1993;
+Hendrich, Chow, Skierczynski, & Lu, 2008; Robinson
+et al., 2007). With this methodology, substantial effort
+is used in not only determining different activities,
+but also in accurately recording the time in each of
+them. While useful to accurately measure time spent
+on activities, these methods are not practical to implement on a daily basis.
+Data Structure and Time Measurement
+The starting point for creating a micro-costing
+measurement of nursing care is with measuring the
+unique time each nurse and other nursing personnel
+spends with each patient from data from the EHR. This
+can be established using the nurse-to-patient assignment (e.g., a nurse caring for four patients in a 12-hour
+shift provides on average 3 hours of care for each
+patient) (Welton, Zone-Smith, & Bandyopadhyay,
+2009). Capturing the assignment in the EHR provides a
+means to allocate nursing intensity based on staffing
+patterns.
+Because patients often have different care needs
+and as a result nurses may spend more time with any
+single patient, a nursing acuity tool can be used to allocate nursing care hours to each patient from the assignment based on relative differences in demand for nursing care (Garcia, 2017). In the assignment above, a nurse
+could expend 6 hours for one patient and 2 hours for
+each of the other patients; therefore, a nursing acuity
+tool is used to reallocate time accordingly. With this
+information in place, a bottom-up or micro-costing
+approach to measure nursing intensity by patient is
+straightforward. The actual nursing time provided to
+each patient is multiplied by either the actual or mean
+wage as well as other direct-care costs such as shift differential. The contribution of other nursing personnel
+such as LPN/LVN or nursing assistant can be included
+in the actual costs of care in the same manner.
+These are the direct costs of nursing care or the
+actual time and resources expended for each patient.
+Other nursing personnel costs are not directly allocable to each patient (e.g., a charge nurse who may not
+take assignments or clinical nurse specialists who
+work with nurses providing care). Other nursing costs
+not directly allocable to an individual patient include
+hours worked but the nurse is involved with in-service education or orientation. These can be viewed as
+direct costs which benefit the patient but cannot be
+directly assigned.
+A third component of nursing costs are those that
+are not actually worked, but incurred as a benefit
+such as vacation or sick time, or obligation such as
+jury duty or military leave. These indirect nursing
+costs add to the overall cost of nursing care and must
+be considered and monitored. When all costs are
+identified and linked to each patient, we can more
+fully understand both the actual or true costs of nursing care provided to each patient. When linked to
+each patient and the additional data that can be
+extracted from the patient record in the EHR such as
+DRG, LOS, patient demographics, or hospital outcome, we can better understand how nursing care
+resources are uniquely expended for each patient and
+what patterns can be identified from the data. For
+example, do older patients need more nursing care
+than younger patients for the same DRG? Does a higher skill mix of registered nurses, and the higher cost of
+that skill mix, produce better clinical outcomes
+which reduces overall costs of health care? Which
+patients consume more nursing care than others and
+can we identify these nursing intensity outliers early
+in the trajectory of a hospitalization and provide more
+comprehensive and ultimately less costly care?
+Conclusion
+A new method of costing nursing care for the individual patient using data from the EHR to link nurses
+directly to patients and allocate actual hours and wage
+data provides a unique patient-level metric of nursing
+care. This micro-costing or bottom-up approach is a
+more accurate reflection of the clinical care being provided and allows greater transparency of nursing intensity and costs. Collection of patient-level nursing intensity and cost provides a foundation for further analysis
+that can identify patterns of nursing care linked with
+clinical as well as operational outcomes. $
+REFERENCES
+Azoulay, A., Doris, N.M., Filion, K.B., Caron, J., Pilote, L., &
+Eisenberg, M.J. (2007). The use of the transition cost accounting system in health services research. Cost Effectiveness and
+Resource Allocation, 5, 11.
+Costa, S., Regier, D.A., Meissner, B., Cromwell, I., Ben-Neriah, S.,
+Chavez, E., ... Connors, J.M. (2016). A time-and-motion
+approach to micro-costing of high-throughput genomic assays.
+Current Oncology, 23(5), 304-313.
+Drummond, M.F., Sculpher, M.J., Claxton, K., Stoddart, G.L., &
+Torrance, G.W. (2015). Methods for the economic evaluation of
+health care programmes. Oxford, United Kingdom: Oxford
+University Press.
+Dykes, P.C., Wantland, D., Whittenburg, L., Lipsitz, S., & Saba, V.K.
+(2013). A pilot study to explore the feasibility of using the
+Clinical Care Classification System for developing a reliable
+costing method for nursing services. AMIA Annual
+Symposium Proceedings, 364-371.
+Edwardson, S.R., & Giovannetti, P.B. (1987). A review of costaccounting methods for nursing services. Nursing Economic$,
+5(3), 107-117.
+Elliott, D. (1997). Costing intensive care services: A review of study
+methods, results and limitations. Australian Critical Care,
+10(2), 55-63.
+Etzioni, R., Riley, G.F., Ramsey, S.D., & Brown, M. (2002).
+Measuring costs: Administrative claims data, clinical trials,
+and beyond. Medical Care, 40(6 Suppl.), III63-72.
+Finkler, S.A., Knickman, J.R., Hendrickson, G., Lipkin, M., &
+Thompson, W.G. (1993). A comparison of work-sampling and
+time-and-motion techniques for studies in health services
+research. Health Services Research, 28(5), 577-597.
+Frick, K.D. (2009). Micro-costing quantity data collection methods.
+Medical Care, 47(7 Suppl. 1), S76-S81.
+Garcia, A.L. (2017). Variability in acuity in acute care. Journal of
+Nursing Administration, 47(10), 476-483.
+Gold, M.R. (1996). Cost-effectiveness in health and medicine.
+Oxford, United Kingdom: Oxford University Press.
+Haddix, A.C., Teutsch, S.M., & Corso, P.S. (2003). Prevention effectiveness: A guide to decision analysis and economic evaluation. Oxford, United Kingdom: Oxford University Press.
+Hendrich, A., Chow, M.P., Skierczynski, B.A., & Lu, Z. (2008). A 36-
+hospital time and motion study: How do medical-surgical nurses spend their time? The Permanente Journal, 12(3), 25-34.
+Holbrook, R.F., Hargrave, K., & Traverso, L.W. (1996). A prospective
+cost analysis of pancreatoduodenectomy. American Journal of
+Surgery, 171(5), 508-511.
+continued on page 51
+NURSING ECONOMIC$/January-February 2018/Vol. 36/No. 1 51
+Data, Science, and Nursing Value
+continued from page 48
+Institute of Medicine. (1983). Nursing and nursing education:
+Public policies and private actions. Washington, DC: National
+Academy Press.
+Kaplan, R.S., & Anderson, S.R. (2004). Time-driven activity-based
+costing. Harvard Business Review, 82(11), 131-138, 150.
+Kaplan, R.S., Witkowski, M., Abbott, M., Guzman, A.B., Higgins,
+L.D., Meara, J.G., ... Feeley, T.W. (2014). Using time-driven
+activity-based costing to identify value improvement opportunities in healthcare. Journal of Healthcare Management, 59(6),
+399-412.
+Knauf, R.A., Ballard, K., Mossman, P.N., & Lichtig, L.K. (2006).
+Nursing cost by DRG: Nursing intensity weights. Policy,
+Politics, & Nursing Practice, 7(4), 281-289.
+Neumann, P.J., Sanders, G.D., Russell, L.B., Siegel, J.E., & Ganiats,
+T.G. (Eds.). (2016). Cost-effectiveness in health and medicine
+(2nd ed.). Oxford, United Kingdom: Oxford University Press.
+Park, J.H., & Song, M.S. (1990). [Determination of nursing costs for
+the hospitalized patients based on the patient classification
+system]. Kanho Hakhoe Chi [Journal of Nurses Academic
+Society], 20(1), 16-37.
+Pratt, R., Burr, G., Leelarthaepin, B., Blizard, P., & Walsh, S. (1993).
+The effects of all-RN and RN-EN staffing on the quality and
+cost of patient care. Australian Journal of Advanced Nursing,
+10(3), 27-39.
+Robinson, S., Roberts, T., Barton, P., Bryan, S., Macleod, J., McCarthy,
+A., ... Chlamydia Screening Studies ClaSS Project Group.
+(2007). Healthcare and patient costs of a proactive chlamydia
+screening programme: The Chlamydia Screening Studies project. Sexually Transmitted Infections, 83(4), 276-281.
+Sermeus, W., Delesie, L., Van den Heede, K., Diya, L., & Lesaffre, E.
+(2008). Measuring the intensity of nursing care: Making use of
+the Belgian Nursing Minimum Data Set. International Journal
+of Nursing Studies, 45(7), 1011-1021.
+Sovie, M.D. (1988). Variable costs of nursing care in hospitals.
+Annual Review of Nursing Research, 6, 131-150.
+Thompson, J.D. (1984). The measurement of nursing intensity.
+Health Care Financing Review (Suppl.), 47-55.
+Traverso, L.W., & Hargrave, K. (1995). A prospective cost analysis
+of laparoscopic cholecystectomy. American Journal of
+Surgery, 169(5), 503-506.
+U.S. Department of Labor, Bureau of Labor Statistics. (2017).
+Overview of BLS wage data by area of occupation. Retrieved
+from https://www.bls.gov/bls/blswage.htm
+Unruh, L.Y., Hassmiller, S.B., & Reinhard, S.C. (2008). The importance and challenge of paying for quality nursing care. Policy,
+Politics, & Nursing Practice, 9(2), 68-72.
+Welton, J.M., Zone-Smith, L., & Bandyopadhyay, D. (2009).
+Estimating nursing intensity and direct cost using the nursepatient assignment. Journal of Nursing Administration, 39(6),
+276-284.
+Copyright of Nursing Economic$ is the property of Jannetti Publications, Inc. and its content
+may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for
+individual use.

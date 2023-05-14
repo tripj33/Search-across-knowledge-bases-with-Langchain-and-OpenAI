@@ -1,0 +1,20 @@
+Six Domains of Healthcare Quality
+A handful of analytic frameworks for quality assessment have guided measure development initiatives in the public and private sectors. One of the most influential is the framework put forth by the Institute of Medicine (IOM), which includes the following six aims for the healthcare system.[1]
+
+Safe: Avoiding harm to patients from the care that is intended to help them.
+Effective: Providing services based on scientific knowledge to all who could benefit and refraining from providing services to those not likely to benefit (avoiding underuse and misuse, respectively).
+Patient-centered: Providing care that is respectful of and responsive to individual patient preferences, needs, and values and ensuring that patient values guide all clinical decisions.
+Timely: Reducing waits and sometimes harmful delays for both those who receive and those who give care.
+Efficient: Avoiding waste, including waste of equipment, supplies, ideas, and energy.
+Equitable: Providing care that does not vary in quality because of personal characteristics such as gender, ethnicity, geographic location, and socioeconomic status.
+Existing measures address some domains more extensively than others. The vast majority of measures assess effectiveness and safety. Some capture timeliness and patient-centeredness. Fewer measures focus on efficiency and equity of care, but attention to those domains has been growing.[2]
+
+Frameworks like the IOM domains also make it easier for consumers to grasp the meaning and relevance of quality measures. Studies have shown that providing consumers with a framework for understanding quality helps them value a broader range of quality indicators. For example, when consumers are given a brief, understandable explanation of safe, effective, and patient-centered care, they view all three categories as important. Further, when measures are grouped into user-friendly versions of those three IOM domains, consumers can see the meaning of the measures more clearly and understand how they relate to their own concerns about their care.[3]
+
+Learn more about Organizing Measures To Reduce Information Overload.
+
+Learn more about selecting and reporting measures within categories that consumers understand: Organizing Measures by Quality Domain.
+
+[1] Institute of Medicine (IOM). Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, D.C: National Academy Press; 2001.
+[2] Institute of Medicine (IOM). Performance Measurement: Accelerating Improvement. Washington, D.C: National Academy Press; 2005.
+[3] Hibbard JH, Pawlson LG. Why Not Give Consumers a Framework for Understanding Quality? Joint Commission Journal on Quality Improvement 2004 June. 30(6); 347-351.

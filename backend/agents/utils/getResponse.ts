@@ -13,7 +13,7 @@ async function getResponse(question: string, context: string) {
     modelName: "gpt-3.5-turbo",
     // modelName: "gpt-4",
     temperature: 0.5,
-    maxTokens: 100,
+    maxTokens: 2000,
   });
 
   const chatPrompt = ChatPromptTemplate.fromPromptMessages([

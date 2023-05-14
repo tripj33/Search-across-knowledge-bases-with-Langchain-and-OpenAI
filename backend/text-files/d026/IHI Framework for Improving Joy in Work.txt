@@ -1,0 +1,1698 @@
+IHI Framework for
+Improving Joy in Work
+AN IHI RESOURCE
+20 University Road, Cambridge, MA 02138 • ihi.org
+How to Cite This Paper: Perlo J, Balik B, Swensen S, Kabcenell A, Landsman J, Feeley D. IHI Framework for Improving Joy in Work. IHI
+White Paper. Cambridge, Massachusetts: Institute for Healthcare Improvement; 2017. (Available at ihi.org)
+WHITE PAPER
+AUTHORS:
+Jessica Perlo, MPH: Network Director, IHI Open School
+Barbara Balik, RN, EdD: Senior Faculty, IHI, and Co-founder, Aefina
+Partners
+Stephen Swensen, MD: Medical Director for Professionalism and
+Peer Support, Intermountain Healthcare, and Senior Fellow, IHI
+Andrea Kabcenell, RN: Vice President of Innovation, IHI
+Julie Landsman: Project Coordinator, IHI
+Derek Feeley: President and CEO, IHI
+Acknowledgments:
+IHI would like to thank the following organizations for their contribution to the IHI Framework for Improving Joy in
+Work: American Medical Association; Barry–Wehmiller; Baylor Scott & White Health; Bellin Health Systems; Beth Israel
+Deaconess Medical Center; Brigham and Women’s Hospital; Gaylord Hotels; Google; Healthcare Transformation Project
+at ILR School of Cornell University; Hospitality Quotient; Hospital Quality Institute; Iora Health; Mayo Clinic; Menlo
+Innovations; Samueli Institute; Service Employees International Union; Starbucks; Veterans Health Administration; and
+Zappos. We would also like to thank the following organizations that participated in prototype testing of the framework:
+American Association of Critical Care Nurses; Charleston Area Medical Center; Glen Cove Hospital, Northwell Health;
+iMatter NHS Scotland; Imperial College Healthcare NHS Trust; Kaiser Permanente Erwin Street Medical Offices; Mount
+Auburn Hospital Labor and Delivery; Nemours/Alfred I. DuPont Hospital for Children Pediatric Intensive Care Unit; NHS
+Highland; Penn State Altoona Nursing Department; University of Michigan Cardiac Intensive Care Unit; and University of
+Virginia School of Nursing.
+The authors are grateful for the thought leadership provided by IHI Leadership Alliance members who participated in the
+Joy in Work Workgroup and helped to frame the basic concepts as they apply to health care. We also thank Jane Roessner,
+Val Weber, and Don Goldmann of IHI for their support in developing and editing this white paper. The authors assume full
+responsibility for any errors or misrepresentations.
+The Institute for Healthcare Improvement (IHI) is a leading innovator in health and health care improvement worldwide. For more than 25 years, we have
+partnered with a growing community of visionaries, leaders, and frontline practitioners around the globe to spark bold, inventive ways to improve the
+health of individuals and populations. Together, we build the will for change, seek out innovative models of care, and spread proven best practices. To
+advance our mission, IHI is dedicated to optimizing health care delivery systems, driving the Triple Aim for populations, realizing person- and familycentered care, and building improvement capability. We have developed IHI’s white papers as one means for advancing our mission. The ideas and
+findings in these white papers represent innovative work by IHI and organizations with whom we collaborate. Our white papers are designed to share the
+problems IHI is working to address, the ideas we are developing and testing to help organizations make breakthrough improvements, and early results
+where they exist.
+Copyright © 2017 Institute for Healthcare Improvement. All rights reserved. Individuals may photocopy these materials for educational, not-for-profit uses, provided that the
+contents are not altered in any way and that proper attribution is given to IHI as the source of the content. These materials may not be reproduced for commercial, for-profit use
+in any form or by any means, or republished under any circumstances, without the written permission of the Institute for Healthcare Improvement.
+Institute for Healthcare Improvement • ihi.org 3
+Contents
+Foreword 4
+Executive Summary 5
+Introduction 5
+Four Steps for Leaders 8
+IHI Framework for Improving Joy in Work 16
+Measuring Joy in Work 21
+Conclusion 22
+Appendix A: “What Matters to You?” Conversation Guide 23
+Appendix B: Change Ideas for Improving Joy in Work 27
+Appendix C: Assessment Tools for Improving Joy in Work 33
+References 38
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 4
+Foreword
+Okay, I admit it. “Joy in work” sounds flaky. That was the reaction a friend of mine had when I
+suggested a couple of years ago that she add that to the strategic goals she was exploring with her
+team on a day-long management retreat. She did try, and her report back to me was this: “They
+hated it. They said, ‘Get real! That’s not possible.’”
+Sad to say, I suspect that may still be the response of all too many workgroups and leaders, both
+inside and outside health care. “Hunkering down,” “getting through the day,” “riding out the
+storm” — these are much more familiar attitudes in inevitably stressed work environments, as truly
+good people try hard to cope with systems that don’t serve them well, facing demands they can, at
+best, barely meet. The closest most organizations come to “joy” is “TGIF” parties — “Thank
+goodness it’s Friday. I made it through another week.”
+It has long seemed a paradox to me that such depletion of joy in work can pervade as noble and
+meaningful an enterprise as health care. What we in the healing professions and its support roles
+get to do every day touches the highest aspirations of a compassionate civilization. We have chosen
+a calling that invites people who are worried and suffering to share their stories and allow us to
+help. If any work ought to give spiritual satisfaction to the workers, this is it. “Joy,” not “burnout,”
+ought to rule the day.
+In our work in health care, joy is not just humane; it’s instrumental. As my colleague Maureen
+Bisognano has reminded us, “You cannot give what you do not have.” The gifts of hope, confidence,
+and safety that health care should offer patients and families can only come from a workforce that
+feels hopeful, confident, and safe. Joy in work is an essential resource for the enterprise of healing.
+Good news! Joy is possible. We know it is possible, not only from intuition, but also from science.
+This IHI White Paper summarizes a surprisingly large literature on theory and evidence about
+factors, such as management behaviors, system designs, communication patterns, operating
+values, and technical supports, that seem associated with better or worse morale, burnout, and
+satisfaction in work. It also cites a growing number of health care organizations that are innovating
+in pursuit of joy in work, and often getting significant, measurable results. (One of those
+organizations is IHI, itself, whose local projects are worth studying.)
+Since joy in work is a consequence of systems, quality improvement methods and tools have a role
+in its pursuit. That is to say: organizations and leaders that want to improve joy can do so using the
+same methods of aim setting, tests of change, and measurement that they use in the more familiar
+terrain of clinical and operational process improvement.
+So, listen up! “Joy in work” is not flaky, I promise you. Improving joy in work is possible,
+important, and effective in pursuit of the Triple Aim. This IHI White Paper will help you get
+started. And you might well find that the joy it helps uncover is, in large part, your own.
+Donald M. Berwick, MD
+President Emeritus and Senior Fellow
+Institute for Healthcare Improvement
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 5
+Executive Summary
+With increasing demands on time, resources, and energy, in addition to poorly designed systems of
+daily work, it’s not surprising health care professionals are experiencing burnout at increasingly
+higher rates, with staff turnover rates also on the rise. Yet, joy in work is more than just the
+absence of burnout or an issue of individual wellness; it is a system property. It is generated (or
+not) by the system and occurs (or not) organization-wide. Joy in work — or lack thereof — not only
+impacts individual staff engagement and satisfaction, but also patient experience, quality of care,
+patient safety, and organizational performance.
+This white paper is intended to serve as a guide for health care organizations to engage in a
+participative process where leaders ask colleagues at all levels of the organization, “What matters
+to you?” — enabling them to better understand the barriers to joy in work, and co-create
+meaningful, high-leverage strategies to address these issues.
+The white paper describes the following:
+ The importance of joy in work (the “why”);
+ Four steps leaders can take to improve joy in work (the “how”);
+ The IHI Framework for Improving Joy in Work: nine critical components of a system for
+ensuring a joyful, engaged workforce (the “what”);
+ Key change ideas for improving joy in work, along with examples from organizations that
+helped test them; and
+ Measurement and assessment tools for gauging efforts to improve joy in work.
+Introduction
+If burnout in health care were described in clinical or public health terms, it might well be called an
+epidemic. The numbers are alarming. A 2015 study found over 50 percent of physicians report
+symptoms of burnout.1 Thirty-three percent of new registered nurses seek another job within a
+year, according to another 2013 report.2 Turnover is up, and morale is down.
+Burnout affects all aspects of the pursuit of better health and health care. It leads to lower levels of
+staff engagement, which correlate with lower customer (patient) experience, lower productivity,
+and an increased risk of workplace accidents. These all significantly affect the financial vitality of
+an organization. The impact on patient care is even more worrying. Lower levels of staff
+engagement are linked with lower-quality patient care, including safety, and burnout limits
+providers’ empathy — a crucial component of effective and person-centered care.
+So, what can leaders do to counteract this epidemic? The Institute for Healthcare Improvement
+(IHI) believes an important part of the solution is to focus on restoring joy to the health care
+workforce. With this in mind, IHI developed four steps leaders can take to improve joy in work
+(the “how”); and the IHI Framework for Improving Joy in Work — critical components of a system
+for ensuring a joyful, engaged workforce (the “what”). Together, they serve as a guide for health
+care organizations, teams, and individuals to improve joy in work of all colleagues.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 6
+To inform this work, IHI led three 90-day Innovation Projects on Joy in Work in 2015–2016, with
+the goal of designing and testing a framework for health systems to improve joy in work. The
+Innovation Projects comprised scans of the current published literature on engagement,
+satisfaction, and burnout; more than 30 expert interviews based on the literature scan, including
+interviews with patients and exemplar organizations both within and outside of health care; site
+visits; and, finally, learning from 11 health and health care systems working to improve joy in work
+as they participated in a two-month prototype program testing steps, refining the framework, and
+identifying ideas for improvement.
+In addition to presenting the four steps and the framework, this white paper describes specific
+changes to test, discusses practical issues in measuring joy in work, presents examples from
+organizations involved in testing and implementation, and includes self-assessment tools for
+health care organizations looking to understand their current state.
+Why Use the Term “Joy in Work”?
+Why “joy in work”? And why now? Some may think focusing on joy in health care — a physically,
+intellectually, and emotionally demanding profession — is a distant goal. But focusing on joy is
+important for three fundamental reasons.
+First, focusing on joy, as opposed to focusing only on burnout or low levels of staff engagement,
+accords with an approach applied to solving many intractable problems in heath and health care.
+It’s tempting to analyze a problem by only paying attention to deficits or gaps. But to get to
+solutions, it is essential to identify, understand, and leverage all the assets that can be brought to
+bear, and joy is one of health care’s greatest assets. Health care is one of the few professions that
+regularly provides the opportunity for its workforce to profoundly improve lives. Caring and
+healing should be naturally joyful activities. The compassion and dedication of health care staff are
+key assets that, if nurtured and not impeded, can lead to joy as well as to effective and empathetic
+care. This assets-based approach to improvement enables people to look at issues from different
+perspectives, which often leads to designing more innovative solutions.
+The sociologist Aaron Antonovksy taught us to think of health as more than merely the absence of
+disease. Health is about coherence, he said — a sense that life is comprehensible, manageable, and
+meaningful.3 Following Antonovsky’s lead, the second reason to focus on joy in work is because joy
+is about more than the absence of burnout. Joy, like Antonovsky’s conception of health, is about
+connections to meaning and purpose. By focusing on joy through this lens, health care leaders can
+reduce burnout while simultaneously building the resilience health care workers rely on each day.
+Again, the goal is to design innovative solutions by looking at issues from a different perspective.
+The third reason for focusing on joy takes us back to W. Edwards Deming. His 14 Points for
+Management, first presented in his book Out of the Crisis, address joy, but use different terms.
+Consider, for example, Point 11, “Remove barriers that rob the hourly worker of his right to pride of
+workmanship,” and Point 12, “Remove barriers that rob people in management and in engineering
+of their right to pride of workmanship.” For Deming, “pride of workmanship” and “joy” were highly
+related, if not interchangeable.4 Later in life, Deming increasingly emphasized the importance of
+joy in work. In his final lectures, he routinely stated that “Management’s overall aim should be to
+create a system in which everybody may take joy in [their] work.” Ensuring joy is a crucial
+component of the “psychology of change,” one of the cornerstones of Deming’s scientific approach
+to improvement. In addition to being a core part of his theory of improvement, joy in work, to
+Deming, was also a fundamental right. It is up to leaders, he argued, to ensure that workers can
+enjoy that right.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 7
+Fairness and Equity as Contributors to Joy in Work
+Individuals who experience unfairness and inequity at work, or even outside of work, feel
+disempowered and will likely disengage, regardless of the basis for the inequity. Links have been
+made between race and ethnicity and wellbeing, showing various racial and ethnic groups
+experiencing less joy in work. The National Health Service in England went about measuring this
+within their environment and found significant disparities between the experience of white
+employees and that of black, minority, and ethnic employees. They went further to show that the
+sites with the highest rates of discrimination against minorities had the lowest patient experience
+scores. Besides indicating toxic environments for individuals and teams, addressing racism and
+inequity in the workplace becomes a quality-of-care imperative.5
+Focusing on equity can also lead to improving joy in work. For example, Henry Ford Health
+System’s emphasis on health care equity has been a driver of employee engagement. They
+administered a Gallup Employee Engagement survey and found that employees involved in health
+care equity work were seven times more engaged than other employees. The IHI White Paper,
+Achieving Health Equity: A Guide for Health Care Organizations, offers a framework for health
+care organizations to improve health equity for their staff and the communities they serve.
+6
+Regardless of the approach taken, health care organizations need the full engagement of all staff
+members in the mission. If individuals disengage, group output becomes less diverse, opinions are
+marginalized, decisions and performance suffer, and consequently, patients suffer.7 When
+everyone is engaged in an equitable and diverse environment, they feel as though they can listen to
+what matters to patients and colleagues; comfortably ask questions, request help, or challenge
+what’s happening; and use teamwork to successfully solve challenges. All of these contribute to a
+positive work experience and enable the entire team to experience joy in work.
+The Case for Improving Joy in Work
+Perhaps the best case for improving joy is that it incorporates the most essential aspects of positive
+daily work life. A focus on joy is a step toward creating safe, humane places for people to find
+meaning and purpose in their work.
+There is also a strong business case for improving joy in work. Recognizing that joy does not yet
+have a single validated measure, which we’ll discuss more in the measurement section, the
+business case draws on outcomes of the work environment, including engagement, satisfaction,
+patient experience, burnout, and turnover rates.
+Engagement is an imprecise but often-used proxy measure for joy. An engaged workforce is one
+that holds a positive attitude toward the organization and its values, and is foundational to creating
+high-performing organizations.8 When researchers studied human capital management drivers,
+they found that traditional Human Resources metrics (e.g., average time to fill open positions and
+total hours of training provided) do not predict organizational performance. Rather, a score of
+human capital drivers including employee engagement, among other factors, was more relevant.9 A
+UK study also demonstrated the relationship of performance and profitability with employee
+engagement.10 These and other studies confirm the intuitive: improving engagement contributes to
+improved performance.11 It enables greater professional productivity with lower turnover rates. Joy
+in work, in turn, improves patient experience, outcomes, and safety, resulting in substantially
+lower costs.12
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 8
+Many have documented this correlation between greater employee satisfaction and safer, more
+efficient patient care.13 There is ample evidence that management practices to produce a joyful,
+engaged workforce are associated with fewer medical errors and better patient experience;
+14 less
+waste; higher employee productivity;15 and more discretionary effort on the part of staff and
+reduced turnover, leading to better financial performance.16
+Studies have also shown a link between job dissatisfaction and plans for leaving a job. By
+considering employee turnover as a factor that’s associated with joy in work, it is possible to make
+an explicit financial case as well. One study showed that lost revenue for replacing one full-time
+equivalent (FTE) physician is $990,034, plus recruitment costs of $61,200 and annual start-up
+costs of $211,063. That means replacing one departing physician and on-boarding a new physician
+will cost the organization more than $1 million ($1,262,297).17 Finally, measuring joy and sharing
+the measurement results externally helps attract and retain top performers to an organization.18
+Four Steps for Leaders
+As IHI engaged with partners in thinking about how to restore, foster, and nurture joy in the health
+care workforce, it became evident that leaders often find it challenging to see a way to move from
+the current state to “joy in work.” Here are four steps leaders can take to find a path forward.
+Figure 1. Four Steps for Leaders
+Figure 1 depicts the steps as stairs, to illustrate that each step serves as the foundation for the steps
+that follow. First, leaders engage colleagues to identify what matters to them in their work (Step 1).
+Next, leaders identify the processes, issues, or circumstances that are impediments to what matters
+— the “pebbles in their shoes” that get in the way of meeting professional, social, and psychological
+needs (Step 2).
+19 Then, in partnership, multidisciplinary teams come together and share
+responsibility for removing these impediments (focusing on nine critical components), and for
+improving and sustaining joy (Step 3). Leaders and staff use improvement science together to
+accelerate improvement and create a more joyful and productive place to work (Step 4).
+The four steps do not ignore the larger organizational issues, or “boulders,” that exist, such as the
+impact of electronic health record functionality on clinicians’ daily work, or workload and staffing
+issues. Rather, the steps empower local teams to identify and address impediments they can
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 9
+change, while larger system-wide issues that affect joy in work are also being prioritized and
+addressed by senior leaders. This process converts the conversation from “If only they would…” to
+“What can we do today?” It helps everyone see the organization as “us” and not “them.”
+Creating joy and engagement in the workplace is a key role of effective leaders. IHI’s High-Impact
+Leadership Framework describes leaders’ actions that make them effective, from being an
+authentic presence at the front line to staying focused on mission and what matters, and identifies
+attention to joy in work as a major component of the leadership role.20 These leadership actions
+also give meaning to work, promote camaraderie, and are essential to improving joy. Similarly,
+everything we know about improving safety in health care relies on ensuring a fair and just culture,
+effective teams, and daily improvement — those things that also contribute to joy in work.21 Safety,
+effective leadership, and a joyful workforce are inextricably linked.
+Get Ready
+Before launching into Step 1, three “Get Ready” actions will establish a foundation for success. To
+embark on the steps without making these preparations risks derailing well-intentioned plans.
+ Prepare for the “What matters to you?” conversations: These are rich, learning
+conversations — not intended to communicate information, but rather to listen and learn.
+Leaders are often ill equipped to have effective conversations with colleagues, and many put
+off these important dialogues because of two primary concerns: 1) What if colleagues ask for
+things I can’t do? and 2) How am I going to fix all the things they identify? Leaders rightly
+fear an avalanche of issues falling on them that they are unable to address effectively. Leaders
+and colleagues should recognize this is a different approach than the usual “I tell you what
+isn’t working and you fix it” approach. See Appendix A for a guide to conducting effective
+“What matters to you?” conversations and resolving issues that arise from such
+conversations. The guide helps leaders get started quickly and learn as they go.
+ Ensure leader capacity at all levels of the organization: Leaders at the local level
+(e.g., program, department, or clinic) — referred to as “core leaders” in this paper — are
+tasked with guiding the work to improve joy in work in their respective areas. These leaders
+need the capacity (i.e., time to do the work and improvement science skills) and skill to
+facilitate the “What matters?” conversations, and to act on the issues that surface. Identifying
+impediments and then not acting on them intensifies rather than diminishes cynicism. For
+example, one organization testing these steps asked staff about impediments, but was unable
+to act at that time. A year later, when leaders returned to colleagues to ask about “What
+matters?” they were met with frustration — staff were hesitant to participate further because
+nothing had happened after their previous input. During prototype testing, sites found that
+they could begin tests of change on some local impediments almost immediately, especially if
+they broke these down into smaller segments. Sites that made progress on reaching their aims
+designated skilled and committed core leaders who facilitated improvement immediately,
+rather than waiting for an external resource team.
+ Designate a senior leader champion: Optimally, joy in work is an organization-wide
+strategy, led by senior leaders and involving colleagues and leaders at all levels. Core leaders
+need to have at least one senior leader as a champion when issues arise that go beyond the
+scope of their local leadership. The champion also takes on the “boulders” that are too big for
+a local unit, and begins to address them in the larger organization.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 10
+Step 1. Ask staff, “What matters to you?”
+This step is about asking the right questions and really listening to the answers to identify what
+contributes to — or detracts from — joy in work for staff (see Appendix A for a “What Matters to
+You?” Conversation Guide).
+22 For many years, IHI has been promoting the transformative
+provocation to ask patients, “What matters to you?” in addition to “What’s the matter?”23 Health
+care leaders need to ask the health care workforce the same question. Only by understanding what
+truly matters to staff will senior management be able to identify and remove barriers to joy.
+During the IHI prototype testing, some sites found it helpful to start with identifying a senior
+leader champion who commits to making joy in work a shared responsibility at all levels (Step 3).
+Highlighting senior leader support enabled staff to feel more comfortable bringing up issues and
+being honest about what matters to them. At these sites, teams needed assurance that change was
+an option before they were willing to share. Whether or not a champion is identified at the outset,
+leaders can support the process and show a genuine interest in the wellbeing of individuals and
+teams by regularly engaging colleagues in discussions to identify the unique local and
+organizational opportunities to improve joy in work.
+24
+Discovering what matters relies heavily on trusting relationships and assumes that leaders know
+how to listen. This is not always the case. Strong leaders use effective listening and communication
+skills to involve others, build consensus, and influence decisions. Teams have found success with
+using communication boards, surveys, regular staff meetings or more informal meetings to engage,
+inform, and listen. Identifying what matters need not take a lot of time. However, what works in
+one setting may not work in another. It’s up to leaders to find the method that works best for their
+colleagues and fits into the daily or weekly workflow.
+By beginning with asking “What matters?” leaders engage in a form of appreciative inquiry that
+taps into strengths or bright spots, or what’s already working in the organization, that offer energy
+for change. Conversation questions may include:
+ What makes for a good day for you?
+ What makes you proud to work here?
+ When we are at our best, what does that look like?
+This then sets the context for asking what gets in the way of a good day or what makes for a bad day.
+When leaders and team members are frank about what makes for a bad day, whether it is an
+overload of patients in a clinic or an inability to act on patients’ wishes for care, leaders and
+colleagues share the problems and ultimately the solutions. This creates a sense of “we are in this
+together.” While leaders may not take immediate action on all issues, the conversation establishes
+a place to start to make the work environment and patient care better. Through this process,
+leaders can begin to identify assets and bright spots on which to build, as well as defects in the
+system that might be improved. By cultivating leaders’ ability to work collaboratively, facilitate
+change, build relationships, and employ a participative management style, the organization will be
+in a better position to tackle complex challenges.25
+During the Innovation Projects, IHI interviewed a few organizations outside of health care that
+have done this well. Howard Behar, former president of Starbucks Coffee Company, shared that
+listening and ensuring people feel heard has been the cornerstone of their work. “Leaders can’t
+always do something to improve the problem, but they can listen and try,” Behar said. “The tension
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 11
+goes away as soon as people feel like their feedback is valued.” One way Starbucks did this was
+through “Mission Review” cards. Every employee was given a postcard-sized card and encouraged
+to report any decision that did not, in their opinion, support the company’s mission statement to a
+“Mission Review” team. Employees received a response from leadership within two weeks.
+Step 2. Identify unique impediments to joy in work in the local
+context
+Steps 1 and 2 usually happen in the same conversation and continue over time. Having
+conversations about what really matters to each person builds the trust needed to identify
+frustrations they experience during the work day. Everyone must feel like their ideas, opinions, and
+comments will be listened to before they can be open and honest.
+Just as answers to the question, “What matters to you?” will vary depending on the individual, the
+system-level impediments to joy in work will also vary depending on the organization, department,
+program, clinic, or team. Responses to this question, in combination with other real-time data
+collection and surveys (explained in the measurement section), enable leaders to build a
+comprehensive understanding of what contributes to joy in work in the organization, as well as
+what doesn’t.
+In Step 2, identifying unique local impediments to joy in work is how leaders can begin to address
+the psychological needs of humans. By building on the “What matters?” conversations, leaders work
+with colleagues to identify impediments that exist in daily work — the “pebbles in their shoes” —
+and then set priorities and address them together. This offers everyone a chance to give input on
+which impediments to address, build camaraderie by working together to remove impediments, and
+practice equity in respecting all voices.
+IHI’s work with the organizations involved in prototype testing offers the following examples of
+identifying local impediments:
+ The University of Michigan Cardiac Intensive Care Unit aimed to engage members of their
+community in a discussion around joy in work, discover what matters to their team, and
+identify two to three areas in which to test small changes. To do this, they asked staff about
+what matters to them and what gets in the way of experiencing joy in work. They then asked
+small groups of nursing staff, cardiology fellows, and “scribes” to use check marks to indicate
+“echoed” comments to identify top priorities. This process provided everyone a chance to see
+the issues identified and to weigh in on what to tackle first.
+ Many organizations involved in the prototype testing created regular huddles, workgroups, or
+team meetings as forums for members to share “bright spots” and identify impediments to joy
+in work. Huddles were used to ask colleagues to share what a good day at work looks like for
+them; what makes for a bad day; and what they appreciate or are grateful for. One site
+described this as a pause for a “joyful moment.”
+ All organizations had some mechanism for making the identified impediments visible, such
+as a “What Matters to You?” or other type of communication board. For example, many sites
+posted sticky notes that resulted from conversations in meetings or huddles on a display in a
+team area, with an opportunity to contribute additional impediments or improvement ideas
+to the list. Making the impediments and associated ideas for improvement visible adds to the
+collective sense that “we are in this together.”
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 12
+One area that prototype sites identified as a challenge in Step 2 is how to respectfully handle the
+negative team members — those who complain, but don’t participate in identifying solutions. Most
+leaders were pleased to discover that by initiating the “What matters?” conversation with
+colleagues first, spending time truly listening — rather than defending or saying why something
+will not work, clarifying what they heard, and adding the impediments identified to the suggestions
+list or notes — led to positive engagement. Emphasizing a focus on what staff can do together to
+address the impediments using improvement science methods and tools was vital for these teams.
+This led to previously negative members joining in as they developed hope that irritants in daily
+life would be addressed.
+Step 3. Commit to a systems approach to making joy in work a
+shared responsibility at all levels of the organization
+Making a workplace joyful is the job of leaders. Nevertheless, everyone from senior executive
+leaders to clinical and administrative staff has a role to play. From creating effective systems to
+building teams to bolstering one’s own resilience and supporting a positive culture, each person
+contributes. According to most sites engaged in the IHI prototype testing, it is critical for leaders at
+all levels to dedicate time, attention, skill development, and necessary resources to improving joy
+in work. Leaders from the American Association of Critical Care Nurses shared that it is vital to
+have a constant champion dedicated to joy in work to ensure momentum and sustainability.
+Improving joy in work is directly linked to the skills of leaders at all levels. Organizations cannot
+just delegate responsibility for joy in work to the Human Resources department; it is everyone’s
+job. In Step 3, it is most important to note that although there is a shared responsibility, not
+everyone does everything. The IHI Framework for Improving Joy in Work (see Figure 2) shows
+nine core components that contribute to a happy, healthy, productive workforce. (Each of these
+components is discussed in detail later in the paper.) In addition, the three outer rings of the
+framework show who is responsible for these components: senior leaders are responsible for all
+nine components; managers and core leaders are responsible for five components; and individuals,
+for three components. The responsibilities depicted in Figure 2 are meant to help leaders assess
+and plan for ongoing development of behaviors and systems at all levels to improve and sustain joy
+in work.
+Certain barriers to joy need to be addressed before others and it’s critical to recognize some basic
+psychological preconditions for joy in work. With Maslow’s hierarchy of needs in mind, we
+identified that five fundamental human needs must be met to improve joy in work.
+26 These five
+needs play a central role in the IHI Framework for Improving Joy in Work (see Figure 2): physical
+and psychological safety; meaning and purpose; choice and autonomy; camaraderie and
+teamwork; and fairness and equity. The first four fundamental needs are discussed in more detail
+below. Fairness and equity were previously addressed at the beginning of the paper and contribute
+to each of the core components. While all five of these human needs will not be resolved before
+addressing local impediments to joy in work, actions and a commitment to addressing all five will
+ensure lasting results.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 13
+Figure 2. IHI Framework for Improving Joy in Work
+Step 4. Use improvement science to test approaches to
+improving joy in work in your organization
+There are many ways to take a systems approach to improving joy in work. The aim is to make the
+change process rewarding and effective. Using principles of improvement science, organizations
+can determine if the changes they test are leading to improvement; if they are effective in different
+programs, departments, and clinics; and if they are sustainable. In IHI’s prototype initiative, teams
+used the Model for Improvement27 or another improvement method that was standard in their
+organization. In all cases, the teams set an aim for their work, decided on measures that would tell
+them if they were making progress, and selected components of the Framework for Improving Joy
+in Work as areas in which to test changes.
+For example, one IHI prototype initiative team’s inpatient unit had the aim to improve staff
+engagement scores by 50 percent overall. By noting concerns in several units regarding safety and
+poorly coordinated care, and reviewing the components in the Framework for Improving Joy in
+Work, the team decided to focus on improving teamwork as a good way to raise staff engagement.
+Daily huddles had been successful in critical care areas, so the manager and some of the staff
+decided to test change-of-shift huddles as a standard practice on the inpatient unit as a way to
+improve teamwork and engagement. The team’s tests of changes included the following:
+ Aim: Increase staff engagement scores on the inpatient unit by 50 percent by December.
+ Measures:
+o Percent of shifts for which all teams had a daily huddle
+o Percent of staff that report they feel like a productive member of a team
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 14
+ Changes: The changes included finding a time that worked for daily huddles for each shift,
+building a standard agenda that could be completed in 10 minutes, and specifying who on the
+unit could lead the huddles.
+ Testing Changes: At this site, the team ran multiple tests on one unit the first week:
+1. Have one 15-minute huddle, with one team on the day shift, focusing on all patients.
+In response to what the team learned from this first test, the staff on the unit ran multiple
+subsequent tests:
+- Change the huddle agenda to focus only on high-risk patients.
+- The charge nurse runs the huddle.
+- Have the huddle immediately after bedside report.
+- Huddle at a different time for the evening shift.
+By tracking the percent of shifts with a huddle and percent of staff that report feeling like
+a productive member of the team, the leaders had a sense of whether or not daily huddles
+were contributing to improved teamwork and engagement. The team changed the
+measure from focusing on “feeling like a productive member of a team” to percent of staff
+responding “Agree” or “Strongly Agree” to the statement, “I have the tools and resources I
+need to do my job.”
+2. Once this first team had a process that worked for both the day and evening shifts, the
+charge nurse established tests for the three other teams on the unit. Each team created
+their own tests to refine the daily huddle for their needs, including the timing that would
+allow staff to cover all patients. By the end of four months, 90 percent of teams on the
+unit were conducting daily huddles. The evening shift was an outlier, so the teams
+decided to keep working on shift huddles over time. Engagement scores rose by 30
+percent as a result.
+3. At this point, the leaders were ready to spread daily shift huddles to other units. Each unit
+had its own structures and routines, so the shift huddles had to be adapted in each unit
+location, again using a methodology to test changes and measure the results. Leaders also
+noted that feeling a part of a team and having the tools needed to do the work were not
+sufficient for raising engagement by 50 percent, and so began working on other changes
+related to the framework components for camaraderie and daily improvement.
+This example highlights key elements of improvement science:
+ Make sure the aim is clear and numerical (how much, by when).
+ Start small and use data to refine successive tests.
+ Make sure the change idea works before getting more people involved or spreading the
+change. With confidence that the change works, then try it in many different situations.
+ Track results of every test, using process measures first and then ultimately outcome
+measures; share results openly and help team members understand and use the data.
+ Improvement is participative and involves everyone, from senior leaders who set the
+organization’s strategic aim and support improvement, to core leaders who drive
+improvement every day, to the individuals who identify problems, seek and test solutions, and
+track the results.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 15
+Appendix B provides examples of suggested changes for organizations to test for each of the nine
+critical components of the Framework for Improving Joy in Work. Of the nine components,
+prototype organizations frequently cited camaraderie and teamwork as the most critical to their
+progress in the initial stages of their work. The following are a few highlights from the IHI
+prototype testing that can serve as a model for Step 4.
+ The University of Virginia School of Nursing team found that using concepts from the IHI
+Framework for Improving Joy in Work was more effective than the standard committeedriven process. In previous surveys, employees identified a strong desire for time off,
+unencumbered by the expectation of responding to email. With a small group of staff, the
+team tested a small change: stop sending email to staff during their time off. The benefits
+were immediately evident, so they expanded the change to all School of Nursing employees
+with great success. In a follow-up survey after the change was implemented, 80 percent of
+respondents reported improvement in respect for their personal time off. Building on this
+success, the team is using the IHI framework to address other longstanding problems that
+affect staff joy in work.
+ The Mount Auburn Hospital team used small tests of change to restructure their approach to
+engaging colleagues in efforts to improve joy in work and address issues identified by staff.
+They focused on re-establishing trust among staff to ensure them that concerns they raised
+would be addressed. Following each “What matters?” conversation, local core leaders posted
+the issues identified during these discussions on a board where they were visible to all staff.
+Then, as each concern was addressed with small tests of change, core leaders documented
+what was being done along with the resolution, including issues that had to be escalated to a
+higher level of leadership. Making small, visible changes on local issues, and being
+transparent about the work, alleviated staff concerns that their voices weren’t being heard
+and made the work environment more positive.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 16
+IHI Framework for Improving Joy in Work
+While the four steps (see Figure 1) are designed to provide leaders with a pathway for “how to get
+from here to there,” the IHI Framework for Improving Joy in Work (Figure 3) shows the critical
+components of a system for ensuring a joyful, engaged workforce.
+Figure 3. IHI Framework for Improving Joy in Work
+As mentioned, four of the nine critical components for improving joy in work — physical and
+psychological safety, meaning and purpose, choice and autonomy, and camaraderie and teamwork
+— are fundamental human needs that require the greatest attention, perhaps first. For this reason,
+these four components, particularly physical and psychological safety, are elaborated on in more
+detail than the other components in this section. Fairness and equity, discussed earlier as the fifth
+fundamental human need, contributes to achieving success in all critical components.
+Physical and Psychological Safety
+ Physical Safety – People feel free from physical harm during daily work.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 17
+ Psychological Safety – People feel secure and capable of changing;28 there are respectful
+interactions among all; people feel able to question, seek feedback, admit mistakes, and
+propose ideas; and the organization provides full support for the staff involved in an adverse
+event (often referred to as the second victim).
+29
+We define “physical safety” as feeling free from physical harm at work. Health care workers,
+particularly nurses, have very high rates of acute and chronic musculoskeletal injuries, high
+exposures to blood-borne pathogens and other infections, and across the US there are increased
+incidences of violence in health care settings.
+30 Care facilities may be located in settings that pose
+risks (e.g., having to walk to dark parking lots or working in communities with potential safety
+issues). To be fully present at work, colleagues need to feel that adequate precautions have been
+taken to protect them.
+We define “psychological safety” as people feeling secure and capable of changing; they are free to
+focus on collective goals and problem prevention rather than on self-protection; and they believe
+that no one will be humiliated or punished for speaking up. They know that staff will not be
+punished for human errors in unsafe systems, consistent with a just culture. Psychological safety is
+a team characteristic rather than an attribute of individuals. It is a climate in which people feel free
+to express relevant thoughts and feelings or speak up about unsafe conditions without retribution.
+Psychological safety is founded on respectful interactions by everyone, and disrespectful behavior
+is rapidly and consistently addressed. People feel confident that others will respond positively
+when they ask a question, seek feedback, admit a mistake, or propose an idea. Consistent with
+exemplar safety environments, psychological safety fosters a climate in which raising a dissenting
+view is expected and respected, error reporting is welcomed, and people are willing to offer ideas,
+questions, and concerns.
+31 This allows for productive discussion and early detection of problems.
+It’s imperative to put a focus on equity when addressing psychological safety. Every member of the
+team must feel respected and comfortable speaking up — not just some. A shared sense of
+psychological safety is a critical input to an effective learning system that leaders must develop.
+Leaders build psychological safety through the following actions:
+ Be accessible and approachable;
+ Acknowledge the limits of current knowledge, frame the work accurately as complex, and
+show humility and fallibility;
+ Invite participation;
+ View failures as learning opportunities;
+ Use direct, clear language;
+ Set boundaries about what is acceptable behavior and hold others accountable for boundary
+violation;32 and
+ Develop and sustain a just culture.33
+Meaning and Purpose
+Do people find meaning in their work? Do they feel connected to a purpose that is larger than
+themselves in service to the community? Do they feel that the work they do makes a difference?
+Daily work is connected to what calls individuals to the health care profession. There is a line of
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 18
+sight for each person from daily work to the mission and goals of the organization, and constancy
+of purpose is evident in the words and actions of leaders.
+Outside of the health care industry, organizations like Menlo Innovations and Hospitality Quotient
+put an emphasis on the customer — those served by the organization’s work. Other organizations,
+such as Barry–Wehmiller, take a more iterative approach to living their mission, behavior, and
+values with a recurring mission review. Within the health care industry, finding meaning and
+purpose may be easier as these are inherent in saving lives and keeping patients healthy and happy.
+Leaders who frequently talk about the purpose of collective work and encourage conversations
+about the individual and collective purpose in the organization tap into the meaning that each
+person brings to their work.
+Choice and Autonomy
+The environment supports choice and flexibility in daily lives and work. Do people feel like they
+have some choice in how they execute their daily responsibilities? Do they have voice in the way
+things are done in daily work? Are they a part of decisions on processes, changes, and
+improvements that affect them? Do they have information to make informed contributions to
+choices in their work? Do team members have the performance improvement skills and support to
+improve daily work?
+Participative management and shared governance are two longstanding approaches that offer
+choice. For example, Starbucks teaches that leaders and managers should listen to staff and include
+them in solutions. Zappos call center employees do not work from a script and are encouraged to
+use their imagination to work with customers. Not needing to ask permission enables these sales
+representatives to succeed.34 Empowered support staff members at Bellin Health can request the
+resources they need without having to go through leaders. In other health care settings, this means
+staff are empowered to make improvements and suggest innovations to the use of the electronic
+health record (EHR) to reduce the administrative burden and tasks which unnecessarily question
+physician or clinician judgment. This is frequently identified as a “boulder” in experiencing joy in
+work. From these examples, we learn that colleagues need the freedom and trust to make choices in
+their daily lives and careers, while following clearly identified necessary rules and guidelines.
+Recognition and Rewards
+Effective leaders understand daily work, regularly provide meaningful recognition of colleagues’
+contribution to purpose, and celebrate outcomes. Some of the most meaningful rewards are rarely
+monetary.35,36 Organizations that are more successful in their efforts to improve joy in work begin
+to move away from traditional approaches that often have limited effectiveness. For example, while
+important for building camaraderie, parties and social gatherings alone are not sufficient to bring
+joy in work. It is the recognition, camaraderie, and celebration of team accomplishments that are
+validating, not the party itself.
+Participative Management
+Joy in work entails leaders creating space to listen, understand, and involve colleagues in providing
+input into decisions as an essential step in co-creation and participative management. Decision
+making involves clear communication and consensus building.
+Participative leaders do three things:
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 19
+ Engage before acting: They involve others in the beginning stages of an initiative to explain
+why the work is needed and gain commitment before implementing changes.
+ Inform: They keep individuals informed of future changes that may impact them.
+ Listen: They encourage colleagues to share, and listen to individuals at all levels in the
+organization. They consistently listen to everyone — not only when things are going well.
+Camaraderie and Teamwork
+Social cohesion is generated through productive teams, shared understanding, and trusting
+relationships. Do people feel like they have mutual support and companionship? Do they feel that
+they are a part of a team, working together toward something meaningful? Do they have a friend or
+someone who cares about them at work whom they can regularly ask for advice? Do they trust the
+organization’s leadership? Do leaders regularly practice transparent communication? Do team
+members regularly express appreciation for each other’s work?
+Daily Improvement
+The organization uses improvement science to identify, test, and implement improvements to the
+system or processes. Teams and the wider organization undertake regular proactive learning from
+defects and successes. Improvement in processes is part of daily practice.
+Wellness and Resilience
+The organization demonstrates that it values health and wellness of all employees. This goes
+beyond workplace safety to cultivating personal resilience (i.e., the ability to bounce back quickly
+from setbacks) and stress management; utilizing practices to amplify feelings of gratitude;
+understanding and appreciation for work/life balance and the whole person and their family; and
+providing mental health (depression and anxiety) support. Taking care of oneself is part of a larger
+systems approach to joy in work, not a standalone solution.37
+Real-Time Measurement
+Measurement systems enable regular feedback about system performance to facilitate
+improvement. Daily, weekly, or monthly feedback is the norm to ensure effective data for ongoing
+improvement.
+Responsibilities by Role
+There is a strong relationship between the qualities of leadership at all levels and engagement and
+performance. When researchers studied nursing staff experience, the variable contributing the
+most to retention was management style.38 Other studies evaluating burnout and leadership
+quality of supervisors showed that positive leadership qualities of physician supervisors influence
+the wellbeing and engagement of individual physicians.
+24
+This is not to say that leaders are solely responsible for improving joy in work. Everyone in the
+organization has an essential part to play. Yet, leaders do have an important role in modeling the
+expected behaviors and in creating a culture that supports improving joy in work. For this reason,
+the change ideas that prototype organizations tested (see Appendix B) were guided by leadership
+behaviors set forth in the IHI High-Impact Leadership Framework.39 It is also important to note
+the concordance between these critical components for a healthy, happy, and productive workforce
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 20
+and the Framework for Safe, Reliable, and Effective Care, which also focuses on many of these
+elements as well as the prominent role of leadership.40
+Senior Leaders
+Senior leaders are accountable for developing a culture that encourages and fosters trust,
+improvement, and joy in work. They ensure that improving joy in work is a responsibility at all
+levels of the organization, beginning with healthy, effective teams and systems.
+While senior leaders ultimately bear the responsibility for each of the nine components (Figure 3),
+some components are most under their locus of control. After ensuring physical and psychological
+safety, they then set the vision and model the way for the transformation that joy in work requires.
+Senior leaders are responsible for articulating the organization’s purpose, providing a clear line of
+sight from the work of each person to the mission of the organization, and ensuring meaning and
+purpose in work. They also ensure fair, equitable systems that embody the fundamental human
+needs that drive joy in work. By understanding daily work, leaders can recognize the context in
+which colleagues work, ensure the effectiveness of systems, and identify opportunities to make
+improvements and celebrate outcomes.
+Managers and Core Leaders (leaders at the program, department, and clinic level)
+Primary responsibilities of core leaders are utilizing participative management; developing
+camaraderie and teamwork; leading and encouraging daily improvement, including real-time
+measurement; and promoting wellness and resiliency through attention to daily practices.
+Core leaders have the pivotal role of improving joy in work every day at the point of service. They
+work with their teams through the process of identifying what matters, addressing impediments
+through performance improvement in daily work, analyzing what is and is not working well,
+developing strategies, co-creating solutions with team members, advancing system-wide issues to
+senior executive champions, and working across departments or sites for joint solutions. This
+practice of participative management combined with collaborative process improvement makes it
+possible to meet fundamental human needs.41 As impediments are addressed, staff engagement
+improves and burnout recedes. Participative management results in greater individual and team
+productivity, while process improvement increases efficiency.42
+One key to the manager’s role is balancing the benefit and burden of improvement. Research by
+Chris Hayes at St. Joseph’s Health Care in Hamilton, Ontario, shows that improvement efforts,
+however well-meaning, can raise the workload and stress on the staff.43 For example, installing
+health information technology has been reported as a cause of burnout, despite its value for safety
+and efficiency, because the workload in using it falls heavily on busy people, increasing their
+fatigue and stress. Wise managers select the improvements with high perceived value that
+ultimately lower the workload when they can. During any improvement effort, they monitor the
+staff for stress and take steps to lessen and smooth the additional work.
+Individuals
+Everyone plays an important role in nurturing joy in the workplace by committing to doing their
+best, having respectful interactions, identifying opportunities to improve, being part of the
+solution, speaking up, and cultivating their own wellness and resilience. Each team member has a
+responsibility to be a good colleague, in addition to role modeling the core values of transparency,
+civility, and respect.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 21
+Measuring Joy in Work
+How can one measure “joy”? At present, there is no single validated measure of joy in work. Until
+there is, leaders need to draw on other indicators that are known to contribute to, or signal trouble
+for, joy in work.
+Measuring joy in work calls for both system-level and local-level measures:
+ Two or three system-level measures (such as satisfaction, engagement, burnout, turnover,
+retention, employee wellbeing, workplace injuries, or absenteeism) that can be reviewed at
+least annually to identify areas for improvement and to track progress over time; and
+ Local-level measures or assessments that occur more frequently that local leaders can use for
+improvement on a daily or weekly basis. Daily or weekly assessments of joy in work are
+initiated and tracked by the staff themselves, along with the core leader of the unit, clinic, or
+department. The timing of these local assessments matters. Assessments can occur after an
+event, such as an adverse event; after an interval, such as a day or a week; or at random.44
+It’s particularly helpful if data can be stratified by unit, department, discipline, and other
+demographic factors such as race and ethnicity. By drilling down into different units or groups of
+staff, organizations can identify areas in which to focus their improvement efforts first. More
+frequent and tailored data collection, and transparent sharing of results with each work unit and
+its leaders, allows for more real-time improvement and a better way to track the impact of changes
+over time.
+Appendix C includes examples of existing measurement and assessment tools for improving joy in
+work that organizations may adopt or adapt. In IHI prototype testing, no single measurement
+system was used across sites. The most practical approach is to leverage existing measurement
+data (e.g., satisfaction, engagement, burnout, turnover, retention, absenteeism) and measure more
+frequently over time, if possible. Certain measures will be better indicators of the effectiveness of
+changes that are tested, and certain tools will work better at some organizations than at others
+based on a variety of factors (e.g., the type of work in which colleagues are regularly engaged, the
+capacity of individuals to dedicate time to filling out an assessment). Rather than starting from
+scratch, many organizations choose to incorporate a few questions from other assessments into
+their existing assessment tool.
+Regardless of what is measured, leaders need to track data regularly, make the results transparent,
+and address issues that are identified as a priority. It’s important for joy in work to be a key
+organizational metric, on the same level as other organizational priorities and measures. This
+sends an important message to staff about the culture and values of the organization. Measuring
+joy in work can also help secure an organizational sense of “we’re in this together for our mission”
+when such measurement is used to demonstrate the link between joy in work and the patient
+experience, and to its impact on costs (e.g., staff turnover, recruitment and retention).45
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 22
+Conclusion
+Improving joy in work is an underused and high-leverage opportunity for creating environments
+where people find meaning and purpose while improving patient experience, outcomes, and safety,
+as well as organizational effectiveness and productivity. The leadership and management practices
+designed to improve joy in work are some of the most high-leverage changes an organization can
+undertake since a focus on joy in work simultaneously impacts so many goals embedded within the
+Triple Aim.
+Health care is in the beginning stages of recognizing the strategic significance of improving joy in
+work. The four steps for leaders and the IHI Framework for Improving Joy in Work provide an
+approach for organizations to begin that important journey. The opportunities to learn together
+how to build cultures that thrive through nurturing joy in daily work are immense. Let us begin
+and learn together.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 23
+Appendix A: “What Matters to You?”
+Conversation Guide
+This resource is intended to help leaders guide conversations with colleagues about “What matters
+to you?” — Step 1 of the Four Steps for Leaders (see Figure 1). The content is derived from the
+“Listen to Understand” material.46
+Purpose
+To increase joy in work, senior and core leaders engage in effective, meaningful conversations with
+colleagues to understand:
+ What matters to you in daily work?
+ How to build on assets: What helps make a good day? When we are at our best, what does
+that look like?
+ What gets in the way of a good day?
+Principles
+ Ask the question, listen to the first response, and then allow for deeper reflection about initial
+comments. Be comfortable with silence; practice curiosity and inquiry to listen — not just to
+hear, but also to understand.
+ You do not have to fix everything now — the intention of the conversation is listening to
+understand what matters, then working together using improvement science tools to address
+the things that get in the way of what matters.
+ Ensure that this work is done with colleagues and team members — not to or for them.
+Step 1. Ask staff, “What matters to you?” — The purpose of the conversation
+Do Don’t Steps to Try
+• Consider asking a colleague who is a
+skilled facilitator to co-lead the
+conversations in team meetings
+• Talk about the purpose of the
+conversation — why you are
+interested in what matters to staff
+• Share a story about what matters to
+you and what makes a good day for
+you
+• Assume you know what others are
+thinking or experiencing
+• Promise to fix everything
+• Do this as a one-time activity
+• Talk to just those who are positive
+and avoid the negative voices
+• Purpose = Be able to articulate why
+you are talking about joy in work
+• Talk about your commitment to
+working together to make daily life
+better for everyone
+• Emphasize that this is about ongoing
+improvement, not a one-time or quick
+fix
+• Use brief huddles in the work area to
+have conversations with as many
+people as possible; this builds
+inclusiveness
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 24
+Step 1. Ask staff, “What matters to you?” — Build on assets and “bright spots”
+Do Don’t Steps to Try
+Ask staff members to share:
+• Why I decided to work in health care
+• What makes me proud to work here
+• What matters to me in my work is…
+• What is the most meaningful or best
+part of my work
+• I know I make a difference when…
+• When we are at our best, it looks and
+feels like…
+• What makes a good day is…
+• Assume all team members will
+understand what you’re talking about
+immediately; they are often not used
+to being asked “What matters?”
+• Assume all will feel safe talking
+initially
+• Assume all have the same view
+• Mandate participation — instead,
+welcome and invite
+• Speak for others
+• Choose one question to get started,
+then listen and invite others to
+comment
+• Ask follow-up questions to clarify
+statements
+• Point out when bright spots are
+similar; identify the themes you hear
+• Capture what you are hearing so it is
+visible (e.g., on a whiteboard) and
+post the feedback in a location that’s
+visible to all staff
+Step 2. Identify unique impediments to joy in work — The “pebbles in their shoes”
+Do Don’t Steps to Try
+Ask members to share:
+• What gets in the way of what matters
+(the “pebbles in their shoes”) is…
+• What gets in the way of a good day
+is…
+• What frustrates me in my day is…
+• Stay with general or broad comments
+(“never,” “always,” etc.)
+• Allow a single person to do all the
+talking
+• Assume people know you have heard
+them
+• Feel you need to immediately solve
+every issue identified
+• Think you need to do this all yourself
+• Choose one question to get started,
+then listen and invite others to
+comment
+• To move from broad comments
+(“always,” “never”), ask team
+members to be more specific, to
+identify some ideas you might test as
+a starting point:
+◦ “Help me understand what that
+looks like?”
+◦ “What happened yesterday that
+would be an example of that?”
+◦ Link to assets/bright spots:
+“What from our bright spots list
+would help us?”
+• When one person is primarily talking,
+thank them for their comments and
+suggest, “Let’s hear from others on
+the team…”
+• Acknowledge what you’re hearing
+(e.g., “The thing that frustrates you
+is… did I get that right?”)
+• Capture what you are hearing so it is
+visible (e.g., on a whiteboard) and
+post the feedback in a location that’s
+visible to all staff
+• Use brainstorming tools to generate
+ideas for overcoming impediments
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 25
+Step 3. Commit to a systems approach to making joy in work a shared responsibility at all levels of
+the organization — Co-design next steps
+Do Don’t Steps to Try
+• List what the team identifies as bright
+spots and impediments
+• Ask, “What should we tackle first?”
+• Ask that all individuals participate in
+the local improvement work
+• Be specific about improvement (e.g.,
+“We will develop our skills in
+improving this process starting
+tomorrow”)
+• Take immediate action with team
+members and ensure ongoing
+communication and follow-through
+• Ensure that patient and family
+advisors are part of care system
+changes
+• Judge, accept, or deny ideas
+• Take it all on yourself
+• Ask, then do nothing
+• Allow large gaps of time to occur
+between the initial conversation and
+follow-up conversations
+• Engage others and support creative
+thinking through the sharing of ideas
+• Use a short list of criteria to choose
+where to start — the issue…:
+◦ Is something we can do in our
+area right away, beginning small
+tests of change within 24 hours
+◦ Is an improvement that is a
+quick win
+◦ Is meaningful to several team
+members
+◦ Is one that team members are
+willing to test
+• You or team members provide brief
+daily updates to the team
+• Patient and family advisors can be a
+source of energy for the team and
+reinforce why it’s important for team
+members to act on changes that
+impact what matters
+Step 4. Use improvement science to test approaches to improving joy in work in your organization
+Do Don’t Steps to Try
+• Build on the previous three steps
+• Leaders role-model using
+improvement science (e.g., Model for
+Improvement; Lean) — improving
+with staff — as the organization
+strives to improve systems
+• Celebrate lessons learned — when a
+test fails, say “look what we learned
+from this” and keep testing
+• Begin to link the changes for joy in
+work to other improvements (e.g.,
+how one improvement helps increase
+safety or efficiency)
+• View improvement as part of daily
+work, something that is an essential
+part of each person’s role
+• Put systems in place to monitor
+changes, to ensure they are
+sustained or to signal a need for
+further improvement
+• Use change ideas from Appendix B to
+challenge the team to continue to aim
+high
+• Celebrate small wins
+• Try to “fix it” by yourself as a leader
+• Try changes that are too big or too
+complex, or try to change everything
+at the same time
+• Assume you know the solution
+• View this work as a project
+• Assume that changes will be
+sustained
+• Move on to the “next thing”
+• Fail to develop a short-term and longterm measurement strategy
+• Develop a clear aim — have
+individuals co-create the aim (achieve
+what, by when) so everyone knows
+the target/goal you are working
+toward
+• Ask for volunteers, especially those
+who have a passion for change, to
+help with improvement
+• Go small to go fast — use rapid, short
+PDSA cycles to test ideas (e.g., test
+one small change this afternoon, in
+one location); if you can’t make
+progress quickly, try breaking the
+improvement into smaller parts
+• Build capacity — teach improvement
+science to team members as you do
+tests of change
+• Ensure patients and families are part
+of the improvement
+• Measure results — a combination of
+fast, short-term feedback and longterm feedback that includes process
+measures first, then outcome
+measures; share results; keep testing
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 26
+• Experiment — understand which
+changes you test have the most
+impact and then expand on these
+• Measure ongoing results to ensure
+sustained results
+• Ask “What’s next?” and “What can we
+do even better?”
+• Provide regular recognition for the
+changes implemented and sustained
+over time
+• Remind team members of the
+progress made
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 27
+Appendix B: Change Ideas for Improving Joy in Work
+Organizations participating in the IHI prototype testing to improve joy in work used and adapted some of the change ideas described below.
+The change ideas are organized by the nine critical components of the IHI Framework for Improving Joy in Work (see Figure 3).
+While the change ideas apply to all colleagues, leaders have accountability to model the way while also expecting others to demonstrate
+behavior consistent with their position and skills. As mentioned in the paper, this framework draws key concepts from and accords with
+IHI’s High-Impact Leadership Framework and the Framework for Safe, Reliable and Effective Care, since joy, leadership, and high levels of
+performance are inextricably linked.47,48 All three improve together, and conversely all three will decline together.
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+Physical and
+Psychological Safety
+• Dedicate leader time, attention, skill development, and necessary
+resources to improving joy in work
+• Leaders role-model the behaviors that create and nurture
+psychological safety:
+◦ Be accessible, visible, and approachable to develop
+relationships with team members
+◦ Acknowledge the limits of current knowledge
+◦ Show fallibility and humility — do not have all the answers
+◦ Invite participation
+◦ View failures as learning opportunities
+◦ Use direct, clear language
+◦ Set boundaries about what is acceptable behavior and hold
+others accountable for boundary violation
+◦ Show respect for all staff, regardless of their role
+• Create a just and fair culture
+◦ Hold health care professionals accountable, but do not punish
+for human mistakes
+◦ Establish policies and practices used by everyone to address
+harm and safety concerns
+◦ Role-model and encourage staff to speak up if there is an
+issue that concerns them
+◦ Offer one-on-one, group, and peer support for second victims
+of adverse events, particularly events involving harm
+◦ Provide regular training and competency training to ensure
+skills and develop trust to achieve the desired culture
+Chief of the Australian Army, Lieutenant General David Morrison, has
+said: “The standard you walk past is the standard you accept.”49 For
+example, if a leader walks past people speaking disrespectfully to each
+other and says nothing, it sends a message that the behavior is
+acceptable. Identifying and modeling behaviors also helps staff know
+what to expect.
+Leaders at Hospital Quality Institute regularly visit point-of-care staff to
+talk about what’s important to them with respect to safety, and to thank
+people for being open about safety risks and problems.
+Brigham and Women’s Hospital invests in supporting its Center for
+Professionalism and Peer Support. The Center serves many functions,
+one of which is as a confidential resource for any employee to raise
+concerns regarding unprofessional behavior by a physician.
+A study of the most effective teams and group culture conducted by
+Google showed teams that had empathy for each other, listened to all
+members of the group, and took turns talking had more shared
+knowledge and performed more efficiently as a team.50
+Beth Israel Deaconess Medical Center and Kaiser Permanente
+regularly track and address work days lost to injury and share this data
+with the leadership team and staff (via a newsletter and their website).
+The organizations keep a running tally of issues that are addressed
+(updated monthly).
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 28
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+• Address professionalism or disrespectful behavior concerns
+through established mechanisms to hear and address complaints
+◦ Hold professionalism education, including workshops to
+address disruptive behavior, conflict management, giving
+feedback, and teamwork
+• Ensure that fairness is a value acted on every day
+◦ Establish equitable systems for core organizational practices
+or equity topics (e.g., salary, skilled supervisors)
+◦ Improve group culture by encouraging equality in distribution
+of conversational turn-taking and social sensitivity
+(perceiving, understanding, and responding to others’ points
+of view)
+◦ Address implicit and explicit bias in the organization
+• Attend to physical safety
+◦ Ensure that systems, assistive equipment, policies, and
+practices that address workplace injuries are in use at all
+times, especially related to physical risks such as lifting,
+ambulation of patients
+◦ Use escorts, buddy systems, and other types of support in
+high-risk areas (mental health, emergency department,
+community outreach) as needed
+Meaning and Purpose • Provide clear messages about organizational purpose and a line of
+sight, through clear and frequent guidance about the organization’s
+mission and vision, to connect team members to the meaning and
+purpose of their work
+◦ Highlight the importance of work in relation to existing goals
+◦ Make the line of sight to purpose a daily discussion
+◦ Leaders at all levels communicate the direct connections
+between the organization’s goals and everyone’s work (e.g.,
+when infection rates decline, each local leader can point to
+the work of staff on their unit that contributed — medical,
+nursing, environmental services, and other staff)
+• Focus on who is being served by the work and put a human face
+behind every statistic
+◦ Remind staff of the “why” and find new ways to reinforce it
+every day
+Starbucks helps staff document the key elements of the desired culture
+in the organization through a Mission Review program. Staff are
+encouraged to speak up if they feel like the organization is not living up
+to the mission or values. This is escalated up the corporate structure
+through managers. Staff are also given a culture book that is written,
+shared, and reinforced by each employee.
+Bringing in veterans to talk about their experiences in health care
+helped the staff at Veterans Health Administration connect their daily
+tasks back to the work.
+Conducting purposeful leadership rounds to engage team members in
+conversations about how they find meaning and purpose in their work is
+a highly successful practice.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 29
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+◦ Use staff meetings or huddles as a time when staff can talk
+about why the work is important to them, and what makes for
+a good day
+◦ Engage patient advisors in sharing their stories to reconnect
+staff to their personal purpose, or incorporate patients as
+team members to regularly link actions to mission
+• Enlist staff participation in vision setting and critical analysis of the
+organization’s mission and goals
+Choice and Autonomy • Design systems where staff team members can make choices they
+see fit, whenever possible
+◦ Make selections on products and services they use
+◦ Use flexible work arrangements
+◦ Ensure transparency of information so that colleagues can
+make choices based on current information
+• Make sure that staff have opportunities to voice what matters to
+them, in public (e.g., at meetings and on feedback boards) and
+anonymously
+• Enable colleagues to identify impediments in daily work through
+regular discussions and analysis, and engage them in making
+improvements to eliminate the impediments
+• Teach team members how to do the work and then how to make
+improvements when they come across challenges
+• Develop systems so everyone knows how they are performing
+relative to goals and what to do to improve
+Many programs, departments, and clinics have a process by which staff
+list things that waste their time. The core leader helps identify which
+items are high priority and supports a pair of staff members as they
+work to remove the wasteful practice. The staff own and address the
+problems together.
+“Breaking the rules” is a concept in which leaders ask their staff, “If you
+could break or change any rule in service of better care, what would it
+be?” IHI Leadership Alliance members found asking this question
+enabled their organizations to identify areas where they might take
+direct action to reduce onerous administrative waste, in addition to
+eliminating habits and rules that appear to be harming care without
+commensurate benefit.51
+Atlassian, an Australian software company, gives their developers one
+full day every quarter to do whatever they want. The only requirement is
+that they share their results at the end of those 24 hours. These days of
+autonomy have resulted in software fixes that never would have existed
+otherwise.52
+Job sharing and staff-managed work assignments are well-tested ways
+to ensure clinicians have a choice about what they do and how they do
+it. At Bellin Health, teams redesigned the office visit to ensure that each
+team member was involved and working to the top of their degree in the
+patient interaction.
+Baylor Scott & White Health has worked to restore autonomy to
+individual clinics through leadership training for medical directors of
+individual clinics, and by supporting staff through electronic medical
+record changes. The lessons learned from the deployment of Epic in
+Central Texas were used to implement training and workflow in North
+Texas, focusing on staff efficiency and team care.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 30
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+Recognition and
+Rewards
+• Regularly recognize actions that reflect the mission, and celebrate
+accomplishments or contributions consistent with the
+organizational purpose
+• Develop an understanding of the daily work lives of team members,
+including shadowing team members on a regular basis to
+experience the work through their eyes
+• Provide meaningful celebrations and rewards frequently,
+emphasizing improvement, camaraderie, and teamwork
+• Use financial incentives and promotions in a fair and transparent
+way, recognizing that these rarely improve performance but are
+important to individuals
+Starbucks employees carry cards to give to co-workers whenever they
+witness a good deed or an action that reflects the mission.
+Veterans Health Administration and other organizations offer workload
+credits to staff for participating in initiatives outside of their job
+description that can be redeemed for perks and use of services.
+Participative
+Management
+• Systems are in place to cultivate capable and talented core
+leaders, specifically equipping them with skills in building trusting
+relationships, participative management, team building, and
+improvement methods and tools
+• Be visible and connected; ensure executive and core leaders
+regularly do purposeful rounds in all sites
+• Use “What matters to you?” conversations (Step 1) to ensure all
+colleagues have a voice in how to improve joy in work (this can be
+done through one-on-one conversations, huddles, or group
+brainstorming sessions) and include colleagues in co-designing
+goals, strategies, and actions appropriate for the site or program
+• Use consensus decision making
+• Employ shared decision making such as an interdisciplinary shared
+governance model
+• Aim to eradicate non-value-adding work using participative
+management and performance improvement skills
+• Demonstrate real interest in team members’ career success,
+resiliency, and personal wellness (see Leadership Dimensions
+Assessment Tool in Appendix C)
+Seton Healthcare noted internal data showed that structured Leader
+Rounding by executives with managers and staff had a strong positive
+impact on engagement. IHI Leadership Alliance member organizations
+report that their executives spend time reconnecting to the work itself,
+for example, through clinical days or spending time greeting patients.
+These activities showed others that senior leaders valued their work
+and made leaders feel connected to the challenges at the point of care.
+Executives at Barry–Wehmiller teach listening to their leaders. They
+offer a training course, which includes storytelling, to help managers
+value listening to understand.
+Camaraderie and
+Teamwork
+• Create clear links between the camaraderie of team-based process
+improvement and joy in work
+• Attend to the relationships and camaraderie within the team/unit
+◦ Take responsibility for respectful interactions and expect
+them of others
+◦ Invite participation on all topics
+At IHI, each new employee is paired with an existing employee for their
+first three months at the organization to help acclimate them to the
+culture and processes, and to meet other staff.
+Menlo Innovations builds familiarity and connections among staff by
+assigning teams of two. Every week, the teams switch, encouraging
+knowledge sharing and capacity building, and ensuring that everyone
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 31
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+◦ Organize social events for staff and families
+◦ Pair employees and switch pairs frequently to transfer
+knowledge, build capacity, and familiarize team members
+with each other and working styles
+◦ Encourage commensality (sharing a table) — those who
+spend time together over food (sharing a table) create a
+rapport that leads to better teamwork
+• Build and support teamwork
+◦ Assess responsibilities of each discipline and cross-match
+with licensure limits and skill sets to maximize performance
+◦ Redesign workflows that are clear, standardized where it
+makes sense, and waste free to ensure everyone is working
+effectively and at the highest level of their training
+◦ Role-model and train staff in professional and communication
+skills
+◦ Create courses, rounds, trainings, groups, programs, and
+time for interdisciplinary interaction
+◦ Hold retreats to have important conversations, highlight
+linkages between departments, focus on problems, and begin
+talking about solutions
+◦ Use team-building exercises to build trust and familiarity
+has a chance to work together before they work in projects that need
+larger teams.
+When possible, make it easy for small groups of staff to take breaks
+and meals together.
+Agree on a charity that the unit or clinic would like to support together.
+Hospital Quality Institute builds teamwork between departments by
+holding mini-courses with an interdisciplinary group of staff. Leaders
+also go on rounds with staff to understand experiences at the point of
+care.
+Daily Improvement • Ensure all leaders have the required skills to lead improvement in
+daily work, are skilled in the identification and elimination of waste,
+and can coach teams to participate in improvement activity
+• Construct a feedback loop system; keep a running list of “pebbles
+in their shoes” with the status of each (e.g., escalated in the
+organization, improvement in progress)
+• Implement changes in real time, if possible; use a fast-paced
+approach to testing changes to show progress quickly
+• Use visual tracking of successes and failures of interventions
+• Use structured methods to reduce work inefficiencies (e.g., “waste
+walks” are a structured approach to identifying waste)
+• Ask all team members to:
+◦ Commit to improving performance and work processes daily
+◦ Speak up — with ideas, concerns, questions; help colleagues
+to do the same
+A common list of actions for daily improvement includes:
+• Standardize what makes sense
+• Everyone at every level of the organization knows what they are
+supposed to do and knows how to get help if they need it
+• Visual management practices — key measures are tracked and
+visible to all
+• Standard use of problem-solving tools
+• Protocols for escalating problems to the right level
+• Intentional integration — consideration of the impact of
+improvements across the organization
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 32
+IHI Framework
+Component
+Change Ideas to Test Illustrative Examples
+Wellness and Resilience • Encourage wellness and resiliency in staff so each team member
+has the tools to better handle stress and turn to healthy coping
+mechanisms
+◦ Leaders should role-model individual wellness and resiliency
+by attending to their own wellness and resilience
+◦ Use mobile apps and other tools to promote healthy habits
+◦ Encourage colleagues to be leaders in adopting positive
+attitudes about work, as well as identifying opportunities to
+improve and be part of the solution
+◦ Employ mindfulness techniques
+◦ Three Good Things activity: Encourage team members to
+reflect on three good things every day
+• Support staff through personal and organization-wide changes
+• Make resources such as Employee Assistance Programs, wellness
+apps, and resources visible and accessible
+• Ensure core leaders have competency in change facilitation to
+decrease stress during planned work-related changes
+• Reinforce individual responsibility by embodying core values of
+respect, civility, transparency, and personal responsibility for
+wellness
+At Mayo Clinic, core and senior leaders have incorporated the Healthy
+Habits into daily practice and they encourage colleagues to also use
+them:
+• Physical activity
+• Forgiveness
+• Portion sizes
+• Preventive health care testing
+• Adequate sleep
+• Try something new
+• Strength and flexibility
+• Laugh
+• Family and friends
+• Address addictive behaviors
+• Quiet your mind
+• Gratitude
+Dartmouth Health Connect (Iora Health Primary Care Practice) fosters
+a community of health by having staff and patients engage in farmer’s
+market outings and five-minute meditation in the mornings.
+Departments within the Veterans Health Administration encourage staff
+to use a free mobile app (Provider Resiliency) to track personal burnout
+and wellness, as well as to provide tips or information on how to
+improve levels of both.
+Real-Time Measurement • Create measurement systems that track and display real-time data
+and ongoing improvement
+• Look for existing data in engagement surveys, safety culture
+surveys, turnover rates, vacancy rates, lost workday injury rates, or
+burnout scores to be able to track engagement and burnout
+regularly
+• Make staff concerns and what matters to them visible and
+transparent, including posters/whiteboards inviting input on what
+matters
+• Foster regular and open discussions about what is working and
+what is not, including regular huddles, workgroups, and team
+meetings to share bright spots and what a good day looks like
+IHI uses pulse surveys, administered monthly, to track engagement and
+satisfaction. The results are reported to the entire staff each month, and
+staff are engaged in how to address specific concerns.
+Baylor Scott & White Health survey of primary care physicians asks
+about their five-year plan as a burnout marker.
+The Veterans Health Administration created an app to track resilience
+in real time through employees’ smartphones.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 33
+Appendix C: Assessment Tools for
+Improving Joy in Work
+As health care organizations begin working to improve joy in work, self-assessment tools help
+guide their efforts and measure progress — identifying specific opportunities for improvement, and
+determining if the changes they’re testing are leading to improvement. The assessment tools
+described below are intended to help organizations evaluate current levels of joy in work and
+assess the impact of their improvement efforts related to the components of the IHI Framework for
+Improving Joy in Work described in this paper.
+System-Level Measures
+Most health care organizations use standard, proprietary staff satisfaction or engagement surveys.
+Many vendors exist, including online approaches with templates just for health care. Below are
+other measurement approaches that our experts and prototype teams have found useful.
+Net Promoter Score53
+The Net Promoter Score (NPS) was originally devised by Harvard Business Review in 2003 to
+indicate customer engagement. It is adaptable, however, to measure internal team members’
+engagement.
+To determine the internal NPS, ask individuals, “On a scale of 0 to 10, how likely are you to
+recommend this company as a place to work?” A score of 0 (zero) suggests that they would warn
+people away from applying and a score of 10 suggests that they would tell everyone they know to
+apply immediately. Scores of 0 to 6 indicate detractors, 7 and 8 passives, and 9 and 10 promoters
+(though some include 8 in this last group as well). Once responses have been gathered, calculate
+the internal NPS = (# of promoters – # of detractors) / total # of respondents.
+When to use this tool: If your organization is looking for one overall measure of joy in work, this
+may be a good measure to track as it provides a sense of how colleagues view the organization.
+Mayo Clinic Leadership Dimensions Assessment24
+The Mayo Clinic has recognized that leadership skill is closely associated with burnout. In surveys
+that assess the relationship between supervisor leadership qualities and burnout, researchers
+found that composite leadership scores strongly correlate with the burnout and satisfaction scores
+of individuals. Tracking leadership capability at the point of service enables senior leaders to
+identify best practices for spread and to intervene when a leader is struggling.
+During prototype testing of the IHI Framework for Improving Joy in Work, IHI created a short
+assessment tool that highlighted the most important dimensions of leadership (adapted from the
+Mayo Clinic assessment):
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 34
+When to use this tool: The Leadership Dimensions Assessment can be administered to individuals
+or to groups. Individual data highlights areas where multiple supervisors or areas of leadership
+need additional training or improvement. Completing this assessment with a group facilitates
+conversations about bright spots and areas for improvement.
+Safety Attitudes Questionnaire54
+The Safety Attitudes Questionnaire was developed by Bryan Sexton, Eric Thomas, and Bob
+Helmreich for organizations to assess their safety culture. This survey elicits health care provider
+attitudes using six factors: teamwork climate, job satisfaction, management, safety climate,
+working conditions, and stress recognition. The survey has been validated for use in critical care,
+operating rooms, pharmacy, ambulatory clinics, labor and delivery, and general inpatient settings.
+When to use this tool: Use this survey to assess safety culture, identify areas for improvement, and
+highlight strengths across the organization. The survey can be used to establish baseline data on
+the existing culture of an organization, to compare culture internally between specialties, or to
+compare clinical performance between organizations.
+AHRQ Patient Safety Culture Surveys55
+The Agency for Healthcare Research and Quality (AHRQ) sponsored the development of patient
+safety culture surveys, customized by specialization — hospital, medical office, nursing home,
+community pharmacy, and ambulatory surgery.
+When to use this tool: These surveys are used to assess the current safety culture within an
+organization, raise awareness of patient safety issues, identify areas for improvement, highlight
+strengths, and provide the ability to view the data over time. This data can be used for internal
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 35
+comparisons between specialties or areas of the organization, or external comparison across
+organizations and the health care industry.
+Maslach Burnout Inventory56
+The Maslach Burnout Inventory, developed by Christina Maslach and Susan Jackson, has been
+widely recognized and used to gauge burnout. This tool addresses three scales: emotional
+exhaustion, depersonalization, and personal accomplishment.
+When to use this tool: The Maslach Burnout Inventory measures respondents’ relationship to
+work; it is typically used to assess a group of staff members in an organization, rather than as an
+individual diagnostic instrument. The group scores can be correlated with other demographic
+information and used as baseline data to determine the impact of an intervention.
+Mini Z Burnout Survey57
+The Mini Z Burnout Survey, developed by AMA StepsForward, is used to determine stress levels in
+the health care workplace and how they compare with others in the field. The short, 10-item survey
+measures burnout and the health care practice environment.
+When to use this tool: The survey is intended to be distributed annually and completed
+individually by all providers within a practice. The data can be used as a baseline measure and as a
+gauge of overall staff wellness over time.
+Nine-Item Survey to Measure Physician Engagement in Addressing Health Care
+Disparities58
+This survey was developed by Matt Wynia and colleagues at the American Medical Association.
+Although the tool was designed for clinicians, Henry Ford Health System modified it with
+permission to use for all staff. Because equity and fairness are central to a joyful workplace,
+assessing engagement levels can guide efforts for improvement.
+When to use this tool: The nine-item survey is used to measure engagement (physician or staff) in
+addressing health disparities.
+Hackman and Oldham Job Characteristics Model to Job Satisfaction59
+The Job Characteristics Model proposed a set of important job qualities, a set of psychological
+mediators that linked these job characteristics to outcomes, and a set of valued personal and work
+outcomes. Meaningful work was an important psychological state that mediates between the job
+characteristics of skill variety, task identity, and task significance and the outcomes of internal
+(intrinsic) work motivation, work performance, satisfaction with work, and absenteeism and
+turnover.
+When to use this tool: This tool is best used with efforts seeking to improve meaning and purpose
+in work (e.g., efforts focused on job enrichment and improving the essential nature of the work
+performed).
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 36
+Local-Level Measures
+Daily Visual Measure
+To measure joy in work in real time, IHI created a visual measure — a glass jar placed by the
+elevator into which staff drop one marble each day: a blue marble for a good day, where the
+individual made progress (), or a tan marble for a day without progress (). A designated staff
+member counts the number of blue and tan marbles each morning and tracks the total count. A
+quick glance at the jar enables staff to gauge the daily mood of the organization. Leaders also use
+this data to assess levels of joy in work over time.
+When to use this tool: Real-time measurement can be used to engage staff in the daily assessment
+of joy in work. The data generated by even simple visual measurement tools — like the marble jar,
+or a whiteboard with two columns (one with a smiling face , one with a frowning face ) on
+which staff indicate their “joy in work” for that day by putting a checkmark in the appropriate
+column — can help leaders quickly gauge the current environment on a daily basis.
+Three Daily Questions
+Derived from the work Paul O’Neill accomplished while leading Alcoa to be one of the safest
+organizations in the world, these questions have been adopted by the Lucian Leape Institute.2 To
+find joy and meaning in their daily work, each person in the workforce must be able to answer
+affirmatively to three questions each day:
+ Am I treated with dignity and respect by everyone?
+ Do I have what I need so I can make a contribution that gives meaning to my life?
+ Am I recognized and thanked for what I do?
+When to use this tool: Core leaders can use these questions as a basis for conversation in daily
+huddles or team meetings. Rather than being a measurement tool per se, the three questions can
+serve as an assessment tool by asking team members, “What would it look like if we could answer
+‘yes’ for each question?”
+Pulse Survey
+Pulse surveys are a fast and frequent survey system, designed purposefully to avoid complex
+questions and give quick insight into the health of a company.
+At IHI, pulse surveys are short (10 questions or fewer) questionnaires on a 5-point Likert scale
+(“Strongly Agree” to “Strongly Disagree”) that are distributed monthly or quarterly (as opposed to
+annually). They provide the organization with frequent data to assess overall staff engagement and
+to see whether the efforts to improve joy in work are making a difference. The use of short, more
+frequent surveys allows for regular data collection without overwhelming staff or causing survey
+burnout.
+IHI includes a set of core questions in every survey, with additional questions focused on a
+different topic each time the survey is sent out.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 37
+IHI Pulse Survey Core Questions (included in every survey):
+ Overall, IHI is an excellent place to work.
+ I believe IHI is going in the right direction.
+ My immediate supervisor cares about the work that I do.
+ I feel comfortable bringing up problems and tough issues.
+ I feel that people at IHI respect and take into consideration all views expressed.
+Example Topic-Specific Questions (included in one survey at a time):
+January:
+ I am confident about my future at IHI.
+ My job makes me feel like I am part of something meaningful.
+ I am satisfied with my work/life balance.
+March:
+ My current role enables me to build my professional skills.
+ I feel like I have at least one person in a managerial/supervisory role at IHI who looks out for
+my professional development.
+May:
+ My immediate supervisor cares about me as a person.
+ I have a friend at work.
+ My colleagues at IHI regularly apply the IHI values in their day-to-day interactions.
+ I am confident that I can participate effectively in efforts to improve IHI processes.
+September:
+ The IHI Executive Team cares about the work that I do.
+ I feel well-informed about important decisions.
+ I feel recognized for my contribution.
+November:
+ My pay is fair for the work that I do.
+ My benefits package is good compared to others in the industry.
+When to use this tool: The pulse survey can be used as part of your organization’s internal efforts
+to improve joy in work, regularly check in with staff members, and identify areas that need
+improvement. This is a good type of assessment to start with if your organization does not
+regularly assess staff engagement, satisfaction, and joy in work.
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 38
+References
+1 Shanafelt TD, Hasan O, Dyrbye LN, et al. Changes in burnout and satisfaction with work-life
+balance in physicians and the general US working population between 2011 and 2014. Mayo Clinic
+Proceedings. 2015 Dec;90(12):1600-1613.
+2 Lucian Leape Institute. Through the Eyes of the Workforce: Creating Joy, Meaning, and Safer
+Health Care. Boston, MA: National Patient Safety Foundation; 2013.
+3 Antonovsky A. Health, Stress, and Coping. San Francisco: Jossey Bass; 1985.
+4 Deming WE. Out of the Crisis. Cambridge, MA: Massachusetts Institute of Technology, Center for
+Advanced Engineering Study; 1986.
+5 West M, Dawson J, Admasachew L, Topakas A. NHS Staff Management and Health Service
+Quality. London: Department of Health, UK Government; August 31, 2011.
+6 Wyatt R, Laderman M, Botwinick L, Mate K, Whittington J. Achieving Health Equity: A Guide
+for Health Care Organizations. IHI White Paper. Cambridge, MA: Institute for Healthcare
+Improvement; 2016. http://www.ihi.org/resources/Pages/IHIWhitePapers/Achieving-HealthEquity.aspx
+7 Department for Business, Innovation, and Skills. The Business Case for Equality and Diversity:
+A Survey of the Academic Literature. (BIS Occasional Paper No. 4) London: Government
+Equalities Office, UK Government; January 2013.
+https://www.gov.uk/government/publications/the-business-case-for-equality-and-diversity-asurvey-of-the-academic-literature
+8 Robinson D, Perryman S, Hayday S. The Drivers of Employee Engagement. Brighton, UK:
+Institute for Employment Studies; 2004. http://www.employmentstudies.co.uk/system/files/resources/files/408.pdf
+9 Bassi L, McMurrer D. Maximizing your return through people. Harvard Business Review. March
+2007. https://hbr.org/2007/03/maximizing-your-return-on-people
+10 MacLeod D, Clarke N. Engaging for Success: Enhancing Performance Through Employee
+Engagement: A Report to Government. London: Department for Business, Innovation, and Skills,
+UK Government; July 2009. http://hdl.voced.edu.au/10707/149387
+11 Harter JK, Schmidt FL, Hayes TL. Business-unit-level relationship between employee
+satisfaction, employee engagement, and business outcomes: A meta-analysis. Journal of Applied
+Psychology. 2002;87(2):268-279.
+12 Burton J. The Business Case for a Healthy Workplace. Industrial Accident Prevention
+Association; 2008. http://www.iapa.ca/pdf/fd_business_case_healthy_workplace.pdf
+13 Paller DA, Perkins E. What’s the key to providing quality healthcare? Gallup Business Journal.
+December 9, 2004. http://www.gallup.com/businessjournal/14296/whats-key-providing-qualityhealthcare.aspx
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 39
+14 Shanafelt TD, Balch CM, Bechamps G, et al. Burnout and medical errors among American
+surgeons. Annals of Surgery. 2010;251(6):995-1000.
+15 Dewa CS, Loong D, Bonato S, Thanh NX, Jacobs P. How does burnout affect physician
+productivity? A systematic literature review. BMC Health Services Research. 2014;14(325).
+http://bmchealthservres.biomedcentral.com/articles/10.1186/1472-6963-14-325
+16 Swensen S, MD, Kabcenell A, Shanafelt TD. Physician–organization collaboration reduces
+physician burnout and promotes engagement: The Mayo Clinic experience. Journal of Healthcare
+Management. 2016;61(2):105-127.
+17 Scutte L. What you don’t know can cost you: Building a business case for recruitment and
+retention best practices. Journal of Association of Staff Physician Recruiters. Summer 2012.
+http://www.aspr.org/?696
+18 Martin J, Schmidt C. How to keep your top talent. Harvard Business Review. May 2010.
+https://hbr.org/2010/05/how-to-keep-your-top-talent
+19 Kim S. Participative management and job satisfaction: Lessons for management leadership.
+Public Administration Review. 2002;62(2):231-241.
+20 Swensen S, Pugh M, McMullan C, Kabcenell A. High-Impact Leadership: Improve Care,
+Improve the Health of Populations, and Reduce Costs. IHI White Paper. Cambridge, MA: Institute
+for Healthcare Improvement; 2013.
+http://www.ihi.org/resources/Pages/IHIWhitePapers/HighImpactLeadership.aspx
+21 Frankel A, Haraden C, Federico F, Lenoci-Edwards J. A Framework for Safe, Reliable, and
+Effective Care. White Paper. Cambridge, MA: Institute for Healthcare Improvement and Safe &
+Reliable Healthcare; 2017. http://www.ihi.org/resources/Pages/IHIWhitePapers/FrameworkSafe-Reliable-Effective-Care.aspx
+22 Shannon D. Physician well-being: A powerful way to improve the patient experience. ACPE
+Physician Executive Journal. July/August 2013.
+http://www.mdwriter.com/uploads/1/8/0/3/18033585/acpe_physician_well-being-
+_a_powerful_way_to_improve_the_patient_experience.pdf
+23 Barry MJ, Edgman-Levitan S. Shared decision making: Pinnacle of patient-centered care. New
+England Journal of Medicine. 2012 Mar;366(9):780-781.
+24 Shanafelt TD, Gorringe G, Menaker R, et al. The impact of organizational leadership on physician
+burnout and satisfaction. Mayo Clinic Proceedings. 2015;90(4):432-440.
+25 Martin A. The Changing Nature of Leadership. Center for Creative Leadership; 2007.
+https://www.ccl.org/articles/white-papers/the-changing-nature-of-leadership-a-ccl-researchwhite-paper/
+26 Poston B. An exercise in personal exploration: Maslow’s hierarchy of needs. The Surgical
+Technologist. 2009 Aug:347-353.
+27 Institute for Healthcare Improvement. “How to Improve: Science of Improvement.”
+http://www.ihi.org/resources/Pages/HowtoImprove/ScienceofImprovementHowtoImprove.aspx
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 40
+28 Schein E. Organizational Culture and Leadership. San Francisco: Jossey-Bass; 1985.
+29 Pratt S, Kenney L, Scott SD, Wu AW. How to develop a second victim support program: A toolkit
+for health care organizations. The Joint Commission Journal on Quality and Patient Safety.
+2012;38(5):235-240.
+30 Ulrich BT, Buerhaus PI, Donelan K, Norman L, Dittus R. How RNs view the work environment:
+Results of a national survey of registered nurses. Journal of Nursing Administration.
+2005;35(9):389-396.
+31 Edmondson A. Psychological safety and learning behavior in work teams. Administrative
+Science Quarterly. 1999;44(2):350-383.
+32 Edmondson A. Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge
+Economy. San Francisco: Jossey-Bass; 2012.
+33 American College of Healthcare Executives and NPSF Lucian Leape Institute. Leading a Culture
+of Safety: A Blueprint for Success. Chicago: American College of Healthcare Executives; 2017.
+34 Heathfield SM. 20 ways Zappos reinforces company culture. The Balance. June 28, 2016.
+https://www.thebalance.com/zappos-company-culture-1918813
+35 Judge TA, Piccolo RF, Podsakoff NP, Shaw JC, Rich BL. The relationship between pay and job
+satisfaction: A meta-analysis of the literature. Journal of Vocational Behavior. 2010;77(2):157-167.
+36 Herzberg F. One more time: How do you motivate employees? Harvard Business Review.
+January 2003. https://hbr.org/2003/01/one-more-time-how-do-you-motivate-employees
+37 Epstein RM, Krasner MS. Physician resilience: What it means, why it matters, and how to
+promote it. Academic Medicine. 2013;88(3):301-303.
+38 Leveck ML, Jones CB. The nursing practice environment, staff retention, and quality of care.
+Research in Nursing and Health. 1996;19:331-343.
+39 Swensen S, Pugh M, McMullan C, Kabcenell A. High-Impact Leadership: Improve Care,
+Improve the Health of Populations, and Reduce Costs. IHI White Paper. Cambridge, MA: Institute
+for Healthcare Improvement; 2013.
+40 Frankel A, Haraden C, Federico F, Lenoci-Edwards J. A Framework for Safe, Reliable, and
+Effective Care. White Paper. Cambridge, MA: Institute for Healthcare Improvement and Safe &
+Reliable Healthcare; 2017.
+41 West CP, Dyrbye LN, Rabatin JT, et al. Intervention to promote physician wellbeing, job
+satisfaction, and professionalism: A randomized clinical trial. JAMA Internal Medicine.
+2014;174(4):527-533.
+42 Goleman D, Boyatzis R, McKee A. Primal Leadership: Unleashing the Power of Emotional
+Intelligence. Harvard Business Review Press; 2013.
+43 Hayes C. “Highly Adoptable Improvement.” http://www.highlyadoptableqi.com/index.html
+WHITE PAPER: IHI Framework for Improving Joy in Work
+ Institute for Healthcare Improvement • ihi.org 41
+44 Hektner JM, Schmidt JA, Csikszentmihalyi M. Experience Sampling Method: Measuring the
+Quality of Everyday Life. Thousand Oaks, CA: Sage Publications, Inc.; 2007.
+45 Sherwood R. Employee engagement drives health care quality and financial returns. Harvard
+Business Review. October 2013. https://hbr.org/2013/10/employee-engagement-drives-healthcare-quality-and-financial-returns
+46 Balik B, White K. Listen to Understand: Conversation Guide. June 2017.
+47 Swensen S, Pugh M, McMullan C, Kabcenell A. High-Impact Leadership: Improve Care,
+Improve the Health of Populations, and Reduce Costs. IHI White Paper. Cambridge, MA: Institute
+for Healthcare Improvement; 2013.
+48 Frankel A, Haraden C, Federico F, Lenoci-Edwards J. A Framework for Safe, Reliable, and
+Effective Care. White Paper. Cambridge, MA: Institute for Healthcare Improvement and Safe &
+Reliable Healthcare; 2017.
+49 AustralianArmyHQ. “Chief of Army Lieutenant General David Morrison Message about
+Unacceptable Behavior.” June 12, 2013. https://www.youtube.com/watch?v=QaqpoeVgr8U
+50 Duhigg C. What Google learned from its quest to build the perfect team. The New York Times
+Magazine. February 28, 2016. https://www.nytimes.com/2016/02/28/magazine/what-googlelearned-from-its-quest-to-build-the-perfect-team.html
+51 Berwick D, Loehrer S, Gunther-Murphy C. Breaking the rules for better care. Journal of the
+American Medical Association. 2017 Jun;317(21):2161-2162.
+52 Atlassian. “ShipIt.” https://www.atlassian.com/company/shipit
+53 Reichheld FF. The one number you need to grow. Harvard Business Review. December 2003.
+https://hbr.org/2003/12/the-one-number-you-need-to-grow
+54 Sexton JB, Helmreich RL, Neilands TB, et al. The Safety Attitudes Questionnaire: Psychometric
+properties, benchmarking data, and emerging research. BMC Health Services Research. 2006
+Apr;6:44.
+55 Agency for Healthcare Research and Quality. “Surveys on Patient Safety Culture.”
+https://www.ahrq.gov/professionals/quality-patient-safety/patientsafetyculture/index.html
+56 Maslach C, Jackson SE, Leiter M. The Maslach Burnout Inventory Manual. Palo Alto, CA:
+Consulting Psychologists Press; 1996.
+57 American Medical Association StepsForward. “Mini Z Burnout Survey.”
+https://www.stepsforward.org/modules/physician-burnout-survey
+58 Alexander GC, Lin S, Sayla MA, Wynia MK. Development of a measure of physician
+engagement in addressing racial and ethnic health care disparities. Health Services Research.
+2008;43(2):773-784.
+59 Hackman JR. Motivation through the design of work: Test of a theory. Organizational Behavior
+and Human Performance. 1976;16(2):250-279.
+Institute for Healthcare Improvement
+20 University Road
+Cambridge, MA 02138 USA

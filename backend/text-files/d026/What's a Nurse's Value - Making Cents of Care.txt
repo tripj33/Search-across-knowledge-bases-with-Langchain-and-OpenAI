@@ -1,0 +1,202 @@
+Guest Editorial John M. Welton
+What’s a Nurse’s Value? Making Cents of Care
+I
+magine if, at the end of a shift,
+every nurse wrote out a bill for
+the care he or she just delivered. What would be on the
+bill and how much would each
+nurse charge? It is a provocative
+question and gets to the heart of
+how to measure the added value
+nurses bring to the health care system. I have asked that question
+many times over the years. One
+place I recall was a hospital cardiac
+care unit where I was touring the
+unit with the nurse manager. I
+asked the billing question to a preceptor orienting a young nurse. She
+went through her own patients,
+one patient with routine congestive
+heart failure and another with complex dysrhythmia, and described
+the various things that would be included on her
+patient bills. She looked at the new nurse, smiled,
+and said she would charge more than her. It was a
+sobering reminder of the different types of experiences and expertise nurses bring to the bedside and
+the challenge to measure the value of each nurse.
+The Value of Each Nurse
+We struggle with the question: what is good nursing care? Common answers include reduction or
+elimination of nurse-sensitive quality measures such
+as injuries, infections, and pressure ulcers. Indeed,
+Florence Nightingale extolled over 150 years ago: “If
+a patient is cold, if a patient is feverish, if a patient is
+faint, if he is sick after taking food, if he has a bedsore, it is generally the fault not of the disease, but of
+the nursing” (Nightingale, 1860). The actions of nurses as well as many others caring for the sick and
+injured have a direct effect on the outcomes of care.
+However, there is a more personal question: who is a
+“good” nurse and what are his or her characteristics
+and virtues?
+If nursing is measured as the collective efforts of
+all nurses caring for all patients within a particular
+setting, how can we distinguish the individual contribution of each nurse? How would we measure perJOHN M. WELTON, PhD, RN, FAAN, is Professor and Senior
+Scientist, Health Systems Research, University of Colorado,
+College of Nursing, Aurora, CO, and Guest Editor for this issue of
+Nursing Economics.
+formance and outcomes of care and
+then provide positive feedback to
+help promote a professional environment to allow each nurse to
+achieve his or her very best effort?
+The question is both timely and
+relevant as we move toward wider
+implementation of value-based
+care.
+Measuring Nursing Value
+In a recent article in Nursing
+Economic$, a group of nurses and
+others engaged in a national expert
+panel proposed a method to measure nursing care value (Welton &
+Harper, 2016). The model identifies
+key data elements in the electronic
+health care record to link a nurse
+and patient as well as identify characteristics of that encounter. For example, a shift
+assignment in an acute care setting links each nurse
+and patient. From these data one could measure the
+workload based on patient acuity or the effects of the
+experience or academic preparation of each nurse in
+relationship to the outcomes of care for each patient.
+By linking nurses to patients in many different
+settings, we can also determine the actual hours of
+care delivered and, if a wage is available, calculate
+the actual or “true” direct nursing cost of patient care.
+This is relevant as we move toward bundled payment
+models. Future nursing care delivery models will
+require more accurate cost metrics to better understand the added value of nurses.
+Recommendations
+Where do nurses fit in the overall value equation? As we move forward with health care reform,
+that answer lies not in measuring nursing care as a
+composite whole, but as the aggregate of the contribution of each individual nurse. That will require
+changes in how we measure care toward the performance, costs, and quality of the care provided by each
+nurse. That raises difficult questions about how to
+compare or benchmark the care of nurses across different patients and different settings. What if a nurse
+is not doing well in managing a patient’s pain or giving medication on time? What if the most costly nurses are caring for the least complex or acute patients?
+How will nurses respond as greater accountability for
+continued on page 81
+NURSING ECONOMIC$/March-April 2016/Vol. 34/No. 2
+sages that need to be conveyed to
+the profession, public, and politicians. It’s not always about only
+using hard numbers; it is often
+about describing the difference it
+will make for their citizens and
+especially those located in the
+harder-to-reach parts of the state.
+If we do not get the public to
+engage in the process, if we do not
+get the politicians to understand
+the importance, and if we do not
+have the profession behind us,
+then research funding will go to
+other priorities with louder voices. Making research results accessible, understood, and supported
+by a wide range of stakeholders is
+a critical step in retaining and
+increasing research investment.
+A New Era of Regulation
+DN: What keeps you up at
+night?
+DB: As regulators, we are running to catch up. Change within
+service delivery is rapid. The regulatory framework we are currently using was designed for an era
+that is rapidly disappearing. We’re
+seeing more technology and,
+therefore, we need to think about
+how we protect the public in what
+is a very dynamic and fast-changing environment. The demographics of both health workers and
+nurses are changing. How do we
+regulate in such a climate? We are
+entering a new era of regulation
+and we need to consider how we
+will protect citizens in a way that
+fits 21st century practice.
+We also need to be mindful a
+generation of children will have a
+shorter life expectancy than their
+parents due to the rapid increase
+of noncommunicable diseases and
+obesity-related issues. We need to
+think about preventative strategies
+rather than treatment strategies.
+What does that mean for the educational curriculum and how we
+supervise practice? We also need
+to make sure nurses themselves
+are healthy.
+Another pressing issue is the
+ability to rapidly respond and deploy nurses in natural disasters.
+Failure to provide solutions
+means public safety is at risk. As
+regulators, addressing public safety is our prime purpose.
+DN: Where do you want to
+make your greatest impact and
+what would you like to be known
+for at NCSBN?
+DB: A former chief executive
+of Ikea said one of the things that
+had made his company a success
+was the ability to steal good ideas
+with pride rather than waste time
+reinventing the wheel. When they
+see good ideas they consider them
+carefully and figure out how to
+utilized them. There are a lot really good practices in the 50 states.
+We should take those examples of
+best practice and align them to our
+particular context. It is not about
+blindly accepting them and transplanting them but aligning them
+Guest Editorial
+continued from page 57
+to our reality and implementing
+them with vigor. If we can learn
+from each other and implement
+those ideas proven successful
+elsewhere rather than reinventing
+the wheel, I will be happy.
+We need to be architects of our
+future and shift the curve. It’s not
+about looking for the one or two
+failures and dealing with them, it’s
+about seeing how we shift the
+whole curve so we all succeed and
+make excellence of practice a reality for all. It is possible if we all
+pull together. $
+REFERENCE
+Conover, C., & Richards, R. (2015).
+Economic benefits of less restrictive
+regulation of advanced practice nurses in North Carolina. Nursing
+Outlook, 63(5), 585-592. doi:10.
+1016/j.outlook. 2015.05.009
+a range of new outcomes measures are implemented and placed on each
+nurse?
+To answer these questions, the following must occur:
+1. Produce new methods to extract common data from the electronic
+health record at the individual encounter between a nurse and
+patient to provide key information about cost, quality, performance,
+payment, and clinical care.
+2. Reconfigure internal costing and billing systems to separate nursing
+care and charge for nursing care directly to each patient rather than
+standardize room and board or other average methods.
+3. Recommend each nurse apply for National Provider Identifier (NPI)
+code. Use NPI in all interactions of nurses and patients.
+If these recommendations are implemented, we will have the ability
+to identify the added value each nurse brings to patient care. This represents a fundamental shift in how nursing care is viewed. Individual
+accountability, assessment of performance at the individual nurse level,
+and allocation of direct care time and costs of each nurse to each patient
+will provide the links to quality and outcomes of care. We have the ability to implement these recommendations in the next few years. Is there
+political will and consensus within the nursing community to move forward with these recommendations? Failure to take ownership of the data
+and metrics to link nurses to value-based care will likely lead to imposition of nursing value metrics from outside the profession. We are at a
+crossroad and it is time to challenge traditional views of nursing care
+value.$
+REFERENCES
+Nightingale, F. (1860). Notes on nursing: What it is, and what it is not. New York, NY:
+D. Appleton and Company.
+Welton, J.M., & Harper, E.M. (2016). Measuring nursing care value. Nursing Economics,
+34(1), 7-14.
+NURSING ECONOMIC$/March-April 2016/Vol. 34/No. 2 81
+Copyright of Nursing Economic$ is the property of Jannetti Publications, Inc. and its content
+may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for
+individual use.

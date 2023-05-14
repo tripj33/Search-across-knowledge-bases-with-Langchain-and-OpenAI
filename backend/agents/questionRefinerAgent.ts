@@ -78,17 +78,7 @@ export default questionRefinerAgent;
 const constructSystemPrompt = (
   conversationHistory: { question: string; answer: string }[]
 ) => {
-  return `As a highly skilled AI, your task is to refine the input question considering the conversation history. Follow these steps:
-
-1. Analyze the conversation history, identifying relevant information while ignoring irrelevant parts.
-2. If all conversation history is irrelevant, just preserve the current question.
-3. Otherwise, craft a concise and well-structured question that incorporates relevant context from the conversation history.
-
-If you can create a more accurate meaningful question, return:
-- the new question
-
-If the question is irrelevant or you dont know, preserve the question by returning:
-- the current question
+  return `Please refine the user's question based on the conversation history to provide context or clarification.
 
 Conversation History:
 ${constructConversationHistoryPrompt(conversationHistory)}

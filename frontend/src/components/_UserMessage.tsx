@@ -1,4 +1,11 @@
-const UserMessage = ({ message }: { message: string }) => {
+import React from 'react';
+
+type Props = {
+  message: string;
+  formatMessage: (message: string) => React.ReactNode;
+};
+
+const UserMessage: React.FC<Props> = ({ message, formatMessage }) => {
   const start = "[#2870ea]"
   const end = "[#1b4aef]"
   return (

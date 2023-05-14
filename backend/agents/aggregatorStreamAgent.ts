@@ -36,15 +36,15 @@ const aggregatorStreamAgent = async (
   const chatModel = new ChatOpenAI({
     modelName:
       process.env.AGGREGATOR_STREAM_AGENT_MODEL_NAME ?? "gpt-3.5-turbo",
-    temperature: 0.5,
-    maxTokens: 250,
+    temperature: 0.6,
+    maxTokens: 1500,
     streaming: true,
     callbackManager,
   });
 
   const chatPrompt = ChatPromptTemplate.fromPromptMessages([
     SystemMessagePromptTemplate.fromTemplate(
-      "You are an enthusiastic and friendly customer support chatbot, eager to provide helpful and accurate information to users. Given a collection of contexts and a question, carefully analyze the information and identify the most relevant context to the question. Then, compose an engaging response that addresses the question while maintaining a positive and cheerful tone. If the contexts don't provide enough information or none of them relate to the question, kindly reply with: I don't know. Remember to use emojis to make your responses more engaging and approachable."
+      "Return the aggregated information from the extracted text to answer the refined question."
     ),
     HumanMessagePromptTemplate.fromTemplate(
       "Context: {context}\n\n###\n\nQuestion: {question}"
@@ -77,7 +77,8 @@ const constructContextPrompt = (responseList: string[]) => {
     response.replace(/\s+/g, " ")
   );
 
-  return `\n${contextList
-    .map((context, ind) => `- ${ind + 1}. ${context}`)
-    .join("\n")}`;
+  return contextList
+    .map((context, ind) => `- ${ind + 1}. ${context}\nhello\n`)
+    .join("\nhello\n");
 };
+

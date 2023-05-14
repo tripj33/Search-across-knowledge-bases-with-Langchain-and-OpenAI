@@ -1,0 +1,222 @@
+Abstract
+Aim
+To report a concept analysis of nursing-sensitive indicators within the applied context of the acute care setting.
+
+Background
+The concept of ‘nursing sensitive indicators’ is valuable to elaborate nursing care performance. The conceptual foundation, theoretical role, meaning, use and interpretation of the concept tend to differ. The elusiveness of the concept and the ambiguity of its attributes may have hindered research efforts to advance its application in practice.
+
+Design
+Concept analysis.
+
+Data sources
+Using ‘clinical indicators’ or ‘quality of nursing care’ as subject headings and incorporating keyword combinations of ‘acute care’ and ‘nurs*’, CINAHL and MEDLINE with full text in EBSCOhost databases were searched for English language journal articles published between 2000–2012. Only primary research articles were selected.
+
+Methods
+A hybrid approach was undertaken, incorporating traditional strategies as per Walker and Avant and a conceptual matrix based on Holzemer's Outcomes Model for Health Care Research.
+
+Results
+The analysis revealed two main attributes of nursing-sensitive indicators. Structural attributes related to health service operation included: hours of nursing care per patient day, nurse staffing. Outcome attributes related to patient care included: the prevalence of pressure ulcer, falls and falls with injury, nosocomial selective infection and patient/family satisfaction with nursing care.
+
+Conclusion
+This concept analysis may be used as a basis to advance understandings of the theoretical structures that underpin both research and practical application of quality dimensions of nursing care performance.
+
+Why is this research or review needed?
+Recently established and valid nursing performance measurements are referred to as nursing-sensitive indicators.
+Many nursing-sensitive indicators can measure outcomes of nursing care.
+The concept of ‘nursing sensitive indicators’ has often been used without a theoretical or conceptual basis.
+What are the key findings?
+Holzemer's outcome model-guided matrix provides unique explanatory power for concept analysis.
+Attributes of nursing-sensitive indicators are revealed.
+This concept analysis shows the insufficient use and application of nursing process measures.
+How should the findings be used to influence policy/practice/research/education?
+The concept of nursing-sensitive indicators and its congruence with nursing theoretical models must be clearly articulated in research.
+Development of the concept of nursing-sensitive indicators remains a necessary step for the building of robust and distinctive nursing theories.
+The development of effective and sustainable information systems for clinical quality and safety governance that include nursing-sensitive indicators will benefit national approaches to enhance healthcare performance.
+Introduction
+In this paper, nursing-sensitive indicators (NSIs) is the concept selected for analysis.
+
+In the past three decades, there has been great change and evolution in the concepts and theories that underpin nursing practice. This has been a time when ‘what nurses do’ needs to be quantified and measured to justify funding, and improve practice and patient outcomes – even though we know that practice is not generic and is most often subject to context.
+
+‘Nursing sensitive indicators’ (NSIs) has been subject to considerable research development within the domain of the acute care setting where nurses have a degree of autonomy and control over processes of nursing care delivery (Naylor 2007, Aiken et al. 2009, Lake et al. 2010). The application of NSIs has developed from the vast and ongoing dialogues held between nursing executives, who manage nursing-related clinical performance and strategy initiatives in tertiary care facilities, and nursing academics who have an interest in the complex performance measurement and decision-making characteristics of contemporary healthcare organizations (Brown et al. 2010, Doran et al. 2011, Beck et al. 2013).
+
+Research to develop NSIs for use and application in the acute care domain must continue for several important reasons. First, NSIs have become an increasingly valid and reliable means to support nursing care quality and performance measurement in the hospital unit setting, including the evaluation of nursing clinical practice improvement (Brown et al. 2010, Patrician et al. 2010, Doran et al. 2011). Secondly, NSIs as variables have been increasingly drawn upon in primary research studies that empirically tested effects of nursing practice enhancement strategies on nursing-related outcomes (cf. Aiken et al. 2002, 2008, 2009, Needleman et al. 2007, 2011, Patrician et al. 2010, Blegen et al. 2011). Generally, those studies point to the complexity of, and variation within, the nursing practice environment of the acute care setting and the need for attention to related measures, models and theories. Thirdly, within the wider context of health system reform and heath policy development, considerable evidence advocates the building of NSI databases to support evidence-based healthcare practice (Aydin et al. 2004, Kurtzman & Corrigan 2007).
+
+Background
+The use of the concept of NSIs remains problematic. There are considerable inconsistencies and irregularities of definitions of the concept (Burston et al. 2013). The concept has been applied in primary research without referring to a clearly linked nursing conceptual framework (cf. Lindberg & Ludvigsen 2012, Liu et al. 2012, Wilson et al. 2013). Such a practice may threaten how the concept is studied and theoretically integrated for nursing knowledge development ,which, in turn, has bearing upon the meaningfulness and boundaries of the concept and relevance to clinical practice (Morse et al. 1996).
+
+Despite growing support for the use and application of the NSIs as metrics, their pattern of usage in primary research is not explicit. Moers et al. (2011) observed that nursing science had ‘…a fruitful decade of knowledge development from 1980 till 1990’; since then, theoretical discourse in nursing has been marginalized by an increase in empirical studies. We concur with Moers et al. (2011) and suggest that empirical studies and academic reviews related to the use of NSIs as metrics have received growing interest, whereas theoretical development of NSIs for application to the realm of acute care practice has advanced at a slower pace.
+
+This suggests that further study on the conceptual clarity of NSIs and their relationship with theory and practice is warranted. As concept analysis is known to enhance understanding of a concept's meaning (Baldwin 2008), it may help address the problem of ambiguity (Fawcett 2012). Hence, the aim of this study is to report a concept analysis of NSIs within the applied context of the acute care setting.
+
+This analysis involved integrating a modified method of concept analysis, as proposed by Walker and Avant (2005), with an organizing framework based on Holzemer's (1994) outcomes model for health care research. The steps adapted from Walker and Avant (2005) included identifying uses of the concept from literature, determining attributes, and describing surrogate terms, antecedents and consequences. Although Walker and Avant's method (2005) has been the most commonly used and is especially suitable for novice concept analysis due to its well-defined structured approach (Xyrichis & Ream 2008), Fawcett (2012) had suggested the need to commence concept analysis with a ‘frame of reference’. Given that Walker and Avant's method had been criticized for its lack of theoretical context (Paley 1996, Baldwin 2008), and that Penrod and Hupcey (2005) had argued that a concept's meaning should be examined within an existing theory, a conceptual matrix was incorporated to offset this deficit and to enhance the step ‘determining attributes’. Holzemer's model (1994) was chosen because it draws heavily upon Donabedian's Structure-Process-Outcome (SPO) model (1984) where foundations to the conceptual development of quality dimensions of nursing care performance have been studied using NSIs (cf. American Nurses Association 1995, 1996, Irvine et al. 1998, Doran & Sidani 2007, Dunton et al. 2007, Montalvo 2007, Clarke & Donaldson 2008, Loan et al. 2011). Known as Donabedian's model of quality care (1984), the SPO components are important to each other. As explained by Makary et al. (2006), “structure is how we organize care, process is what we do, and outcomes are what we achieve”. SPO components as measures of quality have been, to some extent, validated to guide understandings about interactions within the model (Kobayashi et al. 2011, Tvedt et al. 2012). More importantly, Holzemer's model (1994) provides an additional organizing framework to the SPO model by distinguishing patterns between patients, nursing and the healthcare setting. In this analysis, the purpose of introducing the matrix was to map ‘uses of the concept’ as a precursor to determine attributes.
+
+Data sources
+Using ‘clinical indicators’ or ‘quality of nursing care’ as subject headings, and incorporating additional keywords ‘acute care’ and ‘nurs*’, literature searches were conducted in CINAHL and MEDLINE with full text within EBSCOhost databases. The keywords were incorporated to reflect the domain of the analysis and ensure the discipline focus of the study. As the term NSIs originated in 1996 (Maas & Delaney 2004), the searches were limited to English language journal articles published between 2000–2012 to reflect the development of NSIs history. The searches resulted in 179 journal articles. A hand search was conducted of the reference lists of these journal articles. After reviewing the abstracts of those articles, only primary research articles with a focus on using indicators in the acute care setting to measure quality dimensions of nursing care performance were selected. Primary research was selected because the use of the concept expressed as terms shows a level of maturity as the characteristics can be identified as indicators or variables. Journal articles that did not explicitly have this focus were excluded. To avoid repetitive information, we followed the method adopted by Baars et al. (2010). If multiple articles were written by the same author with a similar topic, only one article was included. Based on these criteria, the final sample of data sources for analysis comprised 38 journal articles. In this study, uses of the concept were operationalized as terms that denoted a nursing performance measurement that have an influence upon or are associated with an impact on quality.
+
+Results
+Definitions and surrogate terms
+In general, most authors who referred to NSIs (or related surrogate terms) in the selected data sources omitted a definition. Within selected data sources, Kunaviktikul et al. (2005) referred to the NSIs definition of the American Nurses Association (1996), which is noted as: ‘those indicators that capture care or its outcomes most affected by nursing care'. Albanese et al. (2010) provided two definitions, that of the American Nurses Association and the definition of the National Quality Forum (2004): “a nursing-sensitive performance measure as processes and outcomes – and structural proxies for these processes and outcomes (e.g. skill mix and nurse staffing hours) – that are affected, provided, and/or influenced by nursing personnel but for which nursing is not exclusively responsible”.
+
+Surrogate terms may express an alternative term for a concept that has similar meaning (Tofthagen & Fagerstrøm 2010). Our review of the data sources revealed several surrogate terms used to describe NSIs including: ‘outcome indicators/measurements’ (Ingersoll et al. 2000, Doran et al. 2006), ‘nursing performance quality indicators’, ‘indicators of quality’ (Aydin et al. 2004, Donaldson et al. 2005, Kunaviktikul et al. 2005, Pazargadi et al. 2008, Loan et al. 2011), ‘patient safety indicators’ (Thornlow 2009) and ‘outcomes potentially sensitive to nursing’ (Needleman et al. 2002, Duffield et al. 2011).
+
+Use of the concept
+Table 1 lists the categories, terms and frequency counts of terms and shows the pattern of usage in the identified categories and subcategories. All terms were included, even if the term was used only once in the selected data source.
+
+Table 1. The matrix of categories, subcategories and frequency of terms used in NSIs concept analysis.
+Subcategory	Term	Frequency	Citation
+Category: structural
+Patient-related	Patient characteristics	2	Ingersoll et al. (2000), Brown et al. (2010)
+Nursing-related	RN education level	5	Kerr (2000), Cline et al. (2003), Aydin et al. (2004), Patrician et al. (2010), Loan et al. (2011)
+Years of experience	3	Kerr (2000), Patrician et al. (2010), Loan et al. (2011)
+Setting-related	Hours of nursing care per patient day	15	Kerr (2000), Bolton et al. (2001), Jennings et al. (2001), Cline et al. (2003), Aydin et al. (2004), Dunton et al. (2004), Kunaviktikul et al. (2005), Sujijantararat et al. (2005), Kurtzman et al. (2008), Pazargadi et al. (2008), Brown et al. (2010), Mark and Harless (2010), Patrician et al. (2010), Furukawa et al. (2011), Loan et al. (2011)
+Nurse staffing (staff mix, skill mix and staff ratio)	14	Kerr (2000), Bolton et al. (2001), Jennings et al. (2001), Cline et al. (2003), Aydin et al. (2004), Dunton et al. (2004), Kunaviktikul et al. (2005), Sujijantararat et al. (2005), Kurtzman et al. (2008), Brown et al. (2010), Patrician et al. (2010), Furukawa et al. (2011), Loan et al. (2011), Kalisch et al. (2012)
+Patient acuity	2	Patrician et al. (2010), Loan et al. (2011)
+Patient turnover	2	Patrician et al. (2010), Loan et al. (2011)
+Workload intensity	2	Kerr (2000), Brown et al. (2010)
+Percentage of hours supplied by RNs	1	Furukawa et al. (2011)
+Organizational factors of the nursing practice environment	6	Cline et al. (2003), Kurtzman et al. (2008), Pazargadi et al. (2008), Smith and Jordan (2008), Patrician et al. (2010), Loan et al. (2011); Kurtzman et al. (2008), Pazargadi et al. (2008), Smith and Jordan (2008), Patrician et al. (2010), Loan et al. (2011); Ingersoll et al. (2000), Cline et al. (2003),Kurtzman et al. (2008), Smith and Jordan (2008), Patrician et al. (2010); Kurtzman et al. (2008), Pazargadi et al. (2008), Smith and Jordan (2008), Patrician et al. (2010), Loan et al. (2011)
+Support for nursing education	5
+Nurse manager ability, leadership and support	5
+Relationships with other practitioners
+
+Adequate facilities and budget for quality of care
+
+5
+Category: process
+Nursing-related	Nursing intervention/ nursing practice	7	Kerr (2000), Cline et al. (2003), Doran et al. (2006) DiMeglio et al. (2005), Murphy et al. (2008), Albanese et al. (2010), Chaboyer et al. (2010)
+Setting-related	Nursing documentation/nursing care plan	4	Ingersoll et al. (2000), Howe (2008), Pazargadi et al. (2008), Furukawa et al. (2011)
+Category: outcome
+Patient-related
+
+Safety
+
+Pressure ulcer	20	Bolton et al. (2001), Jennings et al. (2001), Meraviglia et al. (2002), Needleman et al. (2002), Aydin et al. (2004), Donaldson et al. (2005), Kunaviktikul et al. (2005), Howe (2008), Murphy et al. (2008), Pazargadi et al. (2008), Smith and Jordan (2008), Thornlow (2009), Brown et al. (2010), Chaboyer et al. (2010), Mark and Harless (2010), Patrician et al. (2010), Furukawa et al. (2011), Loan et al. (2011), Watret et al. (2011), Kalisch et al. (2012)
+Falls and falls with injury	18	Kerr (2000), Bolton et al. (2001), Jennings et al. (2001), Kenney (2001), Sochalski (2001), Aydin et al. (2004), Dunton et al. (2004), Donaldson et al. (2005), Kunaviktikul et al. (2005), Lee (2007), Nascimento et al. (2008), Smith and Jordan (2008), Albanese et al. (2010), Brown et al. (2010), Chaboyer et al. (2010), Patrician et al. (2010), Furukawa et al. (2011), Loan et al. (2011)
+Nosocomial selective infection	11	Kerr (2000), Jennings et al. (2001), Sochalski (2001), Duffy (2002), Needleman et al. (2002), Kunaviktikul et al. (2005), Lee (2007), Smith and Jordan (2008), Thornlow (2009), Albanese et al. (2010), Duffield et al. (2011)
+Nosocomial urinary tract infection	6	Needleman et al. (2002), Kunaviktikul et al. (2005), Sujijantararat et al. (2005), Albanese et al. (2010), Mark and Harless (2010), Duffield et al. (2011)
+Medication error	6	Kenney (2001), Sochalski (2001), Nascimento et al. (2008), Chaboyer et al. (2010), Patrician et al. (2010), Loan et al. (2011)
+Pneumonia	5	Needleman et al. (2002), Smith and Jordan (2008), Thornlow (2009), Mark and Harless (2010), Duffield et al. (2011)
+Vein system complication	5	Needleman et al. (2002), Nascimento et al. (2008), Pazargadi et al. (2008), Mark and Harless (2010), Duffield et al. (2011)
+Failure to rescue	4	Needleman et al. (2002), Kurtzman et al. (2008), Thornlow (2009), Duffield et al. (2011)
+Restraint	4	Aydin et al. (2004), Kurtzman et al. (2008), Patrician et al. (2010), Loan et al. (2011)
+Sepsis	4	Needleman et al. (2002), Thornlow (2009), Mark and Harless (2010), Duffield et al. (2011)
+Gastrointestinal bleeding	2	Needleman et al. (2002), Duffield et al. (2011)
+Shock	2	Needleman et al. (2002), Duffield et al. (2011)
+Patient-related
+
+Perception
+
+Patient/family satisfaction with nursing care	13	Ingersoll et al. (2000), Kerr (2000), Jennings et al. (2001), Kenney (2001), Cline et al. (2003), Aydin et al. (2004), Kunaviktikul et al. (2005), Sørlie et al. (2006), Lynn et al. (2007), Pazargadi et al. (2008), Albanese et al. (2010), Patrician et al. (2010), Loan et al. (2011)
+Patient/family satisfaction with pain management	5	Kerr (2000), Jennings et al. (2001), Kunaviktikul et al. (2005), Patrician et al. (2010), Loan et al. (2011)
+Patient-related
+
+Use of health care
+
+Length of stay	3	Ingersoll et al. (2000), Needleman et al. (2002), Albanese et al. (2010)
+Waiting time of nursing care	2	Pazargadi et al. (2008), Albanese et al. (2010)
+Unplanned hospital visits postdischarge	1	Ingersoll et al. (2000)
+Patient-related
+
+Functional status
+
+Vital signs status, self-care ability	3	Ingersoll et al. (2000), Doran et al. (2006), Lee (2007)
+Patient-related
+
+Clinical management
+
+Symptom resolution/reduction	1	Ingersoll et al. (2000)
+Nursing-related	Nursing satisfaction with job	8	Ingersoll et al. (2000), Kerr (2000), Jennings et al. (2001), Best and Thurston (2004), DiMeglio et al. (2005), Pazargadi et al. (2008), Patrician et al. (2010), Dunton et al. (2007)
+Safety of nursing job	3	Pazargadi et al. (2008), Patrician et al. (2010), Loan et al. (2011)
+Setting-related	Mortality	2	Needleman et al. (2002), Albanese et al. (2010)
+Nurse turnover	2	DiMeglio et al. (2005), Brown et al. (2010)
+Structural terms
+The structural terms identified included subcategory terms related to patients, nursing and setting. Patient-related structural terms were identified as ‘patient characteristic’. The term ‘patient characteristic’ generally refers to demographics such as the patients' gender, age and other variables such as duration of hospitalization, the type of ward, and the type of procedure undertaken.
+
+Nursing-related structural terms comprised Registered Nurses' (RNs) ‘education level’ and ‘years of experience’. Setting-related structural terms included ‘hours of nursing care per patient day’, ‘nurse staffing’, ‘patient acuity', patient turnover’, ‘workload intensity’, ‘percentage of hours supplied by RNs’, and ‘organizational factors of the nurse practice environment’ such as support for nursing education, nurse managers' ability related to leadership and support, relationships with other practitioners, and adequate facilities or budget for quality of care.
+
+Process terms
+Two subcategories were identified: nursing and setting. Nursing-related processes were denoted as ‘nursing intervention’ and/or ‘nursing practice’. A nursing intervention is described as any treatment based on a nurse's clinical judgment and knowledge that is applied to enhance patient outcomes (McCloskey & Bulechek 2000). A setting-related process term referred to ‘nursing documentation’ and ‘nursing care plan’.
+
+Outcome terms
+Three subcategories for outcome terms were identified. Terms for patient-related outcomes were the most frequent and were clustered according to a modified classification proposed by Jennings et al. (1999) and Doran (2011): safety, perception, use of health care, functional status and clinical management.
+
+Patient-related safety was generally operationalized as adverse occurrences, which included prevalence of ‘pressure ulcer’, ‘falls and falls with injury’, ‘nosocomial selective infection’, ‘nosocomial urinary tract infection’, ‘medication error’, ‘pneumonia’, ‘vein system complication’, ‘failure to rescue’, ‘restraint’, ‘sepsis’, ‘gastrointestinal bleeding’ and ‘shock’; Patient-related perception included ‘patient/family satisfaction with nursing care’ and ‘patient/family satisfaction with pain management’; Patient-related use of health care included ‘length of stay’, ‘waiting time of nursing care’ and ‘unplanned hospital visits postdischarge’; Patient-related functional status included ‘vital sign status and self-care ability’; Patient-related clinical management included ‘symptom resolution/reduction’. Nursing-related outcome terms identified included: ‘nursing satisfaction with job’ and ‘safety of nursing job’. Setting-related outcome terms included: ‘mortality’ and ‘nurse turnover’.
+
+Attributes
+Attributes of a concept are the characteristics most frequently associated with the concept, appear repeatedly in reference to it and are necessary for theory building (Walker & Avant 2005). As no standard has been widely accepted for defining empirically derived attributes, a provisional criterion is proposed in this paper in keeping with the atypical approaches to conduct a concept analysis. In this analysis, attributes were operationalized as the terms that were frequently cited. The measure of frequency was operationalized as use of a term ‘more than 10 times’.
+
+When this operation was applied, within the category ‘structural’, neither patient-related terms nor nursing-related terms had sufficient counts to meet the criterion, while ‘hours of nursing care per patient day’ (15) and ‘nurse staffing’ (14) remained in the setting-related subcategory. With regard to terms identified in the category ‘process’, none had sufficient counts. In the category ‘outcome’, only a limited number of patient-related terms reached the cut-off point. They included safety-related terms and included prevalence of ‘pressure ulcer’ (20), ‘falls and falls with injury’ (18), ‘nosocomial selective infection’ (11) and perception-related ‘patient/family satisfaction with nursing care’ (13). Interestingly, none of the terms identified in the nursing- or setting-related outcome indicators reached the cut-off point. These results are set out in Table 2.
+
+Table 2. Attributes identified via the concept analysisa.
+Structural attributes
+Setting-related	Hours of nursing care per patient day (15)
+Nurse staffing (staff mix, skill mix and staff ratio) (14)
+Process attributes (Nil)
+Outcome attributes
+Patient-related	Safety
+Pressure ulcer (20)
+Falls and falls with injury (18)
+Nosocomial selective infection (11)
+Perception
+Patient/family satisfaction with nursing care (13)
+a Cut-off point remains at 10.
+Antecedents and consequences
+Antecedents are events or incidents that must occur prior to the occurrence of the concept, while consequences reflect the events that occur as a result of utilization of the concept in practice (Walker & Avant 2005). The genesis of the concept of NSIs has its basis in the historical features of organizational change in health care in the United States of America (USA). In response to the significant rise of healthcare expenses as a percentage of gross domestic product (GDP), a model of managed competition was introduced to form the basis of the Clinton administration's healthcare reform plan during the 1990s (Costello 1995, Baldor 1996).
+
+In reality, the implementation of the model in the competitive US healthcare environment became the driving force for the need to improve patient safety and contain costs. Outcome indicators, in general, were necessary to standardize measurements for internal and external comparisons. Hence, these organizational reconfigurations provided the impetus for the need to identify, develop and assess measures to support nursing practice enhancements and performance strategies. Indeed, it was in the US that the concept of NSIs was first coined in 1996 (Harrington 2009).
+
+The consequences of the concept of NSIs has meant that the development of NSIs as standardized nursing data elements remains a critical and expanding area of research. Without nursing standardized data elements, researchers must rely on proxy measures to establish associations between nursing practice and workplace enhancements and their effects on patient outcomes. As discussed by Kurtzman and Corrigan (2007, p. 25), consensus standards on data elements have additional benefits as they are:
+‘…intended for use by the public and other health care stakeholders to evaluate the extent to which and ways in which nurses in acute care hospitals contribute to patient safety, health care quality, and a professional work environment’.
+
+Development of the concept of NSIs has meant that significant steps in nursing research have supported associations, whether conclusive or not, between setting-related structural terms such as staffing and patient-related outcomes such as pressure ulcer. NSIs have been used to build robust nursing-sensitive databases that incorporate executive and clinical reporting information systems (Donaldson et al. 2005, Aydin et al. 2008). A consequence of the application and use of standardized NSIs is improved patient safety and workforce planning through enhanced knowledge that can specifically support decision-making (Aydin et al. 2004). In the USA, the development of the NSIs has incorporated the use of common nursing data definitions and collection methodologies that has enabled nursing data to be compared across units, hospital regions and states (Pazargadi et al. 2008, Brown et al. 2010). This has led to public reporting of quality indicators likely to inform consumers' hospitals choices, but also may assist busines-ses and insurers with their purchasing and reimbursement decisions.
+
+Discussion
+This analysis is positioned within quality dimensions of nursing care performance in the acute care setting where important relationships between the SPO model of Donabedian (1984) and other nursing models or frameworks are recognized (Needleman et al. 2007, Dubois et al. 2013). This Holzemer model-guided concept analysis has provided a synthesis of relevant primary research and has since revealed a helpful set of attributes. The defining attributes are not all-encompassing; rather this paper intends to offer a modest contribution to nursing science where the attributes determined are measurable, observable or verifiable components of the concept.
+
+Omission of process attributes
+While the literature shows that refinements to the use and application of standardized nursing process measures have been the subject of recent research based on the SPO model (Endacott et al. 2009, Jeffs et al. 2012), of note in the findings of this study was the omission of defining process attributes. Needleman et al. (2007) described nursing process measures as obscure. Nursing process measures have been proven to be very difficult to manage in primary research. Reviews conducted by Burnes et al. (2007) and Savitz et al. (2010) found little evidence of research activity that measured the pairing of nursing process indicators and outcome indicators.
+
+Confinement to the structural domain
+Most of the attributes identified in this concept analysis were confined to the structural domain. One possible explanation may be that structural indicators are readily obtainable from hospital administrative databases, which support their frequent use as data sources. As shown in a systematic review by Pearson et al. (2006), the breadth of empirical studies has a tendency towards the use of structural nurse staffing indicators. Hearld et al. (2008) concurred that structural indicators appeared to be overused and in their review of 58 studies they found a preponderance (63%) of structure-outcome pairings. Needleman et al. (2007) also highlighted the need for refined research processes to verify structural and outcome associations as conclusions are not always consistent. For example, a Belgian study exploring the associations between nurse staffing and selected patient outcomes at the hospital level did not confirm North American findings that acute care hospitals with the most (or best trained) nursing staff have better patient outcomes than those with less (or worst trained) nursing staff (Van den Heede et al. 2008). Certainly, the evidence is conclusive that the collection of NSIs for translation in practice remains inherently appealing; nevertheless, there is a need for larger studies and cross-site comparisons to test associations using existing frameworks (Clarke & Aiken 2008, Aiken et al. 2009).
+
+Implications for nursing knowledge development and theory building
+Holzemer's (1994) matrix was used to structure and show a pattern of use of terms as a precursor to determine attributes; future research to inform quality dimensions of nursing care performance should continue to cement understandings of interactions across SPO components with designs that specify and connect conceptual, theoretical and empirical study components, so that theoretical knowledge development may advance at a faster pace. As recommended by Doran et al. (2002) and Ausserhofer et al. (2013), nursing research based on the SPO framework must consider methodological approaches that ensure adequate control of potentially confounding variables.
+
+Implications for healthcare systems and nursing service improvement
+The concept of NSIs has far-reaching implications for informing national health policies and, in particular, policies related to an array of information system development associated with administrative activity, clinical activity, clinical management and business management including costing. It is known that data and information on performance are often tied, or inherently built into, administrative systems to support activity-based funding schemes where the data are used for hospital quality improvement initiatives (McNair et al. 2009, Duckett 2012). Yet nursing-sensitive hospital data remain, to some extent, invisible within information systems, even when policy efforts have been directed to link quality and payment (Kavanagh et al. 2012).
+
+The published literature concerning the safety and quality of health care attests that undesirable clinical behaviours persist without recourse to some sort of intervention (Doran et al. 2006, Van Herck et al. 2010, Nicholas et al. 2011). It has been established that meaningful quality monitoring information motivates health professionals to change practice and improve the quality and safety of clinical care if incentives are passed down to the service (Ryan 2009, Jha et al. 2012). Hence, the delivery of performance-based incentives directly to health professionals including nurses has received growing support on national quality and safety policy agendas (Eagar et al. 2012, Beck et al. 2013). Still, studies suggest that nurses, one of the largest groups of health professionals in acute care providing vital service at the bedside, are not particularly engaged with quality monitoring activities due to the lack of meaningful data reported to them at the service level (Burhans & Alligood 2010, Cline et al. 2011).
+
+To strengthen the use and application of relevant nursing data in information systems for improving quality dimensions of nursing care performance, a concerted effort is required to build mutual understanding on the language and phenomena of interest to its discipline and the refinement of conceptual terms including their attributes, properties and dimensions. NSIs must be underpinned by efforts to develop common data standards and information system terminology, which are interoperable within national healthcare data systems. Attributes of NSIs have potential to interface and feature as performance measures within clinical quality information systems.
+
+Study limitations
+This concept analysis was limited to primary research data sources based upon a specified search strategy. Due to the evolving nature of the science on the topic of NSIs, the frequent use of surrogate terms and the limitations of database searching strategies, some relevant data sources may have been excluded. Nevertheless, all reference lists in selected articles were reviewed with an attempt to mitigate this limitation.
+
+Risjord's (2009) commentary on concept analysis has sought to strengthen its epistemological foundations as he argued that empirical justification should not be compromised. Risjord (2009) emphasizes that ‘gaps’ between ‘evidence and results’ are frequent in journal articles using concept analysis methodology, and that such gaps should be avoided to fulfil a complete understanding of the concept. With an attempt to minimize the limitations in previous concept analysis studies, as noted by Risjord (2009), this concept analysis was predominately based upon data sources from primary research. However, no specific evaluative criteria were applied when choosing the primary research articles; this may have affected the validity of this analysis. Commonly known traditional methods including those of Walker and Avant (2005) provide little direction on how empirically derived attributes can be justified (Penrod & Hupcey 2005, Risjord 2009). As there has been no concrete guidance available in the literature to support validation processes for the use and operationalization of empirical measurements to determine attributes in concept analysis, a cut-off point was introduced to establish a measure of frequency based on supporting empirical evidence. Given that only a small number of attributes were revealed by the use of the cut-off point, not only does this suggest that the concept of NSIs is immature but also implies that the cut-off point itself presents as a limitation.
+
+Considering that the science of nursing quality and performance is not static or concrete, but dynamic and evolving, the attributes determined in this concept analysis, although more definitive than descriptive, are open to further review, interpretation and verification. In general, this concept analysis remains largely a theoretical illustration to show where uses of the concept are embedded in evidence. These few structural and outcome attributes are offered as the most prevalent characteristics of the concept, given their frequent use in primary research.
+
+Conclusion
+This paper provides an analysis of the concept of NSIs where the need to develop a clear concept becomes ever more apparent on two key fronts: theory building for nursing science in acute care and informing the development of quality dimensions of healthcare information systems.
+
+A theory comprises concepts, definitions and propositions. A theory with clarified concepts ensures understanding of the theory itself, as well as the relationships among the concepts within the theory. Inroads have been made to progress understandings of the science of nursing quality and performance measurement (Needleman et al. 2007, Dubois et al. 2013). A key finding of this concept analysis is the attributes identified, which may be justified at least to some extent by the evidence used to support their determination.
+
+The insufficient use and application of nursing process measures is another key finding of this study; hence, a concerted effort must now ensue for their development, refinement and standardization. Donabedian (2005) considered the most direct approach to assess quality of care is an examination of the process of care itself. Doran et al. (2006) noted that nursing process measures are, in the main, poorly conceptualized as standard measurements.
+
+Doran (formerly known as Irvine) went on to use elements stemming from the SPO model to develop the Nursing Role Effectiveness Model (NREM) to support nursing-related quality improvement and clinical evaluation (Irvine et al. 1998). The NREM elaborates three distinct nursing role typologies in its process domain. It has been used to help understand and generate nursing process measures inherent to different nursing role requirements (Manojlovich 2005, Endacott et al. 2009, White et al. 2013). Other examples of clinical utilization of NREM include assessing the effectiveness of nursing interventions on patient outcomes in a general nursing setting (Morris et al. 2014); and gaining better understandings of how Registered Nurses' role components have an impact on specific activities and health outcomes (Rondinelli et al. 2014). The NREM may offer supplementary structure and depth to the ‘P’ domain, and is recommended for future modelling of nursing process measures.
+
+Nurses provide many services in acute care where NSIs have emerged as a substantive but partially immature concept. Often nursing services are neither properly understood by health service officials at many levels, nor appropriately communicated to them. Development of the concept of NSIs may illuminate the nature of nursing services and support nurses' engagement with quality monitoring and reporting. With ongoing support from primary research, further refinement of this concept may also enhance theoretical knowledge that supports connections between clinical processes and the development of health information systems.
+
+Acknowledgements
+We thank Xiaoquan Xu, a doctoral candidate from the College of Health and Biomedicine, Victoria University, Melbourne, Australia, for her assistance with data collection and for providing comments.
+
+Funding
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Conflict of interest
+No conflict of interest has been declared by the authors.
+
+Author contributions
+All authors have agreed on the final version and meet at least one of the following criteria [recommended by the ICMJE (http://www.icmje.org/ethical_1author.html)]:
+substantial contributions to conception and design, acquisition of data, or analysis and interpretation of data;
+drafting the article or revising it critically for important intellectual content.

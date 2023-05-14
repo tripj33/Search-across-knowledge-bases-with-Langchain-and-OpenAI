@@ -19,7 +19,7 @@ const uploadAllDocumentsLocally = async (
       const vectorStore = await HNSWLib.fromDocuments(
         documents,
         new OpenAIEmbeddings({
-          openAIApiKey: "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", // In Node.js defaults to process.env.OPENAI_API_KEY
+          openAIApiKey: "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", // In Node.js defaults to process.env.OPENAI_API_KEY
         })
       );
       console.log("test2")

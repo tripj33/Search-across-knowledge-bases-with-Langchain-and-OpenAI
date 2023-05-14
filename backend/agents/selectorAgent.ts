@@ -75,12 +75,7 @@ const constructSystemPrompt = (): string => {
       };
     });
 
-  const systemPrompt = `You are a selection agent that determines the relevance of knowledge bases to a given question.
-
-You will be given a list of knowledge bases, each with a unique namespace and a short description of the type of information they contain.
-
-For each question, you will select the relevant knowledge bases based on the keywords, entities, or other relevant criteria. You will then return a list of namespaces that you think are relevant to the question. If you think none of the knowledge bases are relevant, you will return an empty list.
-
+  const systemPrompt = `Select the relevant knowledge bases to search for an answer to the refined question. Please provide a ranked list of the top 3 most relevant knowledge bases.
 Here are the relevant knowledge bases:
 
 Knowledge Bases:

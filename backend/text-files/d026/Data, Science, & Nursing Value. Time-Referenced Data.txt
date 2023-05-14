@@ -1,0 +1,171 @@
+150 NURSING ECONOMIC$/May-June 2017/Vol. 35/No. 3
+I
+T SEEMS WE NEVER have
+enough time yet time waits
+for no one. This play on
+words introduces a set of
+data tied to, well, time. Consider
+the many things nurses do: take a
+set of vital signs at 8:00 a.m., give
+a medication at 9:00 a.m., or get a
+patient ready for a procedure at
+noon. We count things that happen between two time points
+such as the assignment of nurses
+to a number of patients in a 12-hour shift. Time and
+date stamps form an essential part of our data architecture in the electronic health record (EHR).
+Data that are clinically relevant have a unique
+patient identifier. This links EHR data to someone
+under the care of nurses and other healthcare
+providers. Nursing-collected data also have a unique
+nurse identifier attached (e.g., the nurse who recorded
+a set of vital signs or administered a medication).
+Linking nurses to patients allows for evaluation of
+care provided by individual and groups of nurses
+over time. This set of data forms the basis for many if
+not most clinically and operationally relevant analysis to identify events, compare two or more data
+points, monitor the sequence of events, count the
+number of events between time points, or identify the
+variability and trajectory of events over time (see
+Table 1).
+Comparing Data Over Time
+A time-referenced state variable shows the value
+of a clinically meaningful event such as a blood pressure or serum blood sugar for a patient at a particular
+time and date against some expected or normal value.
+A comparison can be made between events (e.g., a
+heart rate of 120 at 0900 is higher than a heart rate of
+86 at 0600). Time-referenced sequence data compares
+data points over time. For example, an intravenous
+antibiotic scheduled every 12 hours can vary by actual administration by 1-2 hours or more and potentially affect effectiveness or toxicity of a drug.
+The number of events within two time points can
+be calculated (e.g., how often nurses manage patient
+pain through serial assessments). If the unit practice
+requires assessments every 4 hours and reassessment
+after a PRN analgesic is given, the number and variance of these assessments can be calculated. With
+patient and nurse unique identifiers, several new
+analyses are possible. Patient-level data can be used
+to analyze how often pain was assessed by each nurse
+and associated with patient satisfaction scores. The
+types of nurses can be evaluated (e.g., how well do
+inexperienced or float nurses perform compared to
+other nurses?). This raises the question of “big brother” watching (Welton, 2016). However, using timereferenced data linked to nurses and patients can provide a useful and powerful tool to identify patterns
+and trends that are clinically and operationally relevant and may provide actionable information that can
+optimize nursing care delivery systems.
+One other interesting aspect of using time-referenced data is the link between events and a patient’s
+clinical course (see Table 2). One example is the relationship between monitoring a patient’s blood glucose level and insulin administration. If blood sampling is delayed, there could be a higher incidence of
+hyperglycemia. Several key clinical or operational
+indicators could be combined to take a snapshot of a
+unit. Examples include the number of patients with
+elevated body temperature, overall delays in medication administration, how often patients are ambulated
+after surgery, etc., as potential indicators of high nursing workload and missed nursing care (Kalisch & Xie,
+2014).
+Time-Referenced Data
+EXECUTIVE SUMMARY
+ A time-referenced state variable shows the value of a
+clinically meaningful event for a patient at a particular
+time and date against some expected or normal
+value.
+ Time-referenced data can provide new insights into
+patterns, trends, and clusters of events directly from
+the data collected and used by nurses in providing
+health care.
+ The direct link between nurses and patients using
+unique identifiers for both can provide clinically and
+operationally meaningful information and details over
+different time horizons.
+JOHN M. WELTON, PhD, RN, FAAN, is Professor and Senior
+Scientist, Health Systems Research, University of Colorado College
+of Nursing, Aurora, CO; and Nursing Economic$ Editorial Board
+Member.
+CATHY KLEINER, PhD, RN, is Research Scientist, Nursing
+Outcomes, Research, and Evidence-Based Practice, Denver Health
+Hospital Authority, Denver, CO.
+BONNIE ADRIAN, PhD, RN, is Research Nurse Scientist,
+UCHealth, Aurora, CO.
+John M. Welton
+Cathy Kleiner
+Bonnie Adrian
+John M. Welton
+Data, Science, & Nursing Value
+NURSING ECONOMIC$/May-June 2017/Vol. 35/No. 3 151
+Practice Applications
+How can these data be used in practice? The link
+established between nurses collecting data and an
+individual patient provides a basis for examining a
+nursing encounter or the interaction between one or
+more nurses and patients over time. Aggregate data
+sampled over different time frames can provide a way
+to identify changes in unit or hospital performance.
+Altogether, time-referenced data can provide new
+insights into patterns, trends, and clusters of events
+directly from the data collected and used by nurses in
+providing health care. The direct link between nurses
+and patients using unique identifiers for both can provide clinically and operationally meaningful information and details over different time horizons than has
+been possible to date. $
+REFERENCES
+Kalisch, B.J., & Xie, B. (2014). Errors of omission: Missed nursing
+care. Western Journal of Nursing Research, 36(7), 875-890.
+Kane, R.L., Shamliyan, T.A., Mueller, C., Duval, S., & Wilt, T.J.
+(2007). The association of registered nurse staffing levels and
+patient outcomes: Systematic review and meta-analysis.
+Medical Care, 45(12), 1195-1204.
+Welton, J.M. (2016). Nurses and the ethics of big data. Nursing
+Economic$, 34(5), 257.
+Table 1.
+Time-Referenced Healthcare Data
+Time-Relevant Data Definition Examples
+State Actual time of a clinically or operationally
+relevant event
+• Oral temperature
+• Spot blood glucose level
+Comparison Comparison in time difference between one
+event and another
+• Systolic blood pressure decreases from 110
+to 70 mmHg over 2-hour period
+Sequence Measurement of time difference between one
+time-based event to the next in a sequence of
+events
+• Antibiotic dose to dose time intervals
+Event clusters Number of events between two time points • Number of pain assessments between 0600-
+1200, practice norm, at least one pain
+assessment every 4 hours
+Variability Degree of variance in some measure between
+time units can be compared with degree of
+variance that is expected to identify higher-than
+or lower-than-expected time variability.
+• Variance in nurse staffing levels shift by shift
+unrelated to patient care needs (may reflect
+organizational instability)
+• Variance in vital signs, blood glucose levels,
+etc. (may reflect clinical instability)
+Table 2.
+Clinical Performance Exemplars
+Clinical Exemplar Description Potential Clinical Outcome
+Medication
+administration
+Performance of administering medications on
+time
+Delays or omissions, toxicity or ineffective
+dosing
+Pain management Use of time stamps to evaluate how often pain
+was assessed, pharmacologic use (e.g.,
+variation in use of opioids by nurses, units, etc.)
+Poor pain control, overuse of opioid analgesics,
+and inconsistent administration of opioid and
+non-opioid analgesics
+Glycemic control Frequency of fingerstick blood sugar testing
+(surveillance)
+Hyper or hypoglycemia
+Anticoagulants On-time administration and incidence of late or
+omitted doses
+Occurrence of deep vein thrombi or pulmonary
+embolism
+Nurse-patient
+assignment
+Workload, shift level variation, and association
+with outcomes such as falls, infections, etc.
+Infections, falls, pressure ulcers, etc.
+(Kane, Shamliyan, Mueller, Duval, & Wilt, 2007)
+Copyright of Nursing Economic$ is the property of Jannetti Publications, Inc. and its content
+may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for
+individual use.
